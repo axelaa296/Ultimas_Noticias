@@ -36,24 +36,24 @@
                 "titulo" : "Noticia Nacional 1",
                 "fecha" : "23/10/2023",
                 "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://ibb.co/qF4rd7YB"
+                "imagen" : ""
             },
             {
                 "titulo" : "Noticia Nacional 2",
                 "fecha" : "14/09/2025",
                 "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://ibb.co/qF4rd7YB"
+                "imagen" : ""
             },{
                 "titulo" : "Noticia Nacional 3",
                 "fecha" : "11/03/2014",
                 "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://ibb.co/qF4rd7YB"
+                "imagen" : ""
             },
             {
                 "titulo" : "Noticia Nacional 4",
                 "fecha" : "28/02/2023",
                 "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://ibb.co/qF4rd7YB"
+                "imagen" : ""
             }
         ]
     },
@@ -65,24 +65,24 @@
                 "titulo" : "Noticia Local 1",
                 "fecha" : "23/10/2023",
                 "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://ibb.co/qF4rd7YB"
+                "imagen" : ""
             },
             {
                 "titulo" : "Noticia Local 2",
                 "fecha" : "14/09/2025",
                 "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://ibb.co/qF4rd7YB"
+                "imagen" : ""
             },{
                 "titulo" : "Noticia Local 3",
                 "fecha" : "11/03/2014",
                 "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://ibb.co/qF4rd7YB"
+                "imagen" : ""
             },
             {
                 "titulo" : "Noticia Local 4",
                 "fecha" : "28/02/2023",
                 "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://ibb.co/qF4rd7YB"
+                "imagen" : ""
             }
         ]
     },
@@ -94,24 +94,24 @@
                 "titulo" : "Noticia Deportiva 1",
                 "fecha" : "23/10/2023",
                 "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://ibb.co/qF4rd7YB"
+                "imagen" : ""
             },
             {
                 "titulo" : "Noticia Deportiva 2",
                 "fecha" : "14/09/2025",
                 "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://ibb.co/qF4rd7YB"
+                "imagen" : ""
             },{
                 "titulo" : "Noticia Deportiva 3",
                 "fecha" : "11/03/2014",
                 "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://ibb.co/qF4rd7YB"
+                "imagen" : ""
             },
             {
                 "titulo" : "Noticia Deportiva 4",
                 "fecha" : "28/02/2023",
                 "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://ibb.co/qF4rd7YB"
+                "imagen" : ""
             }
         ]
     }
