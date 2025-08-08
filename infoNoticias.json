@@ -6,24 +6,24 @@
             {
                 "titulo" : "Noticia Internacional 1",
                 "fecha" : "2025-12-10",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://i.ibb.co/2YLkyW3q/web6-6-768x512.webp"
             },
             {
                 "titulo" : "Noticia Internacional 2",
                 "fecha" : "2025-12-01",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://i.ibb.co/2YLkyW3q/web6-6-768x512.webp"
             },{
                 "titulo" : "Noticia Internacional 3",
                 "fecha" : "2025-12-24",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://i.ibb.co/2YLkyW3q/web6-6-768x512.webp"
             },
             {
                 "titulo" : "Noticia Internacional 4",
                 "fecha" : "2025-12-19",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://i.ibb.co/2YLkyW3q/web6-6-768x512.webp"
             }
         ]
@@ -35,24 +35,24 @@
             {
                 "titulo" : "Noticia Nacional 1",
                 "fecha" : "23/10/2023",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://ibb.co/qF4rd7YB"
             },
             {
                 "titulo" : "Noticia Nacional 2",
                 "fecha" : "14/09/2025",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://ibb.co/qF4rd7YB"
             },{
                 "titulo" : "Noticia Nacional 3",
                 "fecha" : "11/03/2014",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://ibb.co/qF4rd7YB"
             },
             {
                 "titulo" : "Noticia Nacional 4",
                 "fecha" : "28/02/2023",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://ibb.co/qF4rd7YB"
             }
         ]
@@ -64,24 +64,24 @@
             {
                 "titulo" : "Noticia Local 1",
                 "fecha" : "23/10/2023",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://ibb.co/qF4rd7YB"
             },
             {
                 "titulo" : "Noticia Local 2",
                 "fecha" : "14/09/2025",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://ibb.co/qF4rd7YB"
             },{
                 "titulo" : "Noticia Local 3",
                 "fecha" : "11/03/2014",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://ibb.co/qF4rd7YB"
             },
             {
                 "titulo" : "Noticia Local 4",
                 "fecha" : "28/02/2023",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://ibb.co/qF4rd7YB"
             }
         ]
@@ -93,24 +93,24 @@
             {
                 "titulo" : "Noticia Deportiva 1",
                 "fecha" : "23/10/2023",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://ibb.co/qF4rd7YB"
             },
             {
                 "titulo" : "Noticia Deportiva 2",
                 "fecha" : "14/09/2025",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://ibb.co/qF4rd7YB"
             },{
                 "titulo" : "Noticia Deportiva 3",
                 "fecha" : "11/03/2014",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://ibb.co/qF4rd7YB"
             },
             {
                 "titulo" : "Noticia Deportiva 4",
                 "fecha" : "28/02/2023",
-                "descripción" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
                 "imagen" : "https://ibb.co/qF4rd7YB"
             }
         ]
