@@ -1,6 +1,6 @@
 [
     {
-        "dia": "Lunes",
+        "dia": "lunes",
         "programas": [
             {
                 "horainicio": "00:00",
@@ -194,7 +194,7 @@
         ]
     },
     {
-        "dia": "Martes",
+        "dia": "martes",
         "programas": [
             {
                 "horainicio": "00:00",
@@ -374,7 +374,7 @@
         ]
     },
     {
-        "dia": "Miércoles",
+        "dia": "miercoles",
         "programas": [
             {
                 "horainicio": "00:00",
@@ -540,7 +540,7 @@
         ]
     },
     {
-        "dia": "Jueves",
+        "dia": "jueves",
         "programas": [
             {
                 "horainicio": "00:00",
@@ -727,7 +727,7 @@
         ]
     },
     {
-        "dia": "Viernes",
+        "dia": "viernes",
         "programas":[
             {
                 "horainicio": "00:00",
@@ -900,7 +900,7 @@
         ]
     },
     {
-        "dia": "Sabado",
+        "dia": "sabado",
         "programas": [
             {
                 "horainicio": "00:00",
@@ -1122,7 +1122,7 @@
         ]
     },
     {
-        "dia": "Domingo",
+        "dia": "domingo",
         "programas": [
             {
                 "horainicio": "00:00",
