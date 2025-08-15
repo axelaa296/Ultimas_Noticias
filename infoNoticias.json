@@ -62,10 +62,10 @@
         "nombre" : "Noticias Locales",
         "content":[
             {
-                "titulo" : "Noticia Local 1",
-                "fecha" : "23/10/2023",
-                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : ""
+                "titulo" : "ALERTA EN HIDALGO POR AUMENTO DE BEBÉS CON BAJO PESO AL NACER",
+                "fecha" : "15/08/2025",
+                "descripcion" : "La Secretaría de Salud de Hidalgo reveló que, de acuerdo con datos de la Universidad Autónoma del Estado de Hidalgo, la proporción de recién nacidos con bajo peso pasó de 5.9% en 2017 a 7.4% actualmente 📈, un incremento que preocupa a especialistas por el riesgo que implica para la salud y el desarrollo de los menores.",
+                "imagen" : "https://i.ibb.co/Y7702nzh/1.jpg"
             },
             {
                 "titulo" : "Noticia Local 2",
