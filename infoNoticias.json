@@ -4,27 +4,27 @@
         "nombre" : "Noticias Internacionales",
         "content":[
             {
-                "titulo" : "Noticia Internacional 1",
-                "fecha" : "2025-12-10",
-                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://i.ibb.co/2YLkyW3q/web6-6-768x512.webp"
+                "titulo" : "Acuerdan México y Guatemala caminar juntos en defensa de la soberanía y seguridad fronteriza",
+                "fecha" : "2025-08-15",
+                "descripcion" : "La presidenta de México, Claudia Sheinbaum se reunió hoy con su homólogo de Guatemala, Bernardo Arévalo, en un encuentro en el Petén, donde coincidieron en que ambas naciones caminarán juntas en defensa de su soberanía y acordaron fortalecer la seguridad fronteriza, a fin de hacer frente a la amenaza de la delincuencia organizada, así como mantener la cooperación en materia de migración y desarrollo.",
+                "imagen" : "https://i.ibb.co/Ndp1w5tH/14.webp"
             },
             {
-                "titulo" : "Noticia Internacional 2",
-                "fecha" : "2025-12-01",
-                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://i.ibb.co/2YLkyW3q/web6-6-768x512.webp"
+                "titulo" : "Reunión entre Trump y Putin en Alaska durará entre 6 y 7 horas, anticipa el Kremlin",
+                "fecha" : "2025-08-15",
+                "descripcion" : "El Kremlin considera factible una, de momento, hipotética cumbre entre los presidentes de Rusia y Ucrania, Vladimir Putin y Volodimir Zelenski, si la reunión de máximo nivel que está a punto de comenzar en Alaska (EU) entre el mandatario ruso y su homólogo estadounidense, Donald Trump, arroja un resultado satisfactorio para Moscú.",
+                "imagen" : "https://i.ibb.co/ycbYKYp3/15.webp"
             },{
-                "titulo" : "Noticia Internacional 3",
-                "fecha" : "2025-12-24",
-                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://i.ibb.co/2YLkyW3q/web6-6-768x512.webp"
+                "titulo" : "Despliega EU 4 mil soldados en aguas de AL para combatir narcotráfico",
+                "fecha" : "2025-08-15",
+                "descripcion" : "El ejército de Estados unidos está desplegando más de 4 mil marines en las aguas alrededor de América Latina y el Caribe como parte de un esfuerzo intensificado para combatir los cárteles de la droga en una “dramática demostración de fuerza que le dará al presidente una amplia gama de opciones militares” para atacar a los cárteles de la droga, informaron dos funcionarios de defensa estadunidenses al medio CNN.",
+                "imagen" : "https://i.ibb.co/W47ZYNq6/16.webp"
             },
             {
-                "titulo" : "Noticia Internacional 4",
-                "fecha" : "2025-12-19",
-                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : "https://i.ibb.co/2YLkyW3q/web6-6-768x512.webp"
+                "titulo" : "Tiroteo en mezquita en el sur de Suecia deja un muerto y un herido",
+                "fecha" : "2025-08-15",
+                "descripcion" : "Una persona murió y otra resultó herida el viernes en un tiroteo cerca de una mezquita en la ciudad de Orebro, en el sur de Suecia, que estaría relacionado con rivalidades entre bandas criminales organizadas, según la policía.",
+                "imagen" : "https://i.ibb.co/JRxdMkcC/17.webp"
             }
         ]
     },
@@ -39,21 +39,21 @@
                 "imagen" : "https://i.ibb.co/Ngj3PvGv/6.webp"
             },
             {
-                "titulo" : "Noticia Nacional 2",
-                "fecha" : "14/09/2025",
-                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : ""
+                "titulo" : "Tren Maya 'va muy bien'; ha transportado 1 millón 504 mil 319 pasajeros: CSP",
+                "fecha" : "2025-08-15",
+                "descripcion" : "El Tren Maya, desde el inicio de sus operaciones, ha transportado a más de un millón y medio de personas, por lo que “va muy bien” y se están haciendo esfuerzos de promoción para que haya más visitantes, indicó la presidenta Claudia Sheinbaum Pardo. En la Base Aeronaval de Chetumal, donde hoy se realizó su conferencia de prensa matutina, la mandataria informó que “al 11 de agosto, el número de pasajeros del Tren Maya, desde que empezó a operar, es de un millón 504 mil 319, y cada vez es mayor”.",
+                "imagen" : "https://i.ibb.co/zW7hPprB/11.webp"
             },{
-                "titulo" : "Noticia Nacional 3",
-                "fecha" : "11/03/2014",
-                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : ""
+                "titulo" : "Sin acceso a seguridad social, dos de cada tres personas ocupadas",
+                "fecha" : "2015-08-15",
+                "descripcion" : "Dos de cada tres personas ocupadas en México en 2024 no contaron con seguridad social, evidenciaron los resultados de la pobreza multidimensional que dio a conocer el Instituto Nacional de Estadística y Geografía (Inegi). El instituto estimó que había 38.4 millones de personas ocupadas el año pasado sin acceso directo a la seguridad social; es decir, que no contó con acceso a ésta por medio de la prestación laboral o contratación voluntaria.",
+                "imagen" : "https://i.ibb.co/ympDWcHW/12.webp"
             },
             {
-                "titulo" : "Noticia Nacional 4",
-                "fecha" : "28/02/2023",
-                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : ""
+                "titulo" : "Aseguran en AIFA cargamento de fentanilo y en Mexicali 330 kilos de cocaína",
+                "fecha" : "2025-08-15",
+                "descripcion" : "Elementos de la Guardia Nacional y del Ejército Mexicano aseguraron en dos operativos un cargamento de fentanilo que estaba oculto en rollos de polietileno y 330 kilos de cocaína que estaban ocultos en un camión de carga",
+                "imagen" : "https://i.ibb.co/LdZV5RnW/13.webp"
             }
         ]
     },
