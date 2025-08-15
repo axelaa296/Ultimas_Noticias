@@ -33,10 +33,10 @@
         "nombre" : "Noticias Nacionales",
         "content":[
             {
-                "titulo" : "Noticia Nacional 1",
-                "fecha" : "23/10/2023",
-                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : ""
+                "titulo" : "Aprueba Congreso CDMX Ley para sancionar abusos de 'franeleros'",
+                "fecha" : "2025-08-15",
+                "descripcion" : "Con mayoría de 53 votos, el pleno del Congreso de la Ciudad de México aprobó la reforma a la Ley de Justicia Cívica que establece infracciones especiales contra el uso indebido del espacio y la vía pública para sancionar abusos de los llamados franeleros y prevenir posibles actos delictivos.",
+                "imagen" : "https://i.ibb.co/Ngj3PvGv/6.webp"
             },
             {
                 "titulo" : "Noticia Nacional 2",
@@ -91,27 +91,27 @@
         "nombre" : "Deportes",
         "content":[
             {
-                "titulo" : "Noticia Deportiva 1",
-                "fecha" : "23/10/2023",
-                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : ""
+                "titulo" : "Pedalistas mexicanos Fernando Nava y Marcelo Garza, plata en Panamericanos Junior",
+                "fecha" : "2025-08-15",
+                "descripcion" : "Los mexicanos Fernando Nava y Marcelo Garza aumentaron la cosecha de medallas de la delegación tricolor en los Juegos Panamericanos Junior Asunción 2025, que se celebran en Paraguay, al conquistar este viernes la presea de plata en la prueba madison varonil de ciclismo de pista.",
+                "imagen" : "https://i.ibb.co/WWd0bY4X/7.webp"
             },
             {
-                "titulo" : "Noticia Deportiva 2",
-                "fecha" : "14/09/2025",
-                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : ""
+                "titulo" : "Sabalenka, eliminada en cuartos de final en Cincinnati",
+                "fecha" : "2025-08-15",
+                "descripcion" : "La tenista bielorrusa Aryna Sabalenka, número uno mundial, fue eliminada este viernes en los cuartos de final del torneo WTA 1000 de Cincinnati a manos de la kazaja Elena Rybakina. Sabalenka se despidió de la defensa del título con una actuación inusualmente gris frente a una implacable Rybakina, que se impuso por 6-1 y 6-4.",
+                "imagen" : "https://i.ibb.co/QvxkSPhx/8.webp"
             },{
-                "titulo" : "Noticia Deportiva 3",
-                "fecha" : "11/03/2014",
-                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : ""
+                "titulo" : "Swiatek se planta en sus terceras semifinales seguidas de Cincinnati",
+                "fecha" : "2025-08-15",
+                "descripcion" : "La tenista polaca Iga Swiatek derrotó este viernes a la rusa Anna Kalinskaya ganándose una tercera oportunidad de alcanzar la final del torneo WTA 1000 de Cincinnati. Swiatek, número tres mundial, superó a Kalinskaya (34ª) por 6-3 y 6-4 en el duelo que abrió el intenso programa de este viernes en la pista dura de Cincinnati (Ohio).",
+                "imagen" : "https://i.ibb.co/dzZTCSP/9.webp"
             },
             {
-                "titulo" : "Noticia Deportiva 4",
-                "fecha" : "28/02/2023",
-                "descripcion" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "imagen" : ""
+                "titulo" : "A la venta, paquetes de lujo para Mundial 2026",
+                "fecha" : "2025-08-15",
+                "descripcion" : "A la espera de que la FIFA comience en septiembre el proceso de venta de boletos al público en general para el Mundial 2026, ya están disponibles las opciones de paquetes de lujo para partidos individuales en México.",
+                "imagen" : "https://i.ibb.co/C3vXDGY0/10.webp"
             }
         ]
     }
