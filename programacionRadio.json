@@ -875,7 +875,7 @@
         "id": 2,
         "estacion": "XHCPDY-FM 91.1 MHz",
         "locacion": "Jacala de Ledezma",
-        "url": "",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC_SC",
         "img": "http://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/JacalaFM/JacalaBan.jpg",
         "programacion": [
             {
