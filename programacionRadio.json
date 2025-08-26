@@ -1744,16 +1744,14 @@
                 ]
             }
         ]
-    }
-],
-[
+    },
     {
         "id": 3,
-        "estacion": "XEPHH-AM 1010 KHz",
-        "locacion": "Huejutla de Reyes",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC_SC",
-        "img": "http://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/HuejutlaAM/HuejutlaAMBan.jpg",
-        "apartado":"/Frecuencias/XECPHH1010AM",
+        "estacion": "XHCPDY-FM 91.1 MHz",
+        "locacion": "Jacala de Ledezma",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRED_FMAAC_SC?dist=grc-web&pname=TDSdk",
+        "img": "http://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/JacalaFM/JacalaBan.jpg",
+        "apartado":"/Frecuencias/XHCPDY911FM",
         "programacion": [
             {
                 "dia": "Lunes",
@@ -3494,4 +3492,3 @@
         ]
     }
 ]
-
