@@ -33,10 +33,10 @@
         "nombre" : "Noticias Nacionales",
         "content":[
             {
-                "titulo" : "Aprueba Congreso CDMX Ley para sancionar abusos de 'franeleros'",
-                "fecha" : "2025-08-15",
-                "descripcion" : "Con mayoría de 53 votos, el pleno del Congreso de la Ciudad de México aprobó la reforma a la Ley de Justicia Cívica que establece infracciones especiales contra el uso indebido del espacio y la vía pública para sancionar abusos de los llamados franeleros y prevenir posibles actos delictivos.",
-                "imagen" : "https://i.ibb.co/Ngj3PvGv/6.webp"
+                "titulo" : "Registran 18 heridos graves por explosión de pipa en el Puente de la Concordia de Iztapalapa.",
+                "fecha" : "2025-09-10",
+                "descripcion" : "Clara Brugada, Jefa de Gobierno de la CDMX, informó desde el sitio de la explosión que una pipa de gas de 49 mil litros sufrió una volcadura y tuvo un impacto de explosiones que generaron una onda expansiva que arrojó como resultado 57 personas lesionadas y trasladadas a diferentes hospitales. De esas personas heridas, 17 se encuentran en estado grave.",
+                "imagen" : "https://politicomx-politicomx-prod.web.arc-cdn.net/resizer/v2/4FE46OF3BVAONB72ASE3CGH3G4.jpg?auth=8e2d9ead73c98f95cbb074f6240185e87e7e24aedfa79afd5d27a2a1795ee49a&quality=55&width=1200&height=800"
             },
             {
                 "titulo" : "Tren Maya 'va muy bien'; ha transportado 1 millón 504 mil 319 pasajeros: CSP",
