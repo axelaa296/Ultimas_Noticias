@@ -3,7 +3,7 @@
         "id": 1,
         "estacion": "XEPHH-AM 1010",
         "locacion": "Huejutla de Reyes AM",
-        "url": "http://187.230.253.193:2015/stream.m3u",
+        "url": "http://187.230.253.193:2015/stream",
         "img": "http://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/HuejutlaAM/HuejutlaAMBan.jpg",
         "apartado":"Frecuencias/XECPHH1010AM",
         "programacion": [
