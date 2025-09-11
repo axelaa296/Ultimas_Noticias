@@ -3495,7 +3495,7 @@
         "id": 5,
         "estacion": "XHCPDX-FM 96.5",
         "locacion": "Ixmiquilpan",
-        "url": "http://187.230.253.193:2015/96.5-FM.m3u",
+        "url": "http://187.230.253.193:2015/96.5-FM",
         "img": "http://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/JacalaFM/JacalaBan.jpg",
         "apartado":"Frecuencias/XHCPDY911FM",
         "programacion": [
