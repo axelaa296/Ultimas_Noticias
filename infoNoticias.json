@@ -4,27 +4,21 @@
         "nombre" : "Noticias Internacionales",
         "content":[
             {
-                "titulo" : "Acuerdan México y Guatemala caminar juntos en defensa de la soberanía y seguridad fronteriza",
-                "fecha" : "2025-08-15",
-                "descripcion" : "La presidenta de México, Claudia Sheinbaum se reunió hoy con su homólogo de Guatemala, Bernardo Arévalo, en un encuentro en el Petén, donde coincidieron en que ambas naciones caminarán juntas en defensa de su soberanía y acordaron fortalecer la seguridad fronteriza.",
-                "imagen" : "https://i.ibb.co/Ndp1w5tH/14.webp"
+                "titulo" : "El Talibán corta internet y causa un apagón de las telecomunicaciones en Afganistán",
+                "fecha" : "2025-09-30",
+                "descripcion" : "El gobierno talibán en Afganistán impuso un corte nacional de las telecomunicaciones, semanas después de iniciar bloqueos en las conexiones de internet de fibra óptica para evitar lo que califica de inmoralidad.",
+                "imagen" : "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/a186/live/5d38c0d0-9d8f-11f0-b6bb-1f1464029d80.jpg.webp"
             },
             {
-                "titulo" : "Reunión entre Trump y Putin en Alaska durará entre 6 y 7 horas, anticipa el Kremlin",
-                "fecha" : "2025-08-15",
-                "descripcion" : "El Kremlin considera factible una, de momento, hipotética cumbre entre los presidentes de Rusia y Ucrania, Vladimir Putin y Volodimir Zelenski, si la reunión de máximo nivel que está a punto de comenzar en Alaska (EU) entre el mandatario ruso y su homólogo estadounidense, Donald Trump.",
-                "imagen" : "https://i.ibb.co/ycbYKYp3/15.webp"
+                "titulo" : "Análisis: cuán significativo es realmente el plan de Trump para Gaza y qué dudas genera",
+                "fecha" : "2025-09-30",
+                "descripcion" : "El presidente de Estados Unidos, Donald Trump, afirmó que su plan para poner fin a la guerra en Gaza podría ser uno de los días más importantes en la historia de la civilización y que podría traer 'la paz eterna a Oriente Medio'.",
+                "imagen" : "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/c74b/live/311396b0-9dee-11f0-84af-5952fa7ec6ed.jpg.webp"
             },{
-                "titulo" : "Despliega EU 4 mil soldados en aguas de AL para combatir narcotráfico",
-                "fecha" : "2025-08-15",
-                "descripcion" : "El ejército de Estados unidos está desplegando más de 4 mil marines en las aguas alrededor de América Latina y el Caribe como parte de un esfuerzo intensificado para combatir los cárteles de la droga en una 'dramática demostración de fuerza que le dará al presidente una amplia gama de opciones militares'.",
+                "titulo" : "Investigación BBC: los niños robados en Siria que el régimen de Al Assad escondió en una ONG internacional",
+                "fecha" : "2025-09-30",
+                "descripcion" : "Reem al-Kari y su prima Lama están buscando entre decenas de fotos de niños esparcidas sobre un escritorio. Lama cree haber encontrado una que se parece a Karim, el hijo desaparecido de Reem.",
                 "imagen" : "https://i.ibb.co/W47ZYNq6/16.webp"
-            },
-            {
-                "titulo" : "Tiroteo en mezquita en el sur de Suecia deja un muerto y un herido",
-                "fecha" : "2025-08-15",
-                "descripcion" : "Una persona murió y otra resultó herida el viernes en un tiroteo cerca de una mezquita en la ciudad de Orebro, en el sur de Suecia, que estaría relacionado con rivalidades entre bandas criminales organizadas, según la policía.",
-                "imagen" : "https://i.ibb.co/JRxdMkcC/17.webp"
             }
         ]
     },
@@ -33,27 +27,21 @@
         "nombre" : "Noticias Nacionales",
         "content":[
             {
-                "titulo" : "Registran 18 heridos graves por explosión de pipa en el Puente de la Concordia de Iztapalapa.",
-                "fecha" : "2025-09-10",
-                "descripcion" : "Clara Brugada, Jefa de Gobierno de la CDMX, informó desde el sitio de la explosión que una pipa de gas de 49 mil litros sufrió una volcadura y tuvo un impacto de explosiones que generaron una onda expansiva que arrojó como resultado 57 personas lesionadas y trasladadas a diferentes hospitales. De esas personas heridas, 17 se encuentran en estado grave.",
-                "imagen" : "https://politicomx-politicomx-prod.web.arc-cdn.net/resizer/v2/4FE46OF3BVAONB72ASE3CGH3G4.jpg?auth=8e2d9ead73c98f95cbb074f6240185e87e7e24aedfa79afd5d27a2a1795ee49a&quality=55&width=1200&height=800"
+                "titulo" : "Aprueban candados a venta de bebidas energetizantes A menores de edad",
+                "fecha" : "2025-09-30",
+                "descripcion" : "El proyecto de reformas a la Ley General de Salud enviado al Senado prevé multa de hasta dos mil veces la Unidad de Medida y Actualización (226 mil 280 pesos) a quienes violenten dicha disposición.",
+                "imagen" : "https://images.milenio.com/4T1BHn0nMNlAQDHHtdkc4N8gezM=/942x532/uploads/media/2022/11/23/camara-diputados-debera-analizar-votar.jpg"
             },
             {
-                "titulo" : "Tren Maya 'va muy bien'; ha transportado 1 millón 504 mil 319 pasajeros: CSP",
-                "fecha" : "2025-08-15",
-                "descripcion" : "El Tren Maya, desde el inicio de sus operaciones, ha transportado a más de un millón y medio de personas, por lo que “va muy bien” y se están haciendo esfuerzos de promoción para que haya más visitantes, indicó la presidenta Claudia Sheinbaum Pardo. En la Base Aeronaval de Chetumal",
-                "imagen" : "https://i.ibb.co/zW7hPprB/11.webp"
+                "titulo" : "Especialista explica cómo funciona el Monto Transaccional del Usuario o MTU para clientes de la banca; no aplica para todos",
+                "fecha" : "2025-09-30",
+                "descripcion" : "Con el MTU, se busca “reducir riesgos de fraude y fortalecer la seguridad de las transacciones de su banca electrónica”, afirma Rafael Fragoso, director ejecutivo de Banca Digital en Banorte.",
+                "imagen" : "https://images.milenio.com/H_5sHPijaIfmvmAatNAU_hFHBNE=/942x532/uploads/media/2025/09/26/monto-maximo-ligado-tipo-necesidades.jpg"
             },{
-                "titulo" : "Sin acceso a seguridad social, dos de cada tres personas ocupadas",
+                "titulo" : "Inundación en Jalisco toma por sorpresa a 400 familias",
                 "fecha" : "2015-08-15",
-                "descripcion" : "Dos de cada tres personas ocupadas en México en 2024 no contaron con seguridad social, evidenciaron los resultados de la pobreza multidimensional que dio a conocer el Instituto Nacional de Estadística y Geografía (Inegi). El instituto estimó que había 38.4 millones de personas ocupadas el año pasado",
-                "imagen" : "https://i.ibb.co/ympDWcHW/12.webp"
-            },
-            {
-                "titulo" : "Aseguran en AIFA cargamento de fentanilo y en Mexicali 330 kilos de cocaína",
-                "fecha" : "2025-08-15",
-                "descripcion" : "Elementos de la Guardia Nacional y del Ejército Mexicano aseguraron en dos operativos un cargamento de fentanilo que estaba oculto en rollos de polietileno y 330 kilos de cocaína que estaban ocultos en un camión de carga",
-                "imagen" : "https://i.ibb.co/LdZV5RnW/13.webp"
+                "descripcion" : "Las lluvias intensas dejaron viviendas bajo el agua, con enseres domésticos flotando y familias enteras afectadas.",
+                "imagen" : "https://images.milenio.com/FvPCDuFGz9Eh4Sjo1H-ERqkxd7E=/942x532/uploads/media/2025/09/30/habitantes-tototlan-sufren-tormenta-anos_112_31_976_616.jpg"
             }
         ]
     },
@@ -62,27 +50,21 @@
         "nombre" : "Noticias Locales",
         "content":[
             {
-                "titulo" : "Alerta en Hidalgo Por Aumento de Bebés Con Bajo Peso Al Nacer",
-                "fecha" : "2025-08-15",
-                "descripcion" : "La Secretaría de Salud de Hidalgo reveló que, de acuerdo con datos de la Universidad Autónoma del Estado de Hidalgo, la proporción de recién nacidos con bajo peso pasó de 5.9% en 2017 a 7.4% actualmente 📈, un incremento que preocupa a especialistas por el riesgo que implica para la salud y el desarrollo.",
-                "imagen" : "https://i.ibb.co/Y7702nzh/1.jpg"
+                "titulo" : "¿No puedes pagar tu crédito Infonavit? Esto puedes hacer para evitar problemas a futuro",
+                "fecha" : "2025-09-30",
+                "descripcion" : "El Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit) tiene una serie de mecanismos que permite ayudar a las personas derechohabientes en caso de no poder cumplir con los pagos de los financiamientos en tiempo y forma, por lo que es importarte conocerlo y usarlos a su favor.",
+                "imagen" : "https://criteriohidalgo.com/_next/image?url=https%3A%2F%2Fcdn-cubimetrix.sfo3.cdn.digitaloceanspaces.com%2Fuploads%2F2025%2F09%2Finfonavit-credito-deuda-prorroga-derechohabientes-financiamiento-768x512.jpg&w=1920&q=75"
             },
             {
-                "titulo" : "Constatan Avances Históricos En Tecnificación De Riego En El Valle Del Mezquital 🌾💧",
-                "fecha" : "2025-08-15",
-                "descripcion" : "Hidalgo es el estado con más recurso público federal destinado al programa nacional en la materia 📊🇲🇽 En la comunidad de El Llano Mixquiahuala, autoridades estatales y federales, productores y empresas constataron cómo el Programa Nacional de Tecnificación de Riego está transformando el uso del agua 💦",
-                "imagen" : "https://i.ibb.co/67D5tS4H/2.jpg"
+                "titulo" : "Detención de Mauricio, en Pachuca, fue irregular, acusa su madre; ¿qué ocurrió?",
+                "fecha" : "2025-09-30",
+                "descripcion" : "Marisol Pérez Calva, madre de Mauricio Téllez Pérez, acusó que la detención de su hijo, el pasado viernes, fue irregular, pues conforme a los testimonios que recogió de comerciantes del centro de Pachuca, en la plaza del Reloj, le sembraron droga en una maleta negra en la que transportaban insumos.",
+                "imagen" : "https://criteriohidalgo.com/_next/image?url=https%3A%2F%2Fcdn-cubimetrix.sfo3.cdn.digitaloceanspaces.com%2Fuploads%2F2025%2F09%2Fweb4-17-768x512.jpg&w=1200&q=75"
             },{
-                "titulo" : "Gobierno De Julio Menchaca Logró Que 154 Mil Hidalguenses Salieran De La Pobreza 📉🤝🏛️",
-                "fecha" : "2025-08-15",
-                "descripcion" : "De acuerdo con datos del INEGI 📊, entre 2022 y 2024 un total de 154 mil hidalguenses dejaron la condición de pobreza, lo que representa una reducción del 41 % al 35.3 % de la población en esta situación 📉. Este avance es resultado de las acciones impulsadas por el gobierno de Julio Menchaca Salazar.",
+                "titulo" : "¿Por qué se quedará sin agua la Zona Metropolitana de Pachuca?",
+                "fecha" : "2025-09-30",
+                "descripcion" : "La Comisión de Agua y Alcantarillado de Sistemas Intermunicipales (Caasim) informó sobre la detección de una fuga en una tubería de 20 pulgadas de diámetro que corresponde al Acueducto Tizayuca, lo que ocasionará afectaciones en el suministro de agua para el poniente de la Zona Metropolitana de Pachuca.",
                 "imagen" : "https://i.ibb.co/fd6PcSHX/3.jpg"
-            },
-            {
-                "titulo" : "Refuerza Gobiero De Hidalgo Vigilancia En Tula, Ante Pronóstico De Lluvias Intensas 🌧️🚨🌊",
-                "fecha" : "2025-08-15",
-                "descripcion" : "El Gobierno del Estado de Hidalgo 🏛️, a través del Comité Estatal de Emergencias 🚑, monitorea las 24 horas 🕛 la región de Tula 📍, luego de que el Servicio Meteorológico Nacional pronosticara una de las tormentas más fuertes de la temporada ⛈️ en el Valle de México, la cual podría incrementar el embalse del río en esa zona 🌊.",
-                "imagen" : "https://i.ibb.co/fGqQjfHb/4.jpg"
             }
         ]
     },
@@ -91,27 +73,21 @@
         "nombre" : "Deportes",
         "content":[
             {
-                "titulo" : "Pedalistas mexicanos Fernando Nava y Marcelo Garza, plata en Panamericanos Junior",
-                "fecha" : "2025-08-15",
-                "descripcion" : "Los mexicanos Fernando Nava y Marcelo Garza aumentaron la cosecha de medallas de la delegación tricolor en los Juegos Panamericanos Junior Asunción 2025, que se celebran en Paraguay, al conquistar este viernes la presea de plata en la prueba madison varonil de ciclismo de pista.",
-                "imagen" : "https://i.ibb.co/WWd0bY4X/7.webp"
+                "titulo" : "Gilberto Mora, la perla mexicana que ilusiona en el futbol mundial",
+                "fecha" : "2025-09-30",
+                "descripcion" : "Ya muestra su calidad en la primera división y lo representa la agente de futbolistas más poderosa del mundo. Con apenas 16 años, el mediocampista ofensivo Gilberto Mora es la gran esperanza del futbol de México, un país siempre ávido de presentar al mundo un nuevo talento.",
+                "imagen" : "https://pbs.twimg.com/media/G1-I1W0W8AAgobu?format=jpg&name=small"
             },
             {
-                "titulo" : "Sabalenka, eliminada en cuartos de final en Cincinnati",
-                "fecha" : "2025-08-15",
-                "descripcion" : "La tenista bielorrusa Aryna Sabalenka, número uno mundial, fue eliminada este viernes en los cuartos de final del torneo WTA 1000 de Cincinnati a manos de la kazaja Elena Rybakina. Sabalenka se despidió de la defensa del título con una actuación inusualmente gris frente a una implacable Rybakina.",
-                "imagen" : "https://i.ibb.co/QvxkSPhx/8.webp"
+                "titulo" : "Efraín Juárez, entre la pasión que inspira y el berrinche que divide",
+                "fecha" : "2025-09-30",
+                "descripcion" : "El técnico de Pumas ha dejado claro que su sello no es la prudencia. Sus arrebatos, celebraciones provocadoras y declaraciones punzantes dibujan un estilo que incomoda tanto como seduce",
+                "imagen" : "https://images.milenio.com/lvxxi75RQiqLA1tHXODgN55ks2g=/942x532/uploads/media/2025/09/29/efrain-juarez-director-tecnico-pumas.jpg"
             },{
-                "titulo" : "Swiatek se planta en sus terceras semifinales seguidas de Cincinnati",
-                "fecha" : "2025-08-15",
-                "descripcion" : "La tenista polaca Iga Swiatek derrotó este viernes a la rusa Anna Kalinskaya ganándose una tercera oportunidad de alcanzar la final del torneo WTA 1000 de Cincinnati. Swiatek, número tres mundial, superó a Kalinskaya (34ª) por 6-3 y 6-4 en el duelo que abrió el intenso programa de este viernes en la pista dura de Cincinnati (Ohio).",
+                "titulo" : "Rafa Márquez invita al público tapatío a apoyar a la selección mexicana: 'Queremos ganarnos su confianza'",
+                "fecha" : "2025-09-30",
+                "descripcion" : "https://images.milenio.com/-qOs6QYBQ7D2Yq0QZjuJYZCWI9s=/942x532/uploads/media/2025/09/30/rafa-marquez-invita-publico-tapatio.jpg",
                 "imagen" : "https://i.ibb.co/dzZTCSP/9.webp"
-            },
-            {
-                "titulo" : "A la venta, paquetes de lujo para Mundial 2026",
-                "fecha" : "2025-08-15",
-                "descripcion" : "A la espera de que la FIFA comience en septiembre el proceso de venta de boletos al público en general para el Mundial 2026, ya están disponibles las opciones de paquetes de lujo para partidos individuales en México.",
-                "imagen" : "https://i.ibb.co/C3vXDGY0/10.webp"
             }
         ]
     }
