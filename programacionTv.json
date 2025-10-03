@@ -1,6 +1,7 @@
 [
     {
         "dia": "Lunes",
+        "barra":"https://i.ibb.co/RTDnySpF/LUNES.jpg",
         "programas": [
             {
                 "horainicio": "00:00",
@@ -195,6 +196,7 @@
     },
     {
         "dia": "Martes",
+        "barra": "https://i.ibb.co/bfZrbfj/MARTES.jpg",
         "programas": [
             {
                 "horainicio": "00:00",
@@ -375,6 +377,7 @@
     },
     {
         "dia": "Miércoles",
+        "barra" : "https://i.ibb.co/fdJh7XJS/MI-RCOLES.jpg",
         "programas": [
             {
                 "horainicio": "00:00",
@@ -548,6 +551,7 @@
     },
     {
         "dia": "Jueves",
+        "barra": "https://i.ibb.co/V0x8x5nh/JUEVES.jpg",
         "programas": [
             {
                 "horainicio": "00:00",
@@ -735,6 +739,7 @@
     },
     {
         "dia": "Viernes",
+        "barra" : "https://i.ibb.co/F4vDDL8y/VIERNES.jpg",
         "programas":[
             {
                 "horainicio": "00:00",
@@ -901,6 +906,7 @@
     },
     {
         "dia": "Sábado",
+        "barra" : "https://i.ibb.co/qMN0CNT5/SABADO.jpg",
         "programas": [
             {
                 "horainicio": "00:00",
@@ -1123,6 +1129,7 @@
     },
     {
         "dia": "Domingo",
+        "barra" : "https://i.ibb.co/vxs1c0nt/DOMINGO.jpg",
         "programas": [
             {
                 "horainicio": "00:00",
