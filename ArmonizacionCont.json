@@ -572,8 +572,8 @@
                             },
                             {
                                 "subtitulo" : "Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/e.xls",
-                                "xml" : ""
+                                "pdf" : "",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/e.xls"
                             },
                             {
                                 "subtitulo" : "Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado COG - LDF",
