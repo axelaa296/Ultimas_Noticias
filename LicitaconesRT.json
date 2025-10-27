@@ -1,0 +1,511 @@
+[
+    {
+        "anio" : "2025",
+        "tipo" : [
+            {
+                "tipoLicitacion" : "Licitación Nacional",
+                "nombreLicitacion" : "Licitación Nacional 2025",
+                "contenido" : [
+                    {
+                        "titulo" : "LIC-RTH-001-2025",
+                        "botoncontenido" : [
+                            {
+                                "nlicitacion":"SERVICIO DE SUMINISTRO DE COMBUSTIBLES PARA VEHICULOS DE RTH",
+                                "subtitulo" : "Bases de Participación",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Nacional/2025/LIC-RTH-001-2025/BasesP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta Junta de Aclaraciones",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Nacional/2025/LIC-RTH-001-2025/AJAclaraciones.pdf",
+                                "xml" : ""
+                            },
+                            {
+
+                                "subtitulo" : "Acta de Presentación y Apertura de Propuestas",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Nacional/2025/LIC-RTH-001-2025/APerturaP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta de Fallo",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Nacional/2025/LIC-RTH-001-2025/AFallo.pdf ",
+                                "xml" : ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "tipoLicitacion" : "Licitación Internacional",
+                "nombreLicitacion" : "Licitación Internacional 2025",
+                "contenido" : [
+    
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Invitación a Cuando Menos 3 Personas",
+                "nombreLicitacion" : "Invitación a Cuando Menos 3 Personas 2025",
+                "contenido" : [  
+                    {
+                        "titulo" : "RTH-ICTP-001-2025",
+                        "botoncontenido" : [
+                            {
+                                "nlicitacion":"ADQUISICIÓN DE MATERIAL DE OFICINA Y LIMPIEZA",
+                                "subtitulo" : "Bases de Participación",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-001-2025/BasesP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta Junta de Aclaraciones",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-001-2025/AJAclaraciones.pdf",
+                                "xml" : ""
+                            },
+                            {
+        
+                                "subtitulo" : "Acta de Presentación y Apertura de Propuestas",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-001-2025/APerturaP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta de Fallo",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-001-2025/AFallo.pdf ",
+                                "xml" : ""
+                            }
+                        ]
+                    },  
+                    {
+                        "titulo" : "RTH-ICTP-002-2025",
+                        "botoncontenido" : [
+                            {
+                                "nlicitacion":"ADQUISICIÓN DE MATERIAL DE OFICINA Y LIMPIEZA",
+                                "subtitulo" : "Bases de Participación",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-002-2025/BasesP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta Junta de Aclaraciones",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-002-2025/AJAclaraciones.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "2da de Acta Junta de Aclaraciones",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-001-2025/AJAclaraciones.pdf",
+                                "xml" : ""
+                            },
+                            {
+        
+                                "subtitulo" : "Acta de Presentación y Apertura de Propuestas",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-002-2025/APerturaP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta de Fallo",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-002-2025/AFallo.pdf",
+                                "xml" : ""
+                            }
+                        ]
+                    },
+                    {
+                        "titulo" : "RTH-ICTP-003-2025",
+                        "botoncontenido" : [
+                            {
+                                "nlicitacion":"CONTRATACIÓN DE SERVICIOS DE AUDITORÍA EXTERNA",
+                                "subtitulo" : "Bases de Participación",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-003-2025/BasesP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta Junta de Aclaraciones",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-003-2025/AJAclaraciones.pdf",
+                                "xml" : ""
+                            },
+                            {
+        
+                                "subtitulo" : "Acta de Presentación y Apertura de Propuestas",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-003-2025/APerturaP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta de Fallo",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-003-2025/AFallo.pdf",
+                                "xml" : ""
+                            }
+                        ]
+                    }
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
+                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2025",
+                "contenido" : [
+                    {
+                        "titulo" : "PAAS",
+                        "botoncontenido" : [
+                            {
+                                "nlicitacion":"PAAS",
+                                "subtitulo" : "8.1",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/PAAS/2025/PAAS/8.1.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "8.2",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/PAAS/2025/PAAS/8.2.pdf",
+                                "xml" : ""
+                            },
+                            {
+
+                                "subtitulo" : "8.3",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/PAAS/2025/PAAS/8.3.pdf",
+                                "xml" : ""
+                            }
+                        ]
+                    }
+                ] 
+            }
+        ]
+    },
+    {
+        "anio" : "2024",
+        "tipo" : [
+            {
+                "tipoLicitacion" : "Licitación Nacional",
+                "nombreLicitacion" : "Licitación Nacional 2024",
+                "contenido" : [
+                    
+                    {
+                        "titulo" : "LIC-RTH-001-2024",
+                        "botoncontenido" : [
+                            {
+                                "nlicitacion":"SERVICIO DE SUMINISTRO DE COMBUSTIBLES PARA VEHICULOS DE RTH",
+                                "subtitulo" : "Bases de Participación",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Nacional/2024/LIC-RTH-001-2024/BasesP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta Junta de Aclaraciones",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Nacional/2024/LIC-RTH-001-2024/AJAclaraciones.pdf",
+                                "xml" : ""
+                            },
+                            {
+
+                                "subtitulo" : "Acta de Presentación y Apertura de Propuestas",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Nacional/2024/LIC-RTH-001-2024/APerturaP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta de Fallo",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Nacional/2024/LIC-RTH-001-2024/AFallo.pdf ",
+                                "xml" : ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "tipoLicitacion" : "Licitación Internacional",
+                "nombreLicitacion" : "Licitación Internacional 2024",
+                "contenido" : [
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Invitación a Cuando Menos 3 Personas",
+                "nombreLicitacion" : "Invitación a Cuando Menos 3 Personas 2024",
+                "contenido" : [
+                    {
+                        "titulo" : "RTH-ICTP-001-2024",
+                        "botoncontenido" : [
+                            {
+                                "nlicitacion":"CONTRATACIÓN PARA LA PRESTACION DE LOS SERVICIOS DE AUDITORIA EXTERNA CORRESPONDIENTE AL EJERCICIO 2024",
+                                "subtitulo" : "Bases de Participación",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2024/RTH-ICTP-001-2024/BasesP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta Junta de Aclaraciones",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2024/RTH-ICTP-001-2024/AJAclaraciones.pdf",
+                                "xml" : ""
+                            },
+                            {
+
+                                "subtitulo" : "Acta de Presentación y Apertura de Propuestas",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2024/RTH-ICTP-001-2024/APerturaP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta de Fallo",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2024/RTH-ICTP-001-2024/AFallo.pdf ",
+                                "xml" : ""
+                            }
+                        ]
+                    },
+                    {
+                        "titulo" : "RTH-ICTP-002-2024",
+                        "botoncontenido" : [
+                            {
+                                "nlicitacion" : "ADQUISICIÓN DE MATERIAL DE OFICINA, LIMPIEZA, ELÉCTRICO Y DE GRABACIÓN",
+                                "subtitulo" : "Bases de Participación",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2024/RTH-ICTP-002-2024/BasesP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta Junta de Aclaraciones",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2024/RTH-ICTP-002-2024/AJAclaraciones.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta de Presentación y Apertura de Propuestas",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2024/RTH-ICTP-002-2024/APerturaP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta de Fallo",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2024/RTH-ICTP-002-2024/AFallo.pdf",
+                                "xml" : ""
+                            }
+                        ]
+                    }
+                    
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
+                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2024",
+                "contenido" : [
+                    
+                ] 
+            }
+        ]
+    },
+    {
+        "anio" : "2023",
+        "tipo" : [
+            {
+                "tipoLicitacion" : "Licitación Nacional",
+                "nombreLicitacion" : "Licitación Nacional 2023",
+                "contenido" : [
+                    
+                ]
+            },
+            {
+                "tipoLicitacion" : "Licitación Internacional",
+                "nombreLicitacion" : "Licitación Internacional 2023",
+                "contenido" : [
+                    
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Invitación a Cuando Menos 3 Personas",
+                "nombreLicitacion" : "Invitación a Cuando Menos 3 Personas 2023",
+                "contenido" : [
+                    
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
+                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2023",
+                "contenido" : [
+                    
+                ] 
+            }
+        ]
+    },
+    {
+        "anio" : "2022",
+        "tipo" : [
+            {
+                "tipoLicitacion" : "Licitación Nacional",
+                "nombreLicitacion" : "Licitación Nacional 2022",
+                "contenido" : [
+                    
+                ]
+            },
+            {
+                "tipoLicitacion" : "Licitación Internacional",
+                "nombreLicitacion" : "Licitación Internacional 2022",
+                "contenido" : [
+                    {
+                        "titulo" : "LIC-RTH-002-2022",
+                        "botoncontenido" : [
+                            {
+                                "nlicitacion" : "ADQUISICION DE BIENES PARA EL PROYECTO ACTUALIZACION RADIO IXMIQUILPAN – JACALA Y PRODUCCIONES PACHUCA",
+                                "subtitulo" : "Bases de Participación",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Internacional/2022/LIC-RTH-002-2022/BasesP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta Junta de Aclaraciones",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Internacional/2022/LIC-RTH-002-2022/AJAclaraciones.pdf.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta de Presentación y Apertura de Propuestas",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Internacional/2022/LIC-RTH-002-2022/APerturaP.pdf",
+                                "xml" : ""
+                            },
+                            {
+                                "subtitulo" : "Acta de Fallo",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Internacional/2022/LIC-RTH-002-2022/AFallo.pdf",
+                                "xml" : ""
+                            }
+                        ]
+                    }
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Invitación a Cuando Menos 3 Personas",
+                "nombreLicitacion" : "Invitación a Cuando Menos 3 Personas 2022",
+                "contenido" : [
+                    
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
+                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2022",
+                "contenido" : [
+                    
+                ] 
+            }
+        ]
+    },
+    {
+        "anio" : "2021",
+        "tipo" : [
+            {
+                "tipoLicitacion" : "Licitación Nacional",
+                "nombreLicitacion" : "Licitación Nacional 2021",
+                "contenido" : [
+                    
+                ]
+            },
+            {
+                "tipoLicitacion" : "Licitación Internacional",
+                "nombreLicitacion" : "Licitación Internacional 2021",
+                "contenido" : [
+                    
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Invitación a Cuando Menos 3 Personas",
+                "nombreLicitacion" : "Invitación a Cuando Menos 3 Personas 2021",
+                "contenido" : [
+                    {
+                        "titulo" : "",
+                        "botoncontenido" : [
+                            {
+                                "subtitulo" : "",
+                                "pdf" : "",
+                                "xml" : ""
+                            }
+                        ]
+                    }
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
+                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2021",
+                "contenido" : [
+                    
+                ] 
+            }
+        ]
+    },
+    {
+        "anio" : "2020",
+        "tipo" : [
+            {
+                "tipoLicitacion" : "Licitación Nacional",
+                "nombreLicitacion" : "Licitación Nacional 2020",
+                "contenido" : [
+                    
+                ]
+            },
+            {
+                "tipoLicitacion" : "Licitación Internacional",
+                "nombreLicitacion" : "Licitación Internacional 2020",
+                "contenido" : [
+                    
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Invitación a Cuando Menos 3 Personas",
+                "nombreLicitacion" : "Invitación a Cuando Menos 3 Personas 2020",
+                "contenido" : [
+                    
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
+                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2020",
+                "contenido" : [
+                    
+                ] 
+            }
+        ]
+    },
+    {
+        "anio" : "2019",
+        "tipo" : [
+            {
+                "tipoLicitacion" : "Licitación Nacional",
+                "nombreLicitacion" : "Licitación Nacional 2019",
+                "contenido" : [
+                    
+                ]
+            },
+            {
+                "tipoLicitacion" : "Licitación Internacional",
+                "nombreLicitacion" : "Licitación Internacional 2019",
+                "contenido" : [
+                    
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Invitación a Cuando Menos 3 Personas",
+                "nombreLicitacion" : "Invitación a Cuando Menos 3 Personas 2019",
+                "contenido" : [
+                    
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
+                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2019",
+                "contenido" : [
+                    
+                ] 
+            }
+        ]
+    },
+    {
+        "anio" : "2018",
+        "tipo" : [
+            {
+                "tipoLicitacion" : "Licitación Nacional",
+                "nombreLicitacion" : "Licitación Nacional 2018",
+                "contenido" : [
+                    
+                ]
+            },
+            {
+                "tipoLicitacion" : "Licitación Internacional",
+                "nombreLicitacion" : "Licitación Internacional 2018",
+                "contenido" : [
+                    
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Invitación a Cuando Menos 3 Personas",
+                "nombreLicitacion" : "Invitación a Cuando Menos 3 Personas 2018",
+                "contenido" : [
+                    
+                ] 
+            },
+            {
+                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
+                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2018",
+                "contenido" : [
+                    
+                ] 
+            }
+        ]
+    }
+]
