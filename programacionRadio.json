@@ -709,8 +709,14 @@
                     },
                     {
                         "horainicio": "18:00",
-                        "horafin": "19:00",
+                        "horafin": "18:30",
                         "titulo": "Zona Deportiva",
+                        "descripcion": "Con Jessica Reyes"
+                    },
+                    {
+                        "horainicio": "18:30",
+                        "horafin": "19:00",
+                        "titulo": "Fiestas con Bandas",
                         "descripcion": "Con Jessica Reyes"
                     },
                     {
@@ -847,7 +853,7 @@
                     {
                         "horainicio": "22:00",
                         "horafin": "22:30",
-                        "titulo": "La Hora Nacional Federal",
+                        "titulo": "La Hora Nacional",
                         "descripcion": "RTC"
                     },
                     {
@@ -886,23 +892,23 @@
                     {
                         "horainicio" : "06:00",
                         "horafin":"07:00",
-                        "titulo": "Amanecer Sabrosito",
+                        "titulo": "Alegre Despertar",
                         "Descripcion": "Con María de la Luz y Roberto Garay"
                     },
                     {
                         "horainicio" : "07:00",
-                        "horafin":"07:30",
+                        "horafin":"08:00",
+                        "titulo": "Vocales Radio",
+                        "Descripcion": ""
+                    },
+                    {
+                        "horainicio" : "08:00",
+                        "horafin":"08:30",
                         "titulo": "Radio SEPH",
                         "Descripcion": "Daniel Zárate Ramírez"
                     },
                     {
-                        "horainicio" : "07:30",
-                        "horafin":"08:00",
-                        "titulo": "Súper Éxitos Gruperos",
-                        "Descripcion": "Marcela García"
-                    },
-                    {
-                        "horainicio" : "08:00",
+                        "horainicio" : "08:30",
                         "horafin":"09:00",
                         "titulo": "Fiesta Huasteca",
                         "Descripcion": "Con María de la Luz y Roberto Garay"
@@ -927,32 +933,38 @@
                     },
                     {
                         "horainicio" : "13:00",
+                        "horafin":"13:30",
+                        "titulo": "Paisajes Sierra Gorda",
+                        "Descripcion": "Con Leonides Leonardo"                        
+                    },
+                    {
+                        "horainicio" : "13:00",
                         "horafin":"14:00",
-                        "titulo": "Espacio Profundo",
+                        "titulo": "Ámbito Reflexivo",
                         "Descripcion": "Con Leonides Leonardo"                        
                     },
                     {
                         "horainicio" : "14:00",
                         "horafin":"14:30",
-                        "titulo": "Jazz",
+                        "titulo": "Noticiero Regional",
                         "Descripcion": "Con Leonides Leonardo"                        
                     },
                     {
                         "horainicio" : "14:30",
                         "horafin":"15:30",
-                        "titulo": "Destellos Tropicales",
+                        "titulo": "Leyendas del Trópico de Ayer y Hoy",
                         "Descripcion": "Con Ricardo Cruz"                        
                     },
                     {
                         "horainicio" : "15:30",
                         "horafin":"16:00",
-                        "titulo": "Sinfonía Instrumental",
+                        "titulo": "Concierto Instrumental",
                         "Descripcion": "Con Leonides Leonardo"                        
                     },
                     {
                         "horainicio" : "16:00",
                         "horafin":"17:00",
-                        "titulo": "Los Súper Grupos",
+                        "titulo": "Los Clásicos en la Onda Grupera",
                         "Descripcion": "Con Roberto Garay"                        
                     },
                     {
@@ -970,32 +982,26 @@
                     {
                         "horainicio" : "19:00",
                         "horafin":"21:00",
-                        "titulo": "La Brújula Sonidera",
+                        "titulo": "Conexión Grupera",
                         "Descripcion": "Con Ricardo Cruz"                        
                     },
                     {
                         "horainicio" : "21:00",
                         "horafin":"22:00",
-                        "titulo": "La Época de Oro",
+                        "titulo": "Noches de Serenata",
                         "Descripcion": "Con Joel Vega"                        
                     },
                     {
                         "horainicio" : "22:00",
                         "horafin":"23:00",
-                        "titulo": "Electrovibra",
+                        "titulo": "Mezcla DJ",
                         "Descripcion": "Con Joel Vega y Roberto Garay"                        
                     },
                     {
                         "horainicio" : "23:00",
-                        "horafin":"23:30",
+                        "horafin":"23:45",
                         "titulo": "Nivel del Rock",
                         "Descripcion": "Con Joel Vega"                        
-                    },
-                    {
-                        "horainicio" : "23:30",
-                        "horafin":"23:45",
-                        "titulo": "Rock Nacional",
-                        "Descripcion": "Con Joel Vega"
                     },
                     {
                         "horainicio" : "23:45",
@@ -1012,38 +1018,38 @@
                     {
                         "horainicio" : "06:00",
                         "horafin":"07:00",
-                        "titulo": "Amanecer Sabrosito",
-                        "Descripcion": "Con María de la Luz y Marcela García"
+                        "titulo": "Alegre Despertar",
+                        "Descripcion": "Con María de la Luz y Roberto Garay"
                     },
                     {
                         "horainicio" : "07:00",
-                        "horafin":"07:30",
-                        "titulo": "Radio SEPH",
-                        "Descripcion": "Daniel Zárate Ramírez"                    
-                    },
-                    {
-                        "horainicio" : "07:30",
                         "horafin":"08:00",
-                        "titulo": "Súper Éxitos Gruperos",
-                        "Descripcion": "Con Marcela García"                        
+                        "titulo": "Vocales Radio",
+                        "Descripcion": ""
                     },
                     {
                         "horainicio" : "08:00",
+                        "horafin":"08:30",
+                        "titulo": "Radio SEPH",
+                        "Descripcion": "Daniel Zárate Ramírez"
+                    },
+                    {
+                        "horainicio" : "08:30",
                         "horafin":"09:00",
                         "titulo": "Fiesta Huasteca",
-                        "Descripcion": "Con María de la Luz y Marcela García"                        
+                        "Descripcion": "Con María de la Luz y Roberto Garay"
                     },
                     {
                         "horainicio" : "09:00",
                         "horafin":"10:00",
                         "titulo": "Melodías del Pasado",
-                        "Descripcion": "Con Marcela García"                        
+                        "Descripcion": "Con Marcela García"
                     },
                     {
                         "horainicio" : "10:00",
                         "horafin":"12:00",
                         "titulo": "Onda Musical",
-                        "Descripcion": "Con Ricardo Cruz"                        
+                        "Descripcion": "Con Ricardo Cruz Morales"
                     },
                     {
                         "horainicio" : "12:00",
@@ -1060,31 +1066,31 @@
                     {
                         "horainicio" : "13:30",
                         "horafin":"14:00",
-                        "titulo": "Espacio Profundo",
+                        "titulo": "Ámbito Reflexivo",
                         "Descripcion": "Con Marcela García"                        
                     },
                     {
                         "horainicio" : "14:00",
                         "horafin":"14:30",
-                        "titulo": "Jazz",
+                        "titulo": "Noticiero Regional",
                         "Descripcion": "Con Leonides Leonardo"
                     },
                     {
                         "horainicio" : "14:30",
                         "horafin":"15:30",
-                        "titulo": "Destellos Tropicales",
+                        "titulo": "Leyendas del Trópico de Ayer y Hoy",
                         "Descripcion": "Con Ricardo Cruz"                        
                     },
                     {
                         "horainicio" : "15:30",
                         "horafin":"16:00",
-                        "titulo": "Sinfonía Instrumental",
+                        "titulo": "Concierto Instrumental",
                         "Descripcion": "Con Leonides Leonardo"                        
                     },
                     {
                         "horainicio" : "16:00",
                         "horafin":"17:00",
-                        "titulo": "Los Súper Grupos",
+                        "titulo": "Los Clásicos en la Onda Grupera",
                         "Descripcion": "Con Roberto Garay"
                     },
                     {
@@ -1102,31 +1108,25 @@
                     {
                         "horainicio" : "19:00",
                         "horafin":"21:00",
-                        "titulo": "La Brújula Sonidera",
+                        "titulo": "Conexión Grupera",
                         "Descripcion": "Con Ricardo Cruz"                        
                     },
                     {
                         "horainicio" : "21:00",
                         "horafin":"22:00",
-                        "titulo": "La Época de Oro",
+                        "titulo": "Noches de Serenata",
                         "Descripcion": "Con Joel Vega"                        
                     },
                     {
                         "horainicio" : "22:00",
                         "horafin":"23:00",
-                        "titulo": "Electrovibra",
+                        "titulo": "Mezcla DJ",
                         "Descripcion": "Con Joel Vega y Roberto Garay"                        
                     },
                     {
                         "horainicio" : "23:00",
-                        "horafin":"23:30",
-                        "titulo": "Nivel del Rock",
-                        "Descripcion": "Con Joel Vega"                        
-                    },
-                    {
-                        "horainicio" : "23:30",
                         "horafin":"23:45",
-                        "titulo": "Rock Nacional",
+                        "titulo": "Nivel del Rock",
                         "Descripcion": "Con Joel Vega"                        
                     },
                     {
@@ -1143,32 +1143,32 @@
                     {
                         "horainicio" : "06:00",
                         "horafin":"07:00",
-                        "titulo": "Amanecer Sabrosito",
-                        "Descripcion": "Con María de la Luz y Marcela García"                                                
+                        "titulo": "Alegre Despertar",
+                        "Descripcion": "Con María de la Luz y Roberto Garay"
                     },
                     {
                         "horainicio" : "07:00",
-                        "horafin":"07:30",
-                        "titulo": "Radio SEPH",
-                        "Descripcion": "Daniel Zárate Ramírez"                        
-                    },
-                    {
-                        "horainicio" : "07:30",
                         "horafin":"08:00",
-                        "titulo": "Súper Éxitos Gruperos",
-                        "Descripcion": "Con Marcela García"
+                        "titulo": "Vocales Radio",
+                        "Descripcion": ""
                     },
                     {
                         "horainicio" : "08:00",
+                        "horafin":"08:30",
+                        "titulo": "Radio SEPH",
+                        "Descripcion": "Daniel Zárate Ramírez"
+                    },
+                    {
+                        "horainicio" : "08:30",
                         "horafin":"09:00",
                         "titulo": "Fiesta Huasteca",
-                        "Descripcion": "Con María de la Luz y Marcela García"                        
+                        "Descripcion": "Con María de la Luz y Roberto Garay"
                     },
                     {
                         "horainicio" : "09:00",
                         "horafin":"10:00",
                         "titulo": "Melodías del Pasado",
-                        "Descripcion": "Con Marcela García"                        
+                        "Descripcion": "Con Marcela García"
                     },
                     {
                         "horainicio" : "10:00",
@@ -1190,32 +1190,38 @@
                     },
                     {
                         "horainicio" : "13:00",
+                        "horafin":"13:30",
+                        "titulo": "Sabores de Hidalgo",
+                        "Descripcion": "Leonides Leonardo"                        
+                    },
+                    {
+                        "horainicio" : "13:30",
                         "horafin":"14:00",
-                        "titulo": "Espacio Profundo",
+                        "titulo": "Ámbito Reflexivo",
                         "Descripcion": "Leonides Leonardo"                        
                     },
                     {
                         "horainicio" : "14:00",
                         "horafin":"14:30",
-                        "titulo": "Jazz",
+                        "titulo": "Noticiero Regional",
                         "Descripcion": "Con Leonides Leonardo"                        
                     },
                     {
                         "horainicio" : "14:30",
                         "horafin":"15:30",
-                        "titulo": "Destellos Tropicales",
+                        "titulo": "Leyendas del Trópico de Ayer y Hoy",
                         "Descripcion": "Con Ricardo Cruz"                        
                     },
                     {
                         "horainicio" : "15:30",
                         "horafin": "16:00",
-                        "titulo": "Sinfonía Instrumental",
+                        "titulo": "Concierto Instrumental",
                         "Descripcion": "Con Leonides Leonardo"                        
                     },
                     {
                         "horainicio" : "16:00",
                         "horafin":"17:00",
-                        "titulo": "Los Súper Grupos",
+                        "titulo": "Los Clásicos en la Onda Grupera",
                         "Descripcion": "Con Roberto Garay"                        
                     },
                     {
@@ -1233,20 +1239,20 @@
                     {
                         "horainicio" : "19:00",
                         "horafin":"21:00",
-                        "titulo": "La Brújula Sonidera",
+                        "titulo": "Conexión Grupera",
                         "Descripcion": "Con Ricardo Cruz"
                         
                     },
                     {
                         "horainicio" : "21:00",
                         "horafin":"22:00",
-                        "titulo": "La Época de Oro",
+                        "titulo": "Noches de Serenata",
                         "Descripcion": "Con Joel Vega"                        
                     },
                     {
                         "horainicio" : "22:00",
                         "horafin":"23:00",
-                        "titulo": "Electrovibra",
+                        "titulo": "Mezcla DJ",
                         "Descripcion": "Con Joel Vega y Roberto Garay"                        
                     },
                     {
@@ -1254,13 +1260,7 @@
                         "horafin":"23:30",
                         "titulo": "Nivel del Rock",
                         "Descripcion": "Con Joel Vega",
-                        "Hora": "23:00 - 23:30"
-                    },
-                    {
-                        "horainicio" : "23:30",
-                        "horafin":"23:45",
-                        "titulo": "Rock Nacional",
-                        "Descripcion": "Con Joel Vega"
+                        "Hora": "23:00 - 23:45"
                     },
                     {
                         "horainicio" : "23:45",
@@ -1276,26 +1276,26 @@
                     {
                         "horainicio" : "06:00",
                         "horafin":"07:00",
-                        "titulo": "Amanecer Sabrosito",
-                        "Descripcion": "Con María de la Luz y Marcela García"                        
+                        "titulo": "Alegre Despertar",
+                        "Descripcion": "Con María de la Luz y Roberto Garay"
                     },
                     {
                         "horainicio" : "07:00",
-                        "horafin":"07:30",
+                        "horafin":"08:00",
+                        "titulo": "Vocales Radio",
+                        "Descripcion": ""
+                    },
+                    {
+                        "horainicio" : "08:00",
+                        "horafin":"08:30",
                         "titulo": "Radio SEPH",
                         "Descripcion": "Daniel Zárate Ramírez"
                     },
                     {
-                        "horainicio" : "07:30",
-                        "horafin":"08:00",
-                        "titulo": "Súper Éxitos Gruperos",
-                        "Descripcion": "Con María de la Luz y Marcela García"                        
-                    },
-                    {
-                        "horainicio" : "08:00",
+                        "horainicio" : "08:30",
                         "horafin":"09:00",
                         "titulo": "Fiesta Huasteca",
-                        "Descripcion": "Con María de la Luz y Marcela García"
+                        "Descripcion": "Con María de la Luz y Roberto Garay"
                     },
                     {
                         "horainicio" : "09:00",
@@ -1317,33 +1317,39 @@
                     },
                     {
                         "horainicio" : "13:00",
+                        "horafin":"13:30",
+                        "titulo": "Seguro Que Ahorro",
+                        "Descripcion": "Con Leonides Leonardo"
+                    },
+                    {
+                        "horainicio" : "13:30",
                         "horafin":"14:00",
-                        "titulo": "Espacio Profundo",
+                        "titulo": "Ámbito Reflexivo",
                         "Descripcion": "Con Leonides Leonardo"
                     },
                     {
                         "horainicio" : "14:00",
                         "horafin":"14:30",
-                        "titulo": "Jazz",
+                        "titulo": "Noticiero Regional",
                         "Descripcion": "Con Leonides Leonardo"                        
                     },
                     {
                         "horainicio" : "14:30",
                         "horafin":"15:30",
-                        "titulo": "Destellos Tropicales",
+                        "titulo": "Leyendas del Trópico de Ayer y Hoy",
                         "Descripcion": "Con Ricardo Cruz",
                         "Hora": "14:30 - 15:30"
                     },
                     {
                         "horainicio" : "15:30",
                         "horafin":"16:00",
-                        "titulo": "Sinfonía Instrumental",
+                        "titulo": "Concierto Instrumental",
                         "Descripcion": "Con Leonides Leonardo"                        
                     },
                     {
                         "horainicio" : "16:00",
                         "horafin":"17:00",
-                        "titulo": "Los Súper Grupos",
+                        "titulo": "Los Clásicos en la Onda Grupera",
                         "Descripcion": "Con Roberto Garay"    
                     },
                     {
@@ -1355,37 +1361,31 @@
                     {
                         "horainicio" : "18:00",
                         "horafin":"19:00",
-                        "titulo": "Dosis Juvenil",
+                        "titulo": "Sintonía Juvenil",
                         "Descripcion": "Con Roberto Garay y Joel Vega"
                     },
                     {
                         "horainicio" : "19:00",
                         "horafin":"21:00",
-                        "titulo": "La Brújula Sonidera",
+                        "titulo": "Conexión Grupera",
                         "Descripcion": "Con Ricardo Cruz"
                     },
                     {
                         "horainicio" : "21:00",
                         "horafin":"22:00",
-                        "titulo": "La Época de Oro",
+                        "titulo": "Noches de Serenata",
                         "Descripcion": "Con Joel Vega"
                     },
                     {
                         "horainicio" : "22:00",
                         "horafin":"23:00",
-                        "titulo": "Electrovibra",
+                        "titulo": "Mezcla DJ",
                         "Descripcion": "Con Joel Vega y Roberto Garay"                        
                     },
                     {
                         "horainicio" : "23:00",
-                        "horafin":"23:30",
-                        "titulo": "Nivel del Rock",
-                        "Descripcion": "Con Joel Vega"
-                    },
-                    {
-                        "horainicio" : "23:30",
                         "horafin":"23:45",
-                        "titulo": "Rock Nacional",
+                        "titulo": "Nivel del Rock",
                         "Descripcion": "Con Joel Vega"
                     },
                     {
@@ -1402,27 +1402,26 @@
                     {
                         "horainicio" : "06:00",
                         "horafin":"07:00",
-                        "video": "/assets/imgs/onda.webm",
-                        "titulo": "Amanecer Sabrosito",
-                        "Descripcion": "Con María de la Luz y Marcela García"
+                        "titulo": "Alegre Despertar",
+                        "Descripcion": "Con María de la Luz y Roberto Garay"
                     },
                     {
                         "horainicio" : "07:00",
-                        "horafin":"07:30",
+                        "horafin":"08:00",
+                        "titulo": "Vocales Radio",
+                        "Descripcion": ""
+                    },
+                    {
+                        "horainicio" : "08:00",
+                        "horafin":"08:30",
                         "titulo": "Radio SEPH",
                         "Descripcion": "Daniel Zárate Ramírez"
                     },
                     {
-                        "horainicio" : "07:30",
-                        "horafin":"08:00",
-                        "titulo": "Súper Exitos Gruperos",
-                        "Descripcion": "Con Marcela García"                        
-                    },
-                    {
-                        "horainicio" : "08:00",
+                        "horainicio" : "08:30",
                         "horafin":"09:00",
                         "titulo": "Fiesta Huasteca",
-                        "Descripcion": "Con María de la Luz y Marecela García"
+                        "Descripcion": "Con María de la Luz y Roberto Garay"
                     },
                     {
                         "horainicio" : "09:00",
@@ -1434,48 +1433,48 @@
                         "horainicio" : "10:00",
                         "horafin":"12:00",
                         "titulo": "Onda Musical",
-                        "Descripcion": "Con Ricardo Cruz"
+                        "Descripcion": "Con Roberto Cruz"
                     },
                     {
                         "horainicio" : "12:00",
                         "horafin":"13:00",
                         "titulo": "Corazón Serrano",
-                        "Descripcion": "Con Ma. de la Luz, Roberto Garay y Leonides Leonardo"                        
+                        "Descripcion": "Con Ma. de la Luz, Roberto Garay y Leonides Leonardo"
                     },
                     {
                         "horainicio" : "13:00",
                         "horafin":"13:30",
-                        "titulo": "Sabores de Hidalgo",
+                        "titulo": "Identidad de La Sierra",
                         "Descripcion": "Sabores de Hidalgo"
                     },
                     {
                         "horainicio" : "13:30",
                         "horafin":"14:00",
-                        "titulo": "Espacio Profundo",
+                        "titulo": "Ámbito Reflexivo",
                         "Descripcion": "Con Leonides Leonardo"                        
                     },
                     {
                         "horainicio" : "14:00",
                         "horafin":"14:30",
-                        "titulo": "Jazz",
+                        "titulo": "Noticiero Regional",
                         "Descripcion": "Con Leonides Leonardo"
                     },
                     {
                         "horainicio" : "14:30",
                         "horafin":"15:30",
-                        "titulo": "Destellos Tropicales",
+                        "titulo": "Leyendas del Trópico de Ayer y Hoy",
                         "Descripcion": "Con Ricardo Cruz"                        
                     },
                     {
                         "horainicio" : "15:30",
                         "horafin":"16:00",
-                        "titulo": "Sinfonía Instrumental",
+                        "titulo": "Concierto Instrumental",
                         "Descripcion": "Con Leonides Leonardo"                        
                     },
                     {
                         "horainicio" : "16:00",
                         "horafin":"17:00",
-                        "titulo": "Los Súper Grupos",
+                        "titulo": "Los Clásicos en la Onda Grupera",
                         "Descripcion": "Con Roberto Garay"
                     },
                     {
@@ -1493,32 +1492,26 @@
                     {
                         "horainicio" : "19:00",
                         "horafin":"21:00",
-                        "titulo": "La Brújula Sonidera",
+                        "titulo": "Conexión Grupera",
                         "Descripcion": "Con Ricardo Cruz"
                     },
                     {
                         "horainicio" : "21:00",
                         "horafin":"22:00",
-                        "titulo": "La Época de Oro",
+                        "titulo": "Noches de Serenata",
                         "Descripcion": "Con Joel Vega"                        
                     },
                     {
                         "horainicio" : "22:00",
                         "horafin":"23:00",
-                        "titulo": "Electrovibra",
+                        "titulo": "Mezcla DJ",
                         "Descripcion": "Con Joel Vega y Roberto Garay"
                     },
                     {
                         "horainicio" : "23:00",
-                        "horafin":"23:30",
+                        "horafin":"23:45",
                         "titulo": "Nivel del Rock",
                         "Descripcion": "Con Joel Vega"
-                    },
-                    {
-                        "horainicio" : "23:30",
-                        "horafin":"23:45",
-                        "titulo": "Rock Nacional",
-                        "Descripcion": "Con Joel Vega"                        
                     },
                     {
                         "horainicio" : "23:45",
@@ -1534,7 +1527,7 @@
                     {
                         "horainicio" : "06:00",
                         "horafin":"07:00",
-                        "titulo": "Amanecer Sabrosito",
+                        "titulo": "Alegre Despertar",
                         "Descripcion": "Con María de la Luz y Marcela García"
                     },
                     {
@@ -1576,31 +1569,31 @@
                     {
                         "horainicio" : "13:00",
                         "horafin":"13:30",
-                        "titulo": "Identidad de Nuestra Sierra",
+                        "titulo": "Con Ritmo Adolescente",
                         "Descripcion": "Con Leonides Leonardo"
                     },
                     {
                         "horainicio" : "13:00",
                         "horafin":"14:00",
-                        "titulo": "El Círculo del Reggae",
+                        "titulo": "Modo Country",
                         "Descripcion": "Con Leonides Leonardo"
                     },
                     {
                         "horainicio" : "14:00",
                         "horafin":"15:00",
-                        "titulo": "Sonidos del Trópico",
+                        "titulo": "Vientos de mi Sierra",
                         "Descripcion": "Con Roberto Garay"
                     },
                     {
                         "horainicio" : "15:00",
                         "horafin":"16:00",
-                        "titulo": "Patrimonio Musical",
+                        "titulo": "Nuestra Herencia Musical",
                         "Descripcion": "Roberto Garay y Leonides Leonardo"
                     },
                     {
                         "horainicio" : "16:00",
                         "horafin":"17:00",
-                        "titulo": "Los Súper Grupos",
+                        "titulo": "Los Clásicos en la Onda Grupera",
                         "Descripcion": "Con Roberto Garay"
                     },
                     {
@@ -1618,7 +1611,7 @@
                     {
                         "horainicio" : "19:00",
                         "horafin":"20:00",
-                        "titulo": "Ventana a la Trova",
+                        "titulo": "Trovadores del Mundo",
                         "Descripcion": "Con Joel y Roberto Garay"
                     },
                     {
@@ -1630,26 +1623,20 @@
                     {
                         "horainicio" : "21:00",
                         "horafin":"22:00",
-                        "titulo": "La Época de Oro",
+                        "titulo": "Noches de Serenata",
                         "Descripcion": "Con Joel Vega"
                     },
                     {
                         "horainicio" : "22:00",
                         "horafin":"23:00",
-                        "titulo": "Electrovibra",
+                        "titulo": "Mezcla DJ",
                         "Descripcion": "Con Joel Vega y Roberto Garay"
                     },
                     {
                         "horainicio" : "23:00",
-                        "horafin":"23:30",
+                        "horafin":"23:45",
                         "titulo": "Nivel del Rock",
                         "Descripcion": "Con Joel Vega"
-                    },
-                    {
-                        "horainicio" : "23:30",
-                        "horafin":"23:45",
-                        "titulo": "Rock Nacional",
-                        "Descripcion": "Con Joel Vega"                        
                     },
                     {
                         "horainicio" : "23:45",
@@ -1665,7 +1652,7 @@
                     {
                         "horainicio" : "06:00",
                         "horafin":"07:00",
-                        "titulo": "Amanecer Sabrosito",
+                        "titulo": "Alegre Despertar",
                         "Descripcion": "Con María de la Luz y Marcela García"
                     },
                     {
@@ -1695,7 +1682,7 @@
                     {
                         "horainicio" : "11:00",
                         "horafin":"12:00",
-                        "titulo": "Vientos de mi Sierra",
+                        "titulo": "Los Inmortales",
                         "Descripcion": "Con Leonides Leonardo"
                     },
                     {
@@ -1707,61 +1694,67 @@
                     {
                         "horainicio" : "13:00",
                         "horafin":"13:30",
-                        "titulo": "Paisajes Sierra Gorda",
+                        "titulo": "Seguro Que Ahorro",
                         "Descripcion": "Con Ma. de la Luz, Roberto Garay y Leonides Leonardo"
                     },
                     {
                         "horainicio" : "13:30",
                         "horafin":"14:00",
-                        "titulo": "El Circulo del Reggae",
+                        "titulo": "Modo Country",
                         "Descripcion": "Con Leonides Leonardo"
                     },
                     {
                         "horainicio" : "13:00",
                         "horafin":"15:00",
-                        "titulo": "Sonidos del Trópico",
+                        "titulo": "Vientos de mi Sierra",
                         "Descripcion": "Con Roberto Garay y Leonides Leonardo"
                     },
                     {
                         "horainicio" : "15:00",
                         "horafin":"16:00",
-                        "titulo": "Patrimonio Musical",
+                        "titulo": "Nuestra Herencia Musical",
                         "Descripcion": "Roberto Garay y Leonides Leonardo"
                     },
                     {
                         "horainicio" : "16:00",
-                        "horafin":"17:00",
-                        "titulo": "Los Súper Grupos",
+                        "horafin":"16:30",
+                        "titulo": "Deporte Radio",
                         "Descripcion": "Con Ricardo Cruz y Roberto Garay"
+                    },
+                    {
+                        "horainicio" : "16:30",
+                        "horafin":"17:00",
+                        "titulo": "El Circulo del Reggae",
+                        "Descripcion": "Con Roberto Garay, Leonides Leonardo y Joel Vega"
                     },
                     {
                         "horainicio" : "17:00",
                         "horafin":"18:00",
                         "titulo": "La Sierra Canta",
-                        "Descripcion": "Con Roberto Garay, Leonides Leonardo y Joel Vega"
+                        "Descripcion": "Con Marcela García, Leonides Leonardo y Joel Vega"
                     },
                     {
                         "horainicio" : "18:00",
                         "horafin":"19:00",
-                        "titulo": "Memorias Eternas",
+                        "titulo": "Remember Forever",
                         "Descripcion": "Con Marcela García, Leonides Leonardo y Joel Vega"
                     },
                     {
                         "horainicio" : "19:00",
                         "horafin":"20:00",
-                        "titulo": "Ventana a la Trova",
+                        "titulo": "Trovadores del Mundo",
                         "Descripcion": "Con Marcela García"
                     },
                     {
                         "horainicio" : "20:00",
                         "horafin":"21:00",
-                        "titulo": "La Brújula Sonidera",
+                        "titulo": "Veladas del Jazz",
                         "Descripcion": "Con Ricardo Cruz"
                     },
                     {
                         "horainicio" : "21:00",
                         "horafin":"22:00",
-                        "titulo": "La Época de Oro",
+                        "titulo": "Noches de Serenata",
                         "Descripcion": "Con Joel Vega"
                     },
                     {
@@ -1778,14 +1771,8 @@
                     },
                     {
                         "horainicio" : "23:00",
-                        "horafin":"23:30",
-                        "titulo": "Los Sonidos del Blues",
-                        "Descripcion": "Con Joel Vega"
-                    },
-                    {
-                        "horainicio" : "23:00",
                         "horafin":"23:45",
-                        "titulo": "Veladas del Jazz",
+                        "titulo": "Nivel del Rock",
                         "Descripcion": "Con Joel Vega"
                     },
                     {
