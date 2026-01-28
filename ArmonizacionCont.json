@@ -961,58 +961,59 @@
                         "botoncontenido" : [
                             {
                                 "subtitulo" : "Estado de Actividades",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/pdf/a.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/xls/a.xls"
                             },
                             {
                                 "subtitulo" : "Estado de Situación Financiera",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/pdf/b.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/xls/b.xls"
+
                             },
                             {
                                 "subtitulo" : "Estado de Variación en la Hacienda Publica",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/pdf/c.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/xls/c.xls"
                             },
                             {
                                 "subtitulo" : "Estado de Cambios en la Situación Financiera",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/pdf/d.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/xls/d.xls"
                             },
                             {
                                 "subtitulo" : "Estado de Flujos de Efectivo",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/pdf/e.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/xls/e.xls"
                             },
                             {
                                 "subtitulo" : "Informe Sobre Pasivos Contingentes",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/pdf/f.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/xls/f.xls"
                             },
                             {
                                 "subtitulo" : "Notas a los Estados Financieros",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/pdf/g.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/xls/g.xlsx"
                             },
                             {
                                 "subtitulo" : "Estado Analítico del Activo",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/pdf/h.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/xls/h.xls"
                             },
                             {
                                 "subtitulo" : "Estado Analítico de la Deuda y Otros Pasivos",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/pdf/i.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/xls/i.xls"
                             },
                             {
-                                "subtitulo" : "Conciliación Entre los Ingresos Presupuestarios y Contables",
-                                "pdf" : "",
-                                "xml" : ""
+                                "subtitulo" : "Conciliación Entre los Ingresos Presupuestaros y Contable",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/pdf/j.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/xls/j.xls"
                             },
                             {
-                                "subtitulo" : "Conciliación Entre los Egresos Presupuestarios y los Gastos Contables",
-                                "pdf" : "",
-                                "xml" : ""
+                                "subtitulo" : "Conciliación Entre los Engresos Presupuestaros y los Gastos Contable",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/pdf/k.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfContable/2025/4toTrim/xls/k.xls"
                             }
                         ]
                     },
@@ -1021,53 +1022,58 @@
                         "botoncontenido" : [
                             {
                                 "subtitulo" : "Estado Analítico de Ingresos CRI/CFF",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/pdf/a.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/xls/a.xls"
                             },
                             {
                                 "subtitulo" : "Estado Analítico de Ingresos Presupuestales CFI",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/pdf/b.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/xls/b.xls"
+                            },
+                            {
+                                "subtitulo" : "Estado Analítico del Ejercicio del Presupuesto de Egresos",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/pdf/c.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/xls/c.xls"
                             },
                             {
                                 "subtitulo" : "Estado Analítico del Ejercicio del Presupuesto de Egresos COG",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/pdf/d.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/xls/d.xls"
                             },
                             {
                                 "subtitulo" : "Estado Analítico del Ejercicio del Presupuesto de Egresos CE",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/pdf/e.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/xls/e.xls"
                             },
                             {
                                 "subtitulo" : "Estado Analítico del Ejercicio del Presupuesto de Egresos CA",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/pdf/f.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/xls/f.xls"
                             },
                             {
                                 "subtitulo" : "Estado Analítico del Ejercicio del Presupuesto de Egresos CF",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/pdf/g.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/xls/g.xls"
                             },
                             {
                                 "subtitulo" : "Endeudamiento Neto",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/pdf/h.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/xls/h.xls"
                             },
                             {
                                 "subtitulo" : "Intereses de la Deuda",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/pdf/i.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/xls/i.xls"
                             },
                             {
                                 "subtitulo" : "Flujo de Fondos",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/pdf/j.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/xls/j.xls"
                             },
                             {
                                 "subtitulo" : "Indicadores de Postura Fiscal",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/pdf/k.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfPresupuestal/2025/4toTrim/xls/k.xls"
                             }
                         ]
                     },
@@ -1076,18 +1082,18 @@
                         "botoncontenido" : [
                             {
                                 "subtitulo" : "Gasto por Categoría Programática",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfProgramatica/2025/4toTrim/pdf/a.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfProgramatica/2025/4toTrim/xls/a.xls"
                             },
                             {
                                 "subtitulo" : "Programas y Proyectos de Inversión",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfProgramatica/2025/4toTrim/pdf/b.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfProgramatica/2025/4toTrim/xls/b.xlsx"
                             },
                             {
                                 "subtitulo" : "Indicadores de Resultados",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfProgramatica/2025/4toTrim/pdf/c.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/InfProgramatica/2025/4toTrim/xls/c.xltx"
                             }
                         ]
                     },
@@ -1126,8 +1132,8 @@
                             },
                             {
                                 "subtitulo" : "Montos Pagados por Ayudas y Subsidios",
-                                "pdf" : "",
-                                "xml" : ""
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/TituloLGCG/2025/4toTrim/pdf/d.pdf",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/TituloLGCG/2025/4toTrim/xls/d.xlsx"
                             },
                             {
                                 "subtitulo" : "Ejercicio y Destino de Gasto Federalizado",
@@ -1154,6 +1160,7 @@
                                 "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/TituloLGCG/2025/4toTrim/pdf/i.pdf",
                                 "xml" : ""
                             }
+
                         ]
                     },
                     {
@@ -1180,7 +1187,7 @@
                                 "xml" : ""
                             }
                         ]
-                    },
+                    }, 
                     {
                         "titulo" : "Cuenta Pública",
                         "botoncontenido" : [
@@ -1192,47 +1199,47 @@
                             {
                                 "subtitulo" : "Estado de Situación Financiera Detallado - LDF",
                                 "pdf" : "",
-                                "xml" : ""
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/a.xls"
                             },
                             {
                                 "subtitulo" : "Informe Analítico de la Deuda Pública y Otros Pasivos - LDF",
                                 "pdf" : "",
-                                "xml" : ""
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/b.xls"
                             },
                             {
                                 "subtitulo" : "Informe Analítico de Obligaciones Diferentes de Financiamientos – LDF",
                                 "pdf" : "",
-                                "xml" : ""
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/c.xls"
                             },
                             {
                                 "subtitulo" : "Balance Presupuestario - LDF",
                                 "pdf" : "",
-                                "xml" : ""
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/d.xls"
                             },
                             {
                                 "subtitulo" : "Estado Analítico de Ingresos Detallado - LDF",
                                 "pdf" : "",
-                                "xml" : ""
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/e.xls"
                             },
                             {
                                 "subtitulo" : "Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado COG - LDF",
                                 "pdf" : "",
-                                "xml" : ""
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/f.xls"
                             },
                             {
                                 "subtitulo" : "Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado CA - LDF",
                                 "pdf" : "",
-                                "xml" : ""
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/g.xls"
                             },
                             {
                                 "subtitulo" : "Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado CF - LDF",
                                 "pdf" : "",
-                                "xml" : ""
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/h.xls"
                             },
                             {
                                 "subtitulo" : "Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado CSP - LDF",
                                 "pdf" : "",
-                                "xml" : ""
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/i.xls"
                             },
                             {
                                 "subtitulo" : "Proyecciones de Ley de Ingresos - LDF",
@@ -1240,27 +1247,27 @@
                                 "xml" : ""
                             },
                             {
-                                "subtitulo" : "Proyecciones de Egresos - LDF",
+                                "subtitulo" : "Proyecciones de Egresos - LDF - LDF",
                                 "pdf" : "",
                                 "xml" : ""
                             },
                             {
-                                "subtitulo" : "Resultados de Ingresos - LDF",
+                                "subtitulo" : "Resultados de Ingresos - LDF - LDF",
                                 "pdf" : "",
-                                "xml" : ""
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/l.xls"
                             },
                             {
-                                "subtitulo" : "Resultados de Egresos - LDF",
+                                "subtitulo" : "Resultados de Egresos - LDF - LDF",
                                 "pdf" : "",
-                                "xml" : ""
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/m.xls"
                             },
                             {
-                                "subtitulo" : "Informe Sobre Estudios Actuariales - LDF",
+                                "subtitulo" : "Informe Sobre Estudios Actuariales - LDF - LDF",
                                 "pdf" : "",
-                                "xml" : ""
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/n.xls"
                             }
                         ]
-                    }    
+                    }        
                 ]
             }
         ]
