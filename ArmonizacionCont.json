@@ -245,7 +245,7 @@
                         "titulo" : "Disciplina Financiera",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Trimestrales"
+                                "subtitulo" : "TRIMESTRALES"
                             },
                             {
                                 "subtitulo" : "Estado de Situación Financiera Detallado - LDF",
@@ -291,6 +291,9 @@
                                 "subtitulo" : "Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado CSP - LDF",
                                 "pdf" : "",
                                 "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/i.xls"
+                            },
+                            {
+                                "subtitulo" : "ANUALES"
                             },
                             {
                                 "subtitulo" : "Proyecciones de Ley de Ingresos - LDF",
