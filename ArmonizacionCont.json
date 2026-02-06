@@ -245,6 +245,9 @@
                         "titulo" : "Disciplina Financiera",
                         "botoncontenido" : [
                             {
+                                "subtitulo" : "Trimestrales"
+                            },
+                            {
                                 "subtitulo" : "Estado de Situación Financiera Detallado - LDF",
                                 "pdf" : "",
                                 "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/a.xls"
