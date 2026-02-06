@@ -133,35 +133,7 @@
                         ]
                     }
                 ] 
-            },
-            {
-                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
-                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2025",
-                "contenido" : [
-                    {
-                        "titulo" : "PAAS",
-                        "botoncontenido" : [
-                            {
-                                "nlicitacion":"PAAS",
-                                "subtitulo" : "8.1",
-                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/PAAS/2025/PAAS/8.1.pdf",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "8.2",
-                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/PAAS/2025/PAAS/8.2.pdf",
-                                "xml" : ""
-                            },
-                            {
-
-                                "subtitulo" : "8.3",
-                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/PAAS/2025/PAAS/8.3.pdf",
-                                "xml" : ""
-                            }
-                        ]
-                    }
-                ] 
-            }
+            }          
         ]
     },
     {
@@ -266,14 +238,7 @@
                     }
                     
                 ] 
-            },
-            {
-                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
-                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2024",
-                "contenido" : [
-                    
-                ] 
-            }
+            }         
         ]
     },
     {
@@ -296,13 +261,6 @@
             {
                 "tipoLicitacion" : "Invitación a Cuando Menos 3 Personas",
                 "nombreLicitacion" : "Invitación a Cuando Menos 3 Personas 2023",
-                "contenido" : [
-                    
-                ] 
-            },
-            {
-                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
-                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2023",
                 "contenido" : [
                     
                 ] 
@@ -357,13 +315,6 @@
                 "contenido" : [
                     
                 ] 
-            },
-            {
-                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
-                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2022",
-                "contenido" : [
-                    
-                ] 
             }
         ]
     },
@@ -399,13 +350,6 @@
                         ]
                     }
                 ] 
-            },
-            {
-                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
-                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2021",
-                "contenido" : [
-                    
-                ] 
             }
         ]
     },
@@ -429,13 +373,6 @@
             {
                 "tipoLicitacion" : "Invitación a Cuando Menos 3 Personas",
                 "nombreLicitacion" : "Invitación a Cuando Menos 3 Personas 2020",
-                "contenido" : [
-                    
-                ] 
-            },
-            {
-                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
-                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2020",
                 "contenido" : [
                     
                 ] 
@@ -465,13 +402,6 @@
                 "contenido" : [
                     
                 ] 
-            },
-            {
-                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
-                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2019",
-                "contenido" : [
-                    
-                ] 
             }
         ]
     },
@@ -495,13 +425,6 @@
             {
                 "tipoLicitacion" : "Invitación a Cuando Menos 3 Personas",
                 "nombreLicitacion" : "Invitación a Cuando Menos 3 Personas 2018",
-                "contenido" : [
-                    
-                ] 
-            },
-            {
-                "tipoLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios",
-                "nombreLicitacion" : "Programa Anual de Aquisiciones, Arrendamientos y Servicios 2018",
                 "contenido" : [
                     
                 ] 
