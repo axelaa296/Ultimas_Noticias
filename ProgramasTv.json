@@ -1,0 +1,311 @@
+[
+    {
+        "Programa" : "Con Ciencia",
+        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConCiencia/FConCiencia.jpg",
+        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConCiencia/LoConCiencia.jpg",
+        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConCiencia/LConCiencia.png",
+        "Sinopsis" : "Espacio de difusión de la ciencia y la tecnología, donde se muestran las investigaciones realizadas por alumnos de universidades y de educación media superior del estado de Hidalgo, con enfoques en temas nacionales e internacionales. Todos relacionados con la inteligencia artificial que influye en nuestras vidasc como seres humanos.",
+        "Genero" : "Educativo",
+        "Productor/a" : "Gerardo Islas Muñoz",
+        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConCiencia/BPuConCiencia.jpg",
+        "Conductores" : [
+            {
+                "Nombre" : "Astrid García",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConCiencia/CPerAstrid.jpg"
+            }
+        ],
+        "YT" : "https://www.youtube.com/embed/sdcvHBY91P8?si=WqIGHbN0atynTAUX",
+        "color" : "#ffffff"
+    },
+    {
+        "Programa" : "¡Entérate Ya!",
+        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/EnterateYa/FEnterateYa.jpg",
+        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/EnterateYa/LoEnterateYa.jpg",
+        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/EnterateYa/LEnterateYa.png",
+        "Sinopsis" : "Programa televisivo que nos presenta semanalmente las actividades culturales a través de la cartelera cultural, las notas más interesantes y recientes del mundo del espectáculo en lo que respecta al cine, televisión, música, influencers y celebridades.",
+        "Genero" : "Entretenimiento",
+        "Productor/a" : "Astrid García",
+        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/EnterateYa/BPuEnterateYa.jpg",
+        "Conductores" : [
+            {
+                "Nombre" : "Anabelly Espinosa",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/EnterateYa/CPerAnabelly.jpg"
+            },
+            {
+                "Nombre" : "Miguel Bailón",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/EnterateYa/CPerAlvaro.jpg"
+            },
+            {
+                "Nombre" : "Christian Leines",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/EnterateYa/CPerChristian.jpg"
+            }
+        ],
+        "YT" : "",
+        "color" : "#ffffff"
+    },
+    {
+        "Programa" : "Historia de Vida",
+        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HistoriasDeVida/FHistoriasDeVida.jpg",
+        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HistoriasDeVida/LoHistoriasDeVida.jpg",
+        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HistoriasDeVida/LHistoriasDeVida.png",
+        "Sinopsis" : "Programa dedicado a la experiencia de diferentes personas que han sido importante en el desarrollo y la economía, como homenaje a todas las personas que de viva voz cuentan sus experiencias y su trayectoria en diferentes ámbitos laborales.",
+        "Genero" : "Documental informativo",
+        "Productor/a" : "Gerardo Islas Muñoz",
+        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HistoriasDeVida/BPuHistoriasDeVida.jpg",
+        "Conductores" : [
+            {
+                "Nombre" : "",
+                "Imagen" : ""
+            }
+        ],
+        "YT" : "https://www.youtube.com/embed/videoseries?si=4WWKEfL2TADwN96_&amp;list=PLqnoVHEy4l7k0uGa30--jBNn5ERuwhPKn",
+        "color" : "#000000"
+    },
+    {
+        "Programa" : "Hidalgo Noticias",
+        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HidalgoNoticias/FHidalgoNoticias.jpg",
+        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HidalgoNoticias/LoHidalgoNoticias.jpg",
+        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HidalgoNoticias/LHidalgoNoticias.png",
+        "Sinopsis" : "En este espacio se da a conocer la información más importante del estado de Hidalgo, así como un resumen nacional e internacional, la intención es que la gente esté informada de los acontecimientos generados en la capital hidalguense, la información generada por las actividades del gobernador del estado, las diferentes secretarías y las 84 presidencias municipales.",
+        "Genero" : "Informativo",
+        "Productor/a" : "Sandra Rojas",
+        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HidalgoNoticias/BPuHidalgoNoticias.jpg",
+        "Conductores" : [
+            {
+                "Nombre" : "Karina Atanacio",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HidalgoNoticias/CPerKari.jpg"
+            },
+            {
+                "Nombre" : "Mara Olvera",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HidalgoNoticias/CPerMara.jpg"
+            },
+            {
+                "Nombre" : "Uriel Ramírez",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HidalgoNoticias/CPerUriel.jpg"
+            },
+            {
+                "Nombre" : "Citlalli Velázco",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HidalgoNoticias/CPerCitlalli.jpg"
+            }
+        ],
+        "YT" : "",
+        "color" : "#000000"
+    },
+    {
+        "Programa" : "Leyendas del Estado de Hidalgo",
+        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Leyendas/FLeyendas.jpg",
+        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Leyendas/LoLeyendas.jpg",
+        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Leyendas/LLeyendas.png",
+        "Sinopsis" : "Programa de televisión cuyos objetivos son el rescate, preservación y difusión de las leyendas del Estado de Hidalgo, con el propósito de dar a conocer a las nuevas generaciones esta riqueza cultural, de tradiciones, e historia popular, costumbres, narraciones que existen en la memoria y el imaginario popular. Leyendas Narradas a través de un personaje ('El Leyendero') que va contando cada historia, y se van entrelazando cada una de las escenas, actuadas por integrantes de la Compañía de teatro 'ArtEscena'",
+        "Genero" : "Entretenimiento y Cultural",
+        "Productor/a" : "Luis Manuel García Aguirre",
+        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Leyendas/BPuLeyendas.jpg",
+        "Conductores" : [
+            {
+                "Nombre" : "Luis Manuel García",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Leyendas/CPerLuis.jpg"
+            } 
+        ],
+        "YT" : "https://www.youtube.com/embed/videoseries?si=_viQ0nvdvn88J3ZA&amp;list=PLqnoVHEy4l7m_O1ptf-GWykjEl14of3bl",
+        "color" : "#ffffff"
+    },
+    {
+        "Programa" : "Mente Sana",
+        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/MenteSana/FMenteSana.jpg",
+        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/MenteSana/LoMenteSana.jpg",
+        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/MenteSana/LMenteSana.png",
+        "Sinopsis" : "Durante esre programa, se aborda el bienestar mental como un estado en el que la persona es consciente de sus propias aptitudes y es capaz de enfrentar las presiones diarias, lo que permite trabajar de manera productiva y contribuir a la comunidad. La mente es el conjunto de capacidades relacionadas con el conocimiento, como la memoria, la imaginación, la percepción y el pensamiento.",
+        "Genero" : "Salud",
+        "Productor/a" : "Roció Carolina Rivera Martínez",
+        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/MenteSana/BPuMenteSana.jpg",
+        "Conductores" : [
+            {
+                "Nombre" : "Lorena Patchen",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/MenteSana/CPerPatchen.jpg"
+            }
+        ],
+        "YT" : "https://www.youtube.com/embed/videoseries?si=ZHHXe38RCt2RQTMH&amp;list=PLqnoVHEy4l7lw-_b0xjQM7lND4_lBny1Q",
+        "color" : "#ffffff"
+    },
+    {
+        "Programa" : "Sobre La Mesa Político",
+        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/SobreLaMesa/FSobreLaMesaP.jpg",
+        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/SobreLaMesa/LoSobreLaMesaP.jpg",
+        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/SobreLaMesa/LSobreLaMesa.png",
+        "Sinopsis" : "Programa de análisis y discusión política en voz de los más importantes periodistas líderes de opinión en nuestra entidad y a nivel nacional.",
+        "Genero" : "Informativo",
+        "Productor/a" : "Sandra Rojas González",
+        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/SobreLaMesa/BPuSobreMP.jpg",
+        "Conductores" : [
+            {
+                "Nombre" : "Mara Olvera",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HidalgoNoticias/CPerMara.jpg"
+            }
+        ],
+        "YT" : "https://www.youtube.com/embed/videoseries?si=jqoXizMjji2M2TOX&amp;list=PLqnoVHEy4l7kUMBnuS1rleUmDc1MqZ9xk",
+        "color" : "#ffffff"
+    },
+    {
+        "Programa" : "Con Nosotras",
+        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConNosotras/FConNosotras.jpg",
+        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConNosotras/LoConNosotras.jpg",
+        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConNosotras/LConNosotras.png",
+        "Sinopsis" : "Programa femenino con fundamentos informativos, donde se expresan opiniones de personas especializadas, además del criterio de cinco mujeres expertas en medios de comunicación que actúan como portavoces de opiniones, dudas y sugerencias. Se tratan temas relacionados con sexualidad, pensamientos psicológicos, cuestiones médicas de los órganos reproductivos, dudas sobre la diversidad sexual y el comportamiento social, con el objetivo de promover una sociedad más igualitaria entre mujeres y hombres.",
+        "Genero" : "Entretenimiento e informativo",
+        "Productor/a" : "Rocío Carolina Rivera Martínez",
+        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConNosotras/BPuCoNosotras.jpg",
+        "Conductores" : [
+            {
+                "Nombre" : "Ariana Macin",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConNosotras/CPerAriana.jpg"
+            },
+            {
+                "Nombre" : "Lorena Patchen",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConNosotras/CPerLorena.jpg"
+            },
+            {
+                "Nombre" : "Citlally Velasco",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConNosotras/CPerCitlally.jpg"
+            },
+            {
+                "Nombre" : "Mara Olvera",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConNosotras/CPerMara.jpg"
+            }
+        ],
+        "YT" : "https://www.youtube.com/embed/videoseries?si=Ns2-p-jmUKD5yrxE&amp;list=PLqnoVHEy4l7mICBwGf2-zSr1IpA4ie1ZO",
+        "color" : "#ffffff"
+    },
+    {
+        "Programa" : "Tu Rutina",
+        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TuRutina/FTuRutina.jpg",
+        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TuRutina/CTuRutina.jpg",
+        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TuRutina/CTuRutina.jpg",
+        "Sinopsis" : "Programa deportivo donde muestra rutinas de ejercicio, para las hidalguenses",
+        "Genero" : "Deportivo",
+        "Productor/a" : "Erick Daniel Paredes López",
+        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TuRutina/BPuRutina.png",
+        "Conductores" : [
+            {
+                "Nombre" : "",
+                "Imagen" : ""
+            }
+        ],
+        "YT" : "",
+        "color" : "#ffffff"
+    },
+    
+    {
+        "Programa" : "Sobre La Mesa Deportivo",
+        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/SobreLaMesa/FSobreLaMesaP.jpg",
+        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/SobreLaMesa/LoSobreLaMesaD.jpg",
+        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/SobreLaMesa/LSobreLaMesa.png",
+        "Sinopsis" : "Programa de análisis y discusión deportiva presentado por destacados lideres deportivos a nivel local y nacional en nuestra entidad.",
+        "Genero" : "Informativo-Deportivo",
+        "Productor/a" : "Sandra Rojas González",
+        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/SobreLaMesa/BPuSobreMP.jpg",
+        "Conductores" : [
+            {
+                "Nombre" : "Elizabeth Patiño",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TDH/CPerEli.jpg"
+            }
+        ],
+        "YT" : "https://www.youtube.com/embed/videoseries?si=jqoXizMjji2M2TOX&amp;list=PLqnoVHEy4l7kUMBnuS1rleUmDc1MqZ9xk",
+        "color" : "#ffffff"
+    },
+    {
+        "Programa" : "Tu Deporte Hidalgo",
+        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TDH/FTDH.jpg",
+        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TDH/LoTDH.jpg",
+        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TDH/LTDH.png",
+        "Sinopsis" : "Programa donde se dan a conocer las actividades del mundo del deporte en el estado de Hidalgo, con entrevistas y participación de deportistas que permiten difundir los diferentes deportes practicados tanto en la entidad, como a nivel nacional e internacional",
+        "Genero" : "Deportivo",
+        "Productor/a" : "Raúl Bautista",
+        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TDH/BPuTDH.jpg",
+        "Conductores" : [
+            {
+                "Nombre" : "Raúl Bautista",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TDH/CPerRaul.jpg"
+            },
+            {
+                "Nombre" : "Eli Patiño",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TDH/CPerEli.jpg"
+            }
+        ],
+        "YT" : "",
+        "color" : "#ffffff"
+    },
+    {
+        "Programa" : "Noche De Viernes",
+        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/FNocheDeViernes.jpg",
+        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/LoNocheDeViernes.jpg",
+        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/LNocheDeViernes.png",
+        "Sinopsis" : "Programa musical y de entretenimiento con invitados musicales regionales, nacionales e internacionales, así como cápsulas de identidad regional.",
+        "Genero" : "Musical",
+        "Productor/a" : "Gabriel Perales Ramírez",
+        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/BPuNocheViernes.jpg",
+        "Conductores" : [
+            {
+                "Nombre" : "Ricardo Olguín",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/CPerRichi.jpg"
+            },
+            {
+                "Nombre" : "Marichuy Cornejo",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/CPerMarichuy.jpg"
+            },
+            {
+                "Nombre" : "Iliana Karen",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/CPerIliana.jpg"
+            },
+            {
+                "Nombre" : "Wendy Ángeles",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/CPerAngeles.jpg"
+            }
+        ],
+        "YT" : "",
+        "color" : "#ffffff"
+    },
+    {
+        "Programa" : "Xplosión Sónica",
+        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/XplosionSonica/FXplosionSonica.jpg",
+        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/XplosionSonica/LoXplosionSonica.jpg",
+        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/XplosionSonica/LXplosionSonica.png",
+        "Sinopsis" : "Programa televisivo en el que dan a conocer las nuevas proppuestas musicales de artistas a través de videos, generando expectación en el público al escuchar y ver estas propuestas. El programa se esfuerza por ser un espacio de expresión abierto para todas las agrupaciones del estado de Hidalgo, abarcando una amplia variedad de gustos musicales.",
+        "Genero" : "Musical",
+        "Productor/a" : "Elverth Castillo",
+        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/XplosionSonica/BPuXplosionSonica.jpg",
+        "Conductores" : [
+            {
+                "Nombre" : "Elverth Castillo",
+                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/XplosionSonica/PerCastillo.jpg"
+            }
+        ],
+        "YT" : "",
+        "color" : "#ffffff"
+    },    
+    {
+         "Programa" : "Ya es Hora",
+         "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/YaEsHora/FYaEsHora.jpg",
+         "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/YaEsHora/LoYaEsHora.jpg",
+         "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/YaEsHora/LYaEsHora.png",
+         "Sinopsis" : "Revista matutina, con el propósito de entretener e informar a las familias hidalguenses a través de diferentes secciones  que abordan  temas de salud, bienestar, entrevistas, música, entre otros.",
+         "Genero" : "Entretenimiento",
+         "Productor/a" : "José Omar Aguirre García",
+         "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/YaEsHora/BPuYaEsHora.jpg",
+         "Conductores" : [
+             {
+                 "Nombre" : "Claudia Jim",
+                 "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/YaEsHora/CPerClaudia.jpg"
+             },
+             {
+                 "Nombre" : "Hugo Guzmán",
+                 "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/YaEsHora/CPerHugo.jpg"
+             },
+             {
+                 "Nombre" : "Gaby Quezada",
+                 "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/YaEsHora/CPerGaby.jpg"
+             }
+         ],
+         "YT" : "",
+         "color" : "#ffffff"
+    }
+]
