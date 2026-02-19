@@ -1,0 +1,44 @@
+[
+    {
+    "imagen": "https://cdn.hidalgo.gob.mx/gobierno/dependencias/RTH/Tv/HidalgoNoticias/BPuHidalgoNoticias.jpg",
+    "alt": "...",
+    "class": "d-block w-300"
+    },
+    {
+    "imagen": "https://cdn.hidalgo.gob.mx/gobierno/dependencias/RTH/Tv/YaEsHora/BPuYaEsHora.jpg",
+    "alt": "...",
+    "class": "d-block w-300"
+    }, {
+    "imagen": "https://cdn.hidalgo.gob.mx/gobierno/dependencias/RTH/Tv/TDH/BPuTDH.jpg",
+    "alt": "...",
+    "class": "d-block w-300"
+    }, {
+    "imagen": "https://cdn.hidalgo.gob.mx/gobierno/dependencias/RTH/Tv/Leyendas/BPuLeyendas.jpg",
+    "alt": "...",
+    "class": "d-block w-300"
+    }, {
+    "imagen": "https://cdn.hidalgo.gob.mx/gobierno/dependencias/RTH/Tv/SobreLaMesa/BPuSobreMP.jpg",
+    "alt": "...",
+    "class": "d-block w-300"
+    }, {
+    "imagen": "https://cdn.hidalgo.gob.mx/gobierno/dependencias/RTH/Tv/NocheDeViernes/BPuNocheViernes.jpg",
+    "alt": "...",
+    "class": "d-block w-300"
+    }, {
+    "imagen": "https://cdn.hidalgo.gob.mx/gobierno/dependencias/RTH/Tv/EnterateYa/BPuEnterateYa.jpg",
+    "alt": "...",
+    "class": "d-block w-300"
+    }, {
+    "imagen": "https://cdn.hidalgo.gob.mx/gobierno/dependencias/RTH/Tv/XplosionSonica/BPuXplosionSonica.jpg",
+    "alt": "...",
+    "class": "d-block w-300"
+    }, {
+    "imagen": "https://cdn.hidalgo.gob.mx/gobierno/dependencias/RTH/Tv/ConCiencia/BPuConCiencia.jpg",
+    "alt": "...",
+    "class": "d-block w-300"
+    }, {
+    "imagen": "https://cdn.hidalgo.gob.mx/gobierno/dependencias/RTH/Tv/MenteSana/BPuMenteSana.jpg",
+    "alt": "...",
+    "class": "d-block w-300"
+    }
+    ]
