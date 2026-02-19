@@ -1,0 +1,136 @@
+[
+    {
+        "categoria" : "SCII",
+        "subcategoria" : [
+            {
+                "titulo" : "PTCI",
+                "anos" : [
+                    {
+                        "ano" : "2025",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PTCI/2025/PTCI2025.pdf"
+                    },
+                    {
+                        "ano" : "2024",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PTCI/2024/PTCI2024.pdf"
+                    },
+                    {
+                        "ano" : "2023",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PTCI/2023/PTCI2023.pdf"
+                    },
+                    {
+                        "ano" : "2022",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PTCI/2022/PTCI2022.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo" : "PAC",
+                "anos" : [
+                    {
+                        "ano" : "2024",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PAC/2024/PAC2024.pdf"
+                    },
+                    {
+                        "ano" : "2023",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PAC/2023/PAC2023.pdf"
+                    },
+                    {
+                        "ano" : "2022",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PAC/2022/PTCI2022.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo" : "PTAR",
+                "anos" : [
+                    {
+                        "ano" : "2024",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PTAR/2024/PTAR2024.pdf"
+                    },
+                    {
+                        "ano" : "2023",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PTAR/2023/PTAR2023.pdf"
+                    },
+                    {
+                        "ano" : "2022",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PTAR/2022/PTAR2022.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "categoria" : "CEPCI",
+        "subcategoria" : [
+            {
+                "titulo" : "PAT",
+                "anos" : [
+                    {
+                        "ano" : "2025",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/PAT/2025/PAT2025.pdf"
+                    },
+                    {
+                        "ano" : "2024",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/PAT/2024/PAT2024.pdf"
+                    },
+                    {
+                        "ano" : "2023",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/PAT/2023/PAT2023.pdf"
+                    },
+                    {
+                        "ano" : "2022",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/PAT/2022/PAT2022.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo" : "Protocolo Cero",
+                "anos" : [
+                    {
+                        "ano" : "Pronunciamiento Cero Tolerancia",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/P0T/P0T.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo" : "Herramientas Administrativas",
+                "anos" : [
+                    {
+                        "ano" : "Formato de Denuncia",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/HA/FD/FD.pdf"
+                    },
+                    {
+                        "ano" : "Código de Conducta de la SEGOBH",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/HA/CCS/CCS.pdf"
+                    },
+                    {
+                        "ano" : "Código de Ética de la Admon. Publica del Edo. de Hidalgo",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/HA/CEAPEH/CEAPEH.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "categoria" : "Mejora Regulatoria",
+        "subcategoria" : [
+            {
+                "titulo" : "Mejora Regulatoria",
+                "anos" : [
+                    {
+                        "ano" : "2024",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/MR/MR/2024/MR2024.pdf"
+                    },
+                    {
+                        "ano" : "2023",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/MR/MR/2023/MR2023.pdf"
+                    },
+                    {
+                        "ano" : "2022",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/MR/MR/2022/MR2022.pdf"
+                    }
+                ]
+            }
+        ]
+    }
+]

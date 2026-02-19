@@ -1,26 +1,8 @@
 [      
     {
-        "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Principal/Canta2.jpg", 
-        "url" : "https://youtu.be/eu1fMd37tT8?si=3th1OVfYrgnvv4Sa&t=15",
-        "titulo" : "¡Canta con nosotros!, El Canal del Pueblo se esta transformando....!!!", 
-        "fecha" : "20 de diciembre de 2023"
-    },
-    {
-        "imagen" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir2/Temporal/TICS/UltimasNoticias/1.jpg", 
+        "imagen" : "", 
         "url" : "",
-        "titulo" : "Instalación del Consejo General de Planeación para la Agenda de Género de la Secretaría de Gobierno.", 
-        "fecha" : "1 de Julio de 2025"
-    },
-    {
-        "imagen" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir2/Temporal/TICS/UltimasNoticias/2.jpg", 
-        "url" : "",
-        "titulo" : "Primera encuesta estatal sobre el tema 'Hablemos de Sexualidad con Niñas, Niños y Adolescentes', encabezada por Sipinna Hidalgo.", 
-        "fecha" : "10 de Julio de 2025"
-    },
-    {
-        "imagen" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir2/Temporal/TICS/UltimasNoticias/jingle.jpg", 
-        "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir2/Temporal/TICS/UltimasNoticias/jinglerth.mp4",
-        "titulo" : "Celebra con nosotros estas fiestas decembrinas con el Jingle de Radio y Televisión de Hidalgo.", 
-        "fecha" : "23 de Diciembre de 2025"
+        "titulo" : "", 
+        "fecha" : ""
     }
 ]
