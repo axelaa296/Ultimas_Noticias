@@ -190,7 +190,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -512,7 +512,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -810,7 +810,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -1134,7 +1134,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -1482,7 +1482,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -1616,6 +1616,11 @@
                                 "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF - LDF",
                                 "pdf" : "",
                                 "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/n.xls"
+                            },
+                            {
+                                "subtitulo" : "F8 Guía de Cumplimiento - LDF",
+                                "pdf" : "",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/o.xls"
                             }
                         ]
                     }
@@ -1804,7 +1809,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -1938,6 +1943,11 @@
                                 "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF - LDF",
                                 "pdf" : "",
                                 "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/n.xls"
+                            },
+                            {
+                                "subtitulo" : "F8 Guía de Cumplimiento - LDF",
+                                "pdf" : "",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/o.xls"
                             }
                         ]
                     }
@@ -2101,7 +2111,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -2260,6 +2270,11 @@
                                 "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
                                 "pdf" : "",
                                 "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/n.xls"
+                            },
+                            {
+                                "subtitulo" : "F8 Guía de Cumplimiento - LDF",
+                                "pdf" : "",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/o.xls"
                             }
                         ]
                     }    
@@ -2423,7 +2438,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -2582,6 +2597,11 @@
                                 "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
                                 "pdf" : "",
                                 "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/n.xls"
+                            },
+                            {
+                                "subtitulo" : "F8 Guía de Cumplimiento - LDF",
+                                "pdf" : "",
+                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/o.xls"
                             }
                         ]
                     }    
@@ -2771,7 +2791,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -3093,7 +3113,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -3405,7 +3425,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -3727,7 +3747,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -4054,7 +4074,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -4376,7 +4396,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -4698,7 +4718,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -5020,7 +5040,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -5347,7 +5367,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -5669,7 +5689,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -5991,7 +6011,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -6313,7 +6333,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -6640,7 +6660,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -6962,7 +6982,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -7284,7 +7304,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -7606,7 +7626,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -7933,7 +7953,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/TituloLGCG/2019/1erTrim/pdf/a.pdf",
                                 "xml" : ""
                             },
@@ -8255,7 +8275,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -8577,7 +8597,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -8894,7 +8914,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -9221,7 +9241,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -9538,7 +9558,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -9860,7 +9880,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
@@ -10182,7 +10202,7 @@
                         "titulo" : "Titulo Quinto LGCG",
                         "botoncontenido" : [
                             {
-                                "subtitulo" : "Presupuesto de Egresos Para el Ejercicio Fiscal",
+                                "subtitulo" : "Proyecto de Presupuesto de Egresos Para el Ejercicio Fiscal",
                                 "pdf" : "",
                                 "xml" : ""
                             },
