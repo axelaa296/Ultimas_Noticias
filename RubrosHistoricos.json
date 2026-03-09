@@ -174,7 +174,7 @@
         "trimestres" : [
             {
                 "trimestre" : "Plataforma Nacional",
-                "url" : "www.google.com"
+                "url" : ""
             }
         ]
     },
@@ -184,7 +184,7 @@
         "trimestres" : [
             {
                 "trimestre" : "Descargar",
-                "url" : "www.google.com"
+                "url" : ""
             } 
         ]
     }
