@@ -1,0 +1,191 @@
+[
+    {
+        "anio" : "2025",
+        "descripcion" : "Disponibilidad de los trimestres anteriores",
+        "trimestres" : [
+            {
+                "trimestre" : "Primer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/2025/RA/1erTrim.rar"
+            },
+            {
+                "trimestre" : "Segundo Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/2025/RA/2doTrim.rar"
+            },
+            {
+                "trimestre" : "Tercer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/2025/RA/3erTrim.rar"
+            }
+        ] 
+    },
+    {
+        "anio" : "2024",
+        "descripcion" : "Disponibilidad de los trimestres anteriores",
+        "trimestres" : [
+            {
+                "trimestre" : "Primer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/2024/RA/1erTrim.rar"
+            },
+            {
+                "trimestre" : "Segundo Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/2024/RA/2doTrim.rar"
+            },
+            {
+                "trimestre" : "Tercer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/2024/RA/3erTrim.rar"
+            },
+            {
+                "trimestre" : "Cuarto Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/2024/RA/4toTrim.rar"
+            }
+            
+        ] 
+    },
+    {
+        "anio" : "2023",
+        "descripcion" : "Disponibilidad de los trimestres anteriores",
+        "trimestres" : [
+            {
+                "trimestre" : "Primer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/2023/RA/1erTrim.rar"
+            },
+            {
+                "trimestre" : "Segundo Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/2023/RA/2doTrim.rar"
+            },
+            {
+                "trimestre" : "Tercer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/2023/RA/3erTrim.rar"
+            },
+            {
+                "trimestre" : "Cuarto Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/2023/RA/4toTrim.rar"
+            }
+            
+        ] 
+    },
+    {
+        "anio" : "2022",
+        "descripcion" : "Disponibilidad de los trimestres anteriores",
+        "trimestres" : [ 
+            {
+                "trimestre" : "Primer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2022/zip/PRIMER%20TRIMESTRE%202022.rar"
+            },
+            {
+                "trimestre" : "Segundo Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2022/zip/SEGUNDO%20TRIMESTRE%202022.rar"
+            },
+            {
+                "trimestre" : "Tercer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2022/zip/TERCER%20TRIMESTRE%202022.rar"
+            },
+            {
+                "trimestre" : "Cuarto Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2022/zip/CUARTO%20TRIMESTRE%202022.rar"
+            }
+        ]
+    } , {
+        "anio" : "2021" , 
+        "descripcion" : "Disponibilidad de los trimestres anteriores",
+        "trimestres" : [
+            {
+                "trimestre" : "Primer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2021/zip/PRIMER%20TRIMESTRE%202021.rar"
+            },
+            {
+                "trimestre" : "Segundo Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2021/zip/SEGUNDO%20TRIMESTRE%202021.rar"
+            },
+            {
+                "trimestre" : "Tercer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2021/zip/TERCER%20TRIMESTRE%202021.rar"
+            },
+            {
+                "trimestre" : "Cuarto Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2021/zip/CUARTO%20TRIMESTRE%202021.rar"
+            }
+        ]
+    } , {
+        "anio" : "2020" , 
+        "descripcion" : "Disponibilidad de los trimestres anteriores",
+        "trimestres" : [
+            {
+                "trimestre" : "Primer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2020/zip/PRIMER%20TRIMESTRE%202020.rar"
+            },
+            {
+                "trimestre" : "Segundo Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2020/zip/SEGUNDO%20TRIMESTRE%202020.rar"
+            },
+            {
+                "trimestre" : "Tercer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2020/zip/TERCER%20TRIMESTRE%202020.rar"
+            },
+            {
+                "trimestre" : "Cuarto Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2020/zip/CUARTO%20TRIMESTRE%202020.rar"
+            }
+        ]
+    } , {
+        "anio" : "2019" , 
+        "descripcion" : "Disponibilidad de los trimestres anteriores",
+        "trimestres" : [
+            {
+                "trimestre" : "Primer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2019/zip/PRIMER%20TRIMESTRE%202019.rar"
+            },
+            {
+                "trimestre" : "Segundo Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2019/zip/SEGUNDO%20TRIMESTRE%202019.rar"
+            },
+            {
+                "trimestre" : "Tercer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2019/zip/TERCER%20TRIMESTRE%202019.rar"
+            },
+            {
+                "trimestre" : "Cuarto Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2019/zip/CUARTO%20TRIMESTRE%202019.rar"
+            }
+        ]
+    } , {
+        "anio" : "2018" , 
+        "descripcion" : "Disponibilidad de los trimestres anteriores",
+        "trimestres" : [
+            {
+                "trimestre" : "Primer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2018/zip/PRIMER%20TRIMESTRE%202018.rar"
+            },
+            {
+                "trimestre" : "Segundo Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2018/zip/SEGUNDO%20TRIMESTRE%202018.rar"
+            },
+            {
+                "trimestre" : "Tercer Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2018/zip/TERCER%20TRIMESTRE%202018.rar"
+            },
+            {
+                "trimestre" : "Cuarto Trimestre",
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2018/zip/CUARTO%20TRIMESTRE%202018.rar"
+            }
+        ]
+    } , {
+        "anio" : "2015 - 2017",
+        "descripcion" : "Ejercicios Anteriores",
+        "trimestres" : [
+            {
+                "trimestre" : "Plataforma Nacional",
+                "url" : "www.google.com"
+            }
+        ]
+    },
+    {
+        "anio" : "Información Histórica 21 Rubros",
+        "descripcion" : "Ejercicios Anteriores",
+        "trimestres" : [
+            {
+                "trimestre" : "Descargar",
+                "url" : "www.google.com"
+            } 
+        ]
+    }
+]
