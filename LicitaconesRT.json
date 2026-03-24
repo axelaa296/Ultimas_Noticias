@@ -1,5 +1,27 @@
 [
     {
+        "anio" : "2026",
+        "tipo" : [
+            {
+                "tipoLicitacion" : "Licitación Nacional",
+                "nombreLicitacion" : "Licitación Nacional 2025",
+                "contenido" : [
+                    {
+                        "titulo" : "LIC-RTH-001-2026",
+                        "botoncontenido" : [
+                            {
+                                "nlicitacion":"SERVICIO DE SUMINISTRO DE COMBUSTIBLES PARA VEHICULOS DE RADIO Y TELEVISIÓN DE HIDALGO",
+                                "subtitulo" : "Bases de Participación",
+                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Nacional/2026/LIC-RTH-001-2026",
+                                "xml" : ""
+                            }
+                        ]
+                    }
+                ]
+            }          
+        ]
+    },
+    {
         "anio" : "2025",
         "tipo" : [
             {
