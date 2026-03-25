@@ -1,0 +1,128 @@
+[
+    {
+        "categoria" : "SCII",
+        "subcategoria" : [
+            {
+                "titulo" : "PTAR",
+                "anos" : [
+                    {
+                        "ano" : "2026",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PTAR/2026/PTAR2026.pdf"
+                    },
+                    {
+                        "ano" : "2025",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PTAR/2025/PTAR2025.pdf"
+                    },
+                    {
+                        "ano" : "2024",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PTAR/2024/PTAR2024.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo" : "PTCI",
+                "anos" : [
+                    {
+                        "ano" : "2026",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PTCI/2026/PTCI2026.pdf"
+                    },
+                    {
+                        "ano" : "2025",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PTCI/2025/PTCI2025.pdf"
+                    },
+                    {
+                        "ano" : "2024",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PTCI/2024/PTCI2024.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo" : "PAT",
+                "anos" : [
+                    {
+                        "ano" : "2026",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PAT/2026/PAT2026.pdf"
+                    },
+                    {
+                        "ano" : "2025",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/SCII/PAT/2025/PAT2025.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "categoria" : "CEPCI",
+        "subcategoria" : [
+            
+            {
+                "titulo" : "Protocolo Cero",
+                "anos" : [
+                    {
+                        "ano" : "Pronunciamiento ´´Cero Tolerancia´´ a las Conductas de Acoso Sexual y/o Laboral y Hostigamiento Sexual y/o Laboral de Radio y Televisión de Hidalgo",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/P0T/P0T.pdf"
+                    },
+                    {
+                        "ano" : "Ley de Acceso de las Mujeres de Hidalgo",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/LAMH/LAMH.pdf"
+                    },
+                    {
+                        "ano" : "Ley de Responsabilidades Administrativas del Estado de Hidalgo",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/LAMH/LAMH.pdf"
+                    },
+                    {
+                        "ano" : "Ley para la Igualdad entre Mujeres y Hombres de Hidalgo",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/LIMHH/LIMHH.pdf"
+                    },
+                    {
+                        "ano" : "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/LGAMVLV/LGAMVLV.pdf"
+                    },
+                    {
+                        "ano" : "Lineamientos Generales que Establecen las Bases para la Integración, Organización y Funcionamiento de los comités de Ética y Prevención de Conflictos de Interés",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/"
+                    }
+                ]
+            },
+            {
+                "titulo" : "Herramientas Administrativas",
+                "anos" : [
+                    {
+                        "ano" : "Formato de Denuncia ante el Comité de Ética y Prevención de Conflictos de Interés",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/HA/FD/FD.pdf"
+                    },
+                    {
+                        "ano" : "Código de Conducta de la SEGOBH",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/HA/CCS/CCS.pdf"
+                    },
+                    {
+                        "ano" : "Código de Ética de la Admon. Publica del Edo. de Hidalgo",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/HA/CEAPEH/CEAPEH.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "categoria" : "Mejora Regulatoria",
+        "subcategoria" : [
+            {
+                "titulo" : "Mejora Regulatoria",
+                "anos" : [
+                    {
+                        "ano" : "2024",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/MR/MR/2024/MR2024.pdf"
+                    },
+                    {
+                        "ano" : "2023",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/MR/MR/2023/MR2023.pdf"
+                    },
+                    {
+                        "ano" : "2022",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/MR/MR/2022/MR2022.pdf"
+                    }
+                ]
+            }
+        ]
+    }
+]
