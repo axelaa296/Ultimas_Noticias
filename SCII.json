@@ -102,27 +102,5 @@
                 ]
             }
         ]
-    },
-    {
-        "categoria" : "Mejora Regulatoria",
-        "subcategoria" : [
-            {
-                "titulo" : "Mejora Regulatoria",
-                "anos" : [
-                    {
-                        "ano" : "2024",
-                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/MR/MR/2024/MR-2024.pdf"
-                    },
-                    {
-                        "ano" : "2023",
-                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/MR/MR/2023/MR-2023.pdf"
-                    },
-                    {
-                        "ano" : "2022",
-                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/MR/MR/2022/MR-2022.pdf"
-                    }
-                ]
-            }
-        ]
     }
 ]
