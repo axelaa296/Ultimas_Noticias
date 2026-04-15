@@ -235,36 +235,6 @@
         "color" : "#ffffff"
     },
     {
-        "Programa" : "Noche De Viernes",
-        "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/FNocheDeViernes.jpg",
-        "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/LoNocheDeViernes.jpg",
-        "LogoT" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/LNocheDeViernes.png",
-        "Sinopsis" : "Programa musical y de entretenimiento con invitados musicales regionales, nacionales e internacionales, así como cápsulas de identidad regional.",
-        "Genero" : "Musical",
-        "Productor/a" : "Gabriel Perales Ramírez",
-        "Horario" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/BPuNocheViernes.jpg",
-        "Conductores" : [
-            {
-                "Nombre" : "Ricardo Olguín",
-                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/CPerRichi.jpg"
-            },
-            {
-                "Nombre" : "Marichuy Cornejo",
-                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/CPerMarichuy.jpg"
-            },
-            {
-                "Nombre" : "Iliana Karen",
-                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/CPerIliana.jpg"
-            },
-            {
-                "Nombre" : "Wendy Ángeles",
-                "Imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/NocheDeViernes/CPerAngeles.jpg"
-            }
-        ],
-        "YT" : "",
-        "color" : "#ffffff"
-    },
-    {
         "Programa" : "Xplosión Sónica",
         "Fondo" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/XplosionSonica/FXplosionSonica.jpg",
         "LogoP" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/XplosionSonica/LoXplosionSonica.jpg",
