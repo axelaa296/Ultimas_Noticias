@@ -1,1183 +1,2311 @@
 [
-    {
-        "anio": "2026",
-        "trimestres" : [
-            {
-                "ntrimestre" : "1erTrim",
-                "nombretrimestre" : "Primer Trimestre 2026",
-                "contenido" : [
-                    {
-                        "titulo" : "Disciplina Financiera",
-                        "botoncontenido" : [
-                            {
-                                "subtitulo" : "Trimestrales"
-                            },
-                            {
-                                "subtitulo" : "F1 Estado de Situación Financiera Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/a.xls"
-                            },
-                            {
-                                "subtitulo" : "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/b.xls"
-                            },
-                            {
-                                "subtitulo" : "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/c.xls"
-                            },
-                            {
-                                "subtitulo" : "F4 Balance Presupuestario - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/d.xls"
-                            },
-                            {
-                                "subtitulo" : "F5 Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/e.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/f.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/g.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/h.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/i.xls"
-                            },
-                            {
-                                "subtitulo" : "Anuales"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Ley de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/j.xlsx"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/k.xlsx"
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/l.xlsx"
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/m.xlsx"
-                            },
-                            {
-                                "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/n.xls"
-                            },
-                            {
-                                "subtitulo" : "F8 Guía de Cumplimiento - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/o.xlsx"
-                            }
-                        ]
-                    }
-                ]
-            }
+  {
+    "anio": "2026",
+    "trimestres": [
+      {
+        "ntrimestre": "1erTrim",
+        "nombretrimestre": "Primer Trimestre 2026",
+        "contenido": [
+          {
+            "titulo": "Disciplina Financiera",
+            "botoncontenido": [
+              {
+                "subtitulo": "Trimestrales"
+              },
+              {
+                "subtitulo": "F1 Estado de Situación Financiera Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/a.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/b.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/c.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F4 Balance Presupuestario - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/d.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F5 Estado Analítico de Ingresos Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/e.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/f.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/g.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/h.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/i.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "Anuales"
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Ley de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/j.xlsx",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/k.xlsx",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/l.xlsx",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/m.xlsx",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F8 Informe Sobre Estudios Actuariales - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/n.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F8 Guía de Cumplimiento - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2026/1erTrim/xls/o.xlsx",
+                  "version": "20260427"
+                }
+              }
+            ]
+          }
         ]
-    },    
-    {
-        "anio": "2025",
-        "trimestres" : [
-            {
-                "ntrimestre" : "1erTrim",
-                "nombretrimestre" : "Primer Trimestre 2025",
-                "contenido" : [
-                    {
-                        "titulo" : "Disciplina Financiera",
-                        "botoncontenido" : [
-                            {
-                                "subtitulo" : "Trimestrales"
-                            },
-                            {
-                                "subtitulo" : "F1 Estado de Situación Financiera Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/a.xls"
-                            },
-                            {
-                                "subtitulo" : "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/b.xls"
-                            },
-                            {
-                                "subtitulo" : "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/c.xls"
-                            },
-                            {
-                                "subtitulo" : "F4 Balance Presupuestario - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/d.xls"
-                            },
-                            {
-                                "subtitulo" : "F5 Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/e.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/f.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/g.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/h.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/i.xls"
-                            },
-                            {
-                                "subtitulo" : "Anuales"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Ley de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/j.xlsx"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/k.xlsx"
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/l.xlsx"
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/m.xlsx"
-                            },
-                            {
-                                "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/n.xls"
-                            },
-                            {
-                                "subtitulo" : "F8 Guía de Cumplimiento - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/o.xlsx"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "ntrimestre" : "2doTrim",
-                "nombretrimestre" : "Segundo Trimestre 2025",
-                "contenido" : [
-                    {
-                        "titulo" : "Disciplina Financiera",
-                        "botoncontenido" : [
-                            {
-                                "subtitulo" : "Trimestrales"
-                            },
-                            {
-                                "subtitulo" : "F1 Estado de Situación Financiera Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/a.xls"
-                            },
-                            {
-                                "subtitulo" : "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/b.xls"
-                            },
-                            {
-                                "subtitulo" : "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/c.xls"
-                            },
-                            {
-                                "subtitulo" : "F4 Balance Presupuestario - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/d.xls"
-                            },
-                            {
-                                "subtitulo" : "F5 Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/e.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/f.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/g.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/h.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/i.xls"
-                            },
-                            {
-                                "subtitulo" : "Anuales"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Ley de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            }  
-                        ]
-                    }
-                ]
-            },
-            {
-                "ntrimestre" : "3erTrim",
-                "nombretrimestre" : "Tercer Trimestre 2025",
-                "contenido" : [
-                    {
-                        "titulo" : "Disciplina Financiera",
-                        "botoncontenido" : [
-                              {
-                                "subtitulo" : "Trimestrales"
-                            },
-                            {
-                                "subtitulo" : "F1 Estado de Situación Financiera Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/a.xls"
-                            },
-                            {
-                                "subtitulo" : "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/b.xls"
-                            },
-                            {
-                                "subtitulo" : "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/c.xls"
-                            },
-                            {
-                                "subtitulo" : "F4 Balance Presupuestario - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/pdf/d.pdf"
-                            },
-                            {
-                                "subtitulo" : "F5 Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/e.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/f.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/g.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/h.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/i.xls"
-                            },
-                            {
-                                "subtitulo" : "Anuales"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Ley de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "ntrimestre" : "4toTrim",
-                "nombretrimestre" : "Cuarto Trimestre 2025",
-                "contenido" : [
-                    {
-                        "titulo" : "Disciplina Financiera",
-                        "botoncontenido" : [
-                              {
-                                "subtitulo" : "Trimestrales"
-                            },
-                            {
-                                "subtitulo" : "F1 Estado de Situación Financiera Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/a.xls"
-                            },
-                            {
-                                "subtitulo" : "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/b.xls"
-                            },
-                            {
-                                "subtitulo" : "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/c.xls"
-                            },
-                            {
-                                "subtitulo" : "F4 Balance Presupuestario - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/d.xls"
-                            },
-                            {
-                                "subtitulo" : "F5 Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/e.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/f.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/g.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/h.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/i.xls"
-                            },
-                            {
-                                "subtitulo" : "Anuales"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Ley de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            }
-                        ]
-                    }
-                ]
-            }
-         ]
-    },
-    {
-        "anio": "2024",
-        "trimestres" : [
-            {
-                "ntrimestre" : "1erTrim",
-                "nombretrimestre" : "Primer Trimestre 2024",
-                "contenido" : [
-                    {
-                        "titulo" : "Disciplina Financiera",
-                        "botoncontenido" : [
-                            {
-                                "subtitulo" : "Trimestrales"
-                            },
-                            {
-                                "subtitulo" : "F1 Estado de Situación Financiera Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/a.xls"
-                            },
-                            {
-                                "subtitulo" : "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/b.xls"
-                            },
-                            {
-                                "subtitulo" : "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/c.xls"
-                            },
-                            {
-                                "subtitulo" : "F4 Balance Presupuestario - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/d.xls"
-                            },
-                            {
-                                "subtitulo" : "F5 Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/e.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/f.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/g.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/h.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/i.xls"
-                            },
-                            {
-                                "subtitulo" : "Anuales"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Ley de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/j.xlsx"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/k.xlsx"
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/l.xlsx"
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/m.xlsx"
-                            },
-                            {
-                                "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/n.xls"
-                            },
-                            {
-                                "subtitulo" : "F8 Guía de Cumplimiento - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/o.xls"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "ntrimestre" : "2doTrim",
-                "nombretrimestre" : "Segundo Trimestre 2024",
-                "contenido" : [
-                    {
-                        "titulo" : "Disciplina Financiera",
-                        "botoncontenido" : [
-                              {
-                                "subtitulo" : "Trimestrales"
-                            },
-                            {
-                                "subtitulo" : "F1 Estado de Situación Financiera Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/a.xls"
-                            },
-                            {
-                                "subtitulo" : "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/b.xls"
-                            },
-                            {
-                                "subtitulo" : "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/c.xls"
-                            },
-                            {
-                                "subtitulo" : "F4 Balance Presupuestario - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/d.xls"
-                            },
-                            {
-                                "subtitulo" : "F5 Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/e.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/f.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/g.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/h.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/i.xls"
-                            },
-                            {
-                                "subtitulo" : "Anuales"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Ley de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F8 Guía de Cumplimiento - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "ntrimestre" : "3erTrim",
-                "nombretrimestre" : "Tercer Trimestre 2024",
-                "contenido" : [
-                    {
-                        "titulo" : "Disciplina Financiera",
-                        "botoncontenido" : [
-                            {
-                                "subtitulo" : "Trimestrales"
-                            },
-                            {
-                                "subtitulo" : "F1 Estado de Situación Financiera Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/a.xls"
-                            },
-                            {
-                                "subtitulo" : "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/b.xls"
-                            },
-                            {
-                                "subtitulo" : "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/c.xls"
-                            },
-                            {
-                                "subtitulo" : "F4 Balance Presupuestario - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/d.xls"
-                            },
-                            {
-                                "subtitulo" : "F5 Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/e.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/f.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/g.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/h.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/i.xls"
-                            },
-                            {
-                                "subtitulo" : "Anuales"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Ley de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F8 Guía de Cumplimiento - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "ntrimestre" : "4toTrim",
-                "nombretrimestre" : "Cuarto Trimestre 2024",
-                "contenido" : [
-                    {
-                        "titulo" : "Disciplina Financiera",
-                        "botoncontenido" : [
-                              {
-                                "subtitulo" : "Trimestrales"
-                            },
-                            {
-                                "subtitulo" : "F1 Estado de Situación Financiera Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/a.xls"
-                            },
-                            {
-                                "subtitulo" : "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/b.xls"
-                            },
-                            {
-                                "subtitulo" : "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/c.xls"
-                            },
-                            {
-                                "subtitulo" : "F4 Balance Presupuestario - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/d.xls"
-                            },
-                            {
-                                "subtitulo" : "F5 Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/e.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/f.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/g.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/h.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/i.xls"
-                            },
-                            {
-                                "subtitulo" : "Anuales"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Ley de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/j.xls"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/k.xls"
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/l.xls"
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/m.xls"
-                            },
-                            {
-                                "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/n.xls"
-                            },
-                            {
-                                "subtitulo" : "F8 Guía de Cumplimiento - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/o.xls"
-                            }
-                        ]
-                    }
-                ]
-            }
-         ]
-    },
-    {
-        "anio": "2023",
-        "trimestres" : [
-            {
-                "ntrimestre" : "1erTrim",
-                "nombretrimestre" : "Primer Trimestre 2023",
-                "contenido" : [
-                    {
-                        "titulo" : "Disciplina Financiera",
-                        "botoncontenido" : [
-                            {
-                                "subtitulo" : "Trimestrales"
-                            },
-                            {
-                                "subtitulo" : "F1 Estado de Situación Financiera Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/a.xls"
-                            },
-                            {
-                                "subtitulo" : "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/b.xls"
-                            },
-                            {
-                                "subtitulo" : "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/c.xls"
-                            },
-                            {
-                                "subtitulo" : "F4 Balance Presupuestario - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/d.xls"
-                            },
-                            {
-                                "subtitulo" : "F5 Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/e.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/f.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/g.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/h.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/i.xls"
-                            },
-                            {
-                                "subtitulo" : "Anuales"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Ley de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/j.xls"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/k.xls"
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/l.xls"
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/m.xls"
-                            },
-                            {
-                                "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/n.xls"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "ntrimestre" : "2doTrim",
-                "nombretrimestre" : "Segundo Trimestre 2023",
-                "contenido" : [
-                    {
-                        "titulo" : "Disciplina Financiera",
-                        "botoncontenido" : [
-                             {
-                                "subtitulo" : "Trimestrales"
-                            },
-                            {
-                                "subtitulo" : "F1 Estado de Situación Financiera Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/a.xls"
-                            },
-                            {
-                                "subtitulo" : "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/b.xls"
-                            },
-                            {
-                                "subtitulo" : "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/c.xls"
-                            },
-                            {
-                                "subtitulo" : "F4 Balance Presupuestario - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/d.xls"
-                            },
-                            {
-                                "subtitulo" : "F5 Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/e.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/f.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/g.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/h.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/i.xls"
-                            },
-                            {
-                                "subtitulo" : "Anuales"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Ley de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            } 
-                        ]
-                    }
-                ]
-            },
-            {
-                "ntrimestre" : "3erTrim",
-                "nombretrimestre" : "Tercer Trimestre 2023",
-                "contenido" : [
-                    {
-                        "titulo" : "Disciplina Financiera",
-                        "botoncontenido" : [
-                            {
-                                "subtitulo" : "Trimestrales"
-                            },
-                            {
-                                "subtitulo" : "F1 Estado de Situación Financiera Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/a.xls"
-                            },
-                            {
-                                "subtitulo" : "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/b.xls"
-                            },
-                            {
-                                "subtitulo" : "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/c.xls"
-                            },
-                            {
-                                "subtitulo" : "F4 Balance Presupuestario - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/d.xls"
-                            },
-                            {
-                                "subtitulo" : "F5 Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/e.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/f.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/g.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/h.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/i.xls"
-                            },
-                            {
-                                "subtitulo" : "Anuales"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Ley de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "ntrimestre" : "4toTrim",
-                "nombretrimestre" : "Cuarto Trimestre 2023",
-                "contenido" : [
-                    {
-                        "titulo" : "Disciplina Financiera",
-                        "botoncontenido" : [
-                              {
-                                "subtitulo" : "Trimestrales"
-                            },
-                            {
-                                "subtitulo" : "F1 Estado de Situación Financiera Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/4toTrim/xls/a.xls"
-                            },
-                            {
-                                "subtitulo" : "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/4toTrim/xls/b.xls"
-                            },
-                            {
-                                "subtitulo" : "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/4toTrim/xls/c.xls"
-                            },
-                            {
-                                "subtitulo" : "F4 Balance Presupuestario - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/4toTrim/xls/d.xls"
-                            },
-                            {
-                                "subtitulo" : "F5 Estado Analítico de Ingresos Detallado - LDF",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/4toTrim/xls/e.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
-                                "pdf" : "",
-                                "xml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/4toTrim/xls/f.xls"
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "Anuales"
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Ley de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Proyecciones de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Ingresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F7 Resultados de Egresos - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "F8 Informe Sobre Estudios Actuariales - LDF",
-                                "pdf" : "",
-                                "xml" : ""
-                            }
-                        ]
-                    }
-                ]
-            }
-         ]
-    }
+      }
+    ]
+  },
+  {
+    "anio": "2025",
+    "trimestres": [
+      {
+        "ntrimestre": "1erTrim",
+        "nombretrimestre": "Primer Trimestre 2025",
+        "contenido": [
+          {
+            "titulo": "Disciplina Financiera",
+            "botoncontenido": [
+              {
+                "subtitulo": "Trimestrales"
+              },
+              {
+                "subtitulo": "F1 Estado de Situación Financiera Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/a.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/b.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/c.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F4 Balance Presupuestario - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/d.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F5 Estado Analítico de Ingresos Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/e.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/f.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/g.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/h.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/i.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "Anuales"
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Ley de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/j.xlsx",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/k.xlsx",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/l.xlsx",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/m.xlsx",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F8 Informe Sobre Estudios Actuariales - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/n.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F8 Guía de Cumplimiento - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/1erTrim/xls/o.xlsx",
+                  "version": "20260427"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ntrimestre": "2doTrim",
+        "nombretrimestre": "Segundo Trimestre 2025",
+        "contenido": [
+          {
+            "titulo": "Disciplina Financiera",
+            "botoncontenido": [
+              {
+                "subtitulo": "Trimestrales"
+              },
+              {
+                "subtitulo": "F1 Estado de Situación Financiera Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/a.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/b.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/c.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F4 Balance Presupuestario - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/d.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F5 Estado Analítico de Ingresos Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/e.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/f.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/g.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/h.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/2doTrim/xls/i.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "Anuales"
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Ley de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F8 Informe Sobre Estudios Actuariales - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ntrimestre": "3erTrim",
+        "nombretrimestre": "Tercer Trimestre 2025",
+        "contenido": [
+          {
+            "titulo": "Disciplina Financiera",
+            "botoncontenido": [
+              {
+                "subtitulo": "Trimestrales"
+              },
+              {
+                "subtitulo": "F1 Estado de Situación Financiera Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/a.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/b.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/c.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F4 Balance Presupuestario - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/pdf/d.pdf",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F5 Estado Analítico de Ingresos Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/e.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/f.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/g.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/h.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/3erTrim/xls/i.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "Anuales"
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Ley de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F8 Informe Sobre Estudios Actuariales - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ntrimestre": "4toTrim",
+        "nombretrimestre": "Cuarto Trimestre 2025",
+        "contenido": [
+          {
+            "titulo": "Disciplina Financiera",
+            "botoncontenido": [
+              {
+                "subtitulo": "Trimestrales"
+              },
+              {
+                "subtitulo": "F1 Estado de Situación Financiera Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/a.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/b.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/c.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F4 Balance Presupuestario - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/d.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F5 Estado Analítico de Ingresos Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/e.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/f.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/g.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/h.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2025/4toTrim/xls/i.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "Anuales"
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Ley de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F8 Informe Sobre Estudios Actuariales - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "anio": "2024",
+    "trimestres": [
+      {
+        "ntrimestre": "1erTrim",
+        "nombretrimestre": "Primer Trimestre 2024",
+        "contenido": [
+          {
+            "titulo": "Disciplina Financiera",
+            "botoncontenido": [
+              {
+                "subtitulo": "Trimestrales"
+              },
+              {
+                "subtitulo": "F1 Estado de Situación Financiera Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/a.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/b.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/c.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F4 Balance Presupuestario - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/d.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F5 Estado Analítico de Ingresos Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/e.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/f.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/g.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/h.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/i.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "Anuales"
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Ley de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/j.xlsx",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/k.xlsx",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/l.xlsx",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/m.xlsx",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F8 Informe Sobre Estudios Actuariales - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/n.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F8 Guía de Cumplimiento - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/1erTrim/xls/o.xls",
+                  "version": "20260427"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ntrimestre": "2doTrim",
+        "nombretrimestre": "Segundo Trimestre 2024",
+        "contenido": [
+          {
+            "titulo": "Disciplina Financiera",
+            "botoncontenido": [
+              {
+                "subtitulo": "Trimestrales"
+              },
+              {
+                "subtitulo": "F1 Estado de Situación Financiera Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/a.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/b.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/c.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F4 Balance Presupuestario - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/d.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F5 Estado Analítico de Ingresos Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/e.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/f.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/g.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/h.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/2doTrim/xls/i.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "Anuales"
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Ley de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F8 Informe Sobre Estudios Actuariales - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F8 Guía de Cumplimiento - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ntrimestre": "3erTrim",
+        "nombretrimestre": "Tercer Trimestre 2024",
+        "contenido": [
+          {
+            "titulo": "Disciplina Financiera",
+            "botoncontenido": [
+              {
+                "subtitulo": "Trimestrales"
+              },
+              {
+                "subtitulo": "F1 Estado de Situación Financiera Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/a.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/b.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/c.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F4 Balance Presupuestario - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/d.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F5 Estado Analítico de Ingresos Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/e.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/f.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/g.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/h.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/3erTrim/xls/i.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "Anuales"
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Ley de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F8 Informe Sobre Estudios Actuariales - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F8 Guía de Cumplimiento - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ntrimestre": "4toTrim",
+        "nombretrimestre": "Cuarto Trimestre 2024",
+        "contenido": [
+          {
+            "titulo": "Disciplina Financiera",
+            "botoncontenido": [
+              {
+                "subtitulo": "Trimestrales"
+              },
+              {
+                "subtitulo": "F1 Estado de Situación Financiera Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/a.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/b.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/c.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F4 Balance Presupuestario - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/d.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F5 Estado Analítico de Ingresos Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/e.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/f.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/g.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/h.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/i.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "Anuales"
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Ley de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/j.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/k.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/l.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/m.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F8 Informe Sobre Estudios Actuariales - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/n.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F8 Guía de Cumplimiento - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2024/4toTrim/xls/o.xls",
+                  "version": "20260427"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "anio": "2023",
+    "trimestres": [
+      {
+        "ntrimestre": "1erTrim",
+        "nombretrimestre": "Primer Trimestre 2023",
+        "contenido": [
+          {
+            "titulo": "Disciplina Financiera",
+            "botoncontenido": [
+              {
+                "subtitulo": "Trimestrales"
+              },
+              {
+                "subtitulo": "F1 Estado de Situación Financiera Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/a.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/b.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/c.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F4 Balance Presupuestario - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/d.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F5 Estado Analítico de Ingresos Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/e.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/f.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/g.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/h.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/i.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "Anuales"
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Ley de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/j.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/k.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/l.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/m.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F8 Informe Sobre Estudios Actuariales - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/1erTrim/xls/n.xls",
+                  "version": "20260427"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ntrimestre": "2doTrim",
+        "nombretrimestre": "Segundo Trimestre 2023",
+        "contenido": [
+          {
+            "titulo": "Disciplina Financiera",
+            "botoncontenido": [
+              {
+                "subtitulo": "Trimestrales"
+              },
+              {
+                "subtitulo": "F1 Estado de Situación Financiera Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/a.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/b.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/c.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F4 Balance Presupuestario - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/d.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F5 Estado Analítico de Ingresos Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/e.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/f.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/g.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/h.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/2doTrim/xls/i.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "Anuales"
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Ley de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F8 Informe Sobre Estudios Actuariales - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ntrimestre": "3erTrim",
+        "nombretrimestre": "Tercer Trimestre 2023",
+        "contenido": [
+          {
+            "titulo": "Disciplina Financiera",
+            "botoncontenido": [
+              {
+                "subtitulo": "Trimestrales"
+              },
+              {
+                "subtitulo": "F1 Estado de Situación Financiera Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/a.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/b.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/c.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F4 Balance Presupuestario - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/d.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F5 Estado Analítico de Ingresos Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/e.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/f.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/g.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/h.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/3erTrim/xls/i.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "Anuales"
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Ley de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F8 Informe Sobre Estudios Actuariales - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ntrimestre": "4toTrim",
+        "nombretrimestre": "Cuarto Trimestre 2023",
+        "contenido": [
+          {
+            "titulo": "Disciplina Financiera",
+            "botoncontenido": [
+              {
+                "subtitulo": "Trimestrales"
+              },
+              {
+                "subtitulo": "F1 Estado de Situación Financiera Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/4toTrim/xls/a.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F2 Informe Analítico de la Deuda Pública y otros Pasivos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/4toTrim/xls/b.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F3 Informe Analítico de Obligaciones Diferentes de Financiamientos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/4toTrim/xls/c.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F4 Balance Presupuestario - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/4toTrim/xls/d.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F5 Estado Analítico de Ingresos Detallado - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/4toTrim/xls/e.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (COG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/DisciplinaFinanciera/2023/4toTrim/xls/f.xls",
+                  "version": "20260427"
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CA)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CFG)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F6 Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado LDF EAEPE - LDF (CSPC)",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "Anuales"
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Ley de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Proyecciones de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Ingresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F7 Resultados de Egresos - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "F8 Informe Sobre Estudios Actuariales - LDF",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 ]
