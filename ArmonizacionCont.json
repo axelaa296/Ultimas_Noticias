@@ -956,6 +956,33 @@
                 }
               }
             ]
+          },
+          {
+            "titulo": "Cuenta Pública",
+            "botoncontenido": [
+              {
+                "subtitulo": "Información Contable",
+                "pdf": {
+                  "link": "",
+                  "version": "1"
+                },
+                "xls": {
+                  "link": "",
+                  "version": "1"
+                }
+              },
+              {
+                "subtitulo": "Información Financiera Del Sector Paraestatal",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "https://ehacienda.hidalgo.gob.mx/WebCPublica2024/tomo7_2.html",
+                  "version": "20260423"
+                }
+              }
+            ]
           }
         ]
       },
