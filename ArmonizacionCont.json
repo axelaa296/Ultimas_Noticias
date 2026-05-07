@@ -961,17 +961,7 @@
             "titulo": "Cuenta Pública",
             "botoncontenido": [
               {
-                "subtitulo": "Contable",
-                "pdf": {
-                  "link": "",
-                  "version": "1"
-                },
-                "xls": {
-                  "link": "",
-                  "version": "1"
-                }
-              },
-              {
+                "bold": "Contable",
                 "subtitulo": "01 Estado de Actividades",
                 "pdf": {
                   "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2025/Contable/01%20EA.pdf",
