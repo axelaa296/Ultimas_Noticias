@@ -3573,6 +3573,13 @@
             "titulo": "Cuenta Pública",
             "botoncontenido": [
               {
+                "subtitulo": "Información Financiera Del Sector Paraestatal",
+                "http": {
+                  "link": "https://ehacienda.hidalgo.gob.mx/WebCPublica2024/tomo7_2.html",
+                  "version": "20260423"
+                }
+              },
+              {
                 "bold": "Contable",
                 "subtitulo": "01 Estado de Actividades",
                 "pdf": {
@@ -3684,17 +3691,7 @@
                 }
               },
               {
-                "subtitulo": "Presupuestaria",
-                "pdf": {
-                  "link": "",
-                  "version": "1"
-                },
-                "xls": {
-                  "link": "",
-                  "version": "1"
-                }
-              },
-              {
+                "bold": "Presupuestaria",
                 "subtitulo": "01 Estado Analítico de Ingresos",
                 "pdf": {
                   "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2024/Presupuestaria/01%20EAI.pdf",
@@ -3794,17 +3791,7 @@
                 }
               },
               {
-                "subtitulo": "Programática",
-                "pdf": {
-                  "link": "",
-                  "version": "1"
-                },
-                "xls": {
-                  "link": "",
-                  "version": "1"
-                }
-              },
-              {
+                "bold": "Programática",
                 "subtitulo": "01 Gasto por Categoría Programática",
                 "pdf": {
                   "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2024/Programatica/01%20GCP.pdf",
@@ -3838,17 +3825,7 @@
                 }
               },
               {
-                "subtitulo": "Anexos",
-                "pdf": {
-                  "link": "",
-                  "version": "1"
-                },
-                "xls": {
-                  "link": "",
-                  "version": "1"
-                }
-              },
-              {
+                "bold": "Anexos",
                 "subtitulo": "01 Relación de Bienes Muebles que Componen el Patrimonio",
                 "pdf": {
                   "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2024/Anexos/01%20RBM.pdf",
@@ -3904,17 +3881,7 @@
                 }
               },
               {
-                "subtitulo": "Información Para Integrar y Consolidar",
-                "pdf": {
-                  "link": "",
-                  "version": "1"
-                },
-                "xls": {
-                  "link": "",
-                  "version": "1"
-                }
-              },
-              {
+                "bold": "Información Para Integrar y Consolidar",
                 "subtitulo": "01 Ingresos por Transferencias recibidas de la SH",
                 "pdf": {
                   "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2024/IPIC/01%20ITRSFP.pdf",
@@ -3937,17 +3904,7 @@
                 }
               },
               {
-                "subtitulo": "Ley de Disciplina Financiera",
-                "pdf": {
-                  "link": "",
-                  "version": "1"
-                },
-                "xls": {
-                  "link": "",
-                  "version": "1"
-                }
-              },
-              {
+                "bold": "Ley de Disciplina Financiera",
                 "subtitulo": "01 F1 Estado de Situación Financiera Detallado",
                 "pdf": {
                   "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2024/LDF/01%20F1%20ESFD.pdf",
@@ -4058,17 +4015,7 @@
                 }
               },
               {
-                "subtitulo": "Información Adicional LDF",
-                "pdf": {
-                  "link": "",
-                  "version": "1"
-                },
-                "xls": {
-                  "link": "",
-                  "version": "1"
-                }
-              },
-              {
+                "bold": "Información Adicional LDF",
                 "subtitulo": "01 Balance Presupuestario de Recursos Disponibles Negativos 2024",
                 "pdf": {
                   "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2024/IALDF/01%20BPRDN.pdf",
@@ -4135,17 +4082,7 @@
                 }
               },
               {
-                "subtitulo": "Información Del PEEH",
-                "pdf": {
-                  "link": "",
-                  "version": "1"
-                },
-                "xls": {
-                  "link": "",
-                  "version": "1"
-                }
-              },
-              {
+                "bold": "Información Del PEEH",
                 "subtitulo": "01 Artículo 10 Comparativo del Estado de Situación Financiera",
                 "pdf": {
                   "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2024/IPEEH/01%20Art%2010%20CESF.pdf",
@@ -4311,17 +4248,7 @@
                 }
               },
               {
-                "subtitulo": "Información De La LPCGEH",
-                "pdf": {
-                  "link": "",
-                  "version": "1"
-                },
-                "xls": {
-                  "link": "",
-                  "version": "1"
-                }
-              },
-              {
+                "bold": "Información De La LPCGEH",
                 "subtitulo": "01 Artículo 18 Bis Aumento o Creación del Gasto",
                 "pdf": {
                   "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2024/ILPCGEH/01%20Art%2018%20BIS%20ACG.pdf",
@@ -4352,17 +4279,6 @@
                 "xls": {
                   "link": "",
                   "version": ""
-                }
-              },
-              {
-                "subtitulo": "Información Financiera Del Sector Paraestatal",
-                "pdf": {
-                  "link": "",
-                  "version": ""
-                },
-                "xls": {
-                  "link": "https://ehacienda.hidalgo.gob.mx/WebCPublica2024/tomo7_2.html",
-                  "version": "20260423"
                 }
               }
             ]
