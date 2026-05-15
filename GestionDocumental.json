@@ -1,0 +1,33 @@
+[
+    {
+        "nombre" : "Gestión Documental",
+        "contenido" : [
+            {
+                "nombre" : "PADA2026" ,
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/PADA/2026/2026.pdf" ,
+                "img" : ""
+            } ,
+            {
+                "nombre" : "PADA2025" ,
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/PADA/2025/2025.pdf" ,
+                "img" : ""
+            } ,
+            {
+                "nombre" : "PADA2024" ,
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/PADA/2024/2024.pdf" ,
+                "img" : ""
+            },
+            {
+                "nombre" : "PADA2023" ,
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/PADA/2023/2023.pdf" ,
+                "img" : ""
+            } ,
+            {
+                "nombre" : "PADA2022" ,
+                "url" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/PADA/2022/2022.pdf" ,
+                "img" : ""
+            } 
+            
+        ]
+    }       
+]

@@ -1,0 +1,263 @@
+[
+    {
+        "categoria" : "Patrocinios en Radio y Televisión",
+        "contenidos" : [
+            {
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Patrocinios en Radio y Televisión ",
+                "subtitulo" : "RTVH-1 Patrocinio en radio de 20''",
+                "descripcion" : "Patrocinio en radio de 20 segundos, mensaje al aire incluye audio voz y musicalización.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11026",
+                "color" : "gray"
+            },
+            {
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Patrocinios en Radio y Televisión ",
+                "subtitulo" : "RTVH-2 Patrocinio en radio de 30''",
+                "descripcion" : "Patrocinio en radio de 30 segundos, mensaje al aire incluye audio voz y musicalización''.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11027",
+                "color" : "gray"
+            },
+            {
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Patrocinios en Radio y Televisión",
+                "subtitulo" : "RTVH-3 Patrocinio en Plataformas digitales de 20''",
+                "descripcion" : "Patrocinio en Plataformas digitales. de 20 segundos, mensaje al aire incluye video, graficos, audio voz y musicalización.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11028",
+                "color" : "gray"
+            },
+            {
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Patrocinios en Radio y Televisión ",
+                "subtitulo" : "RTVH-4 Patrocinio en Plataformas digitales de 30''",
+                "descripcion" : "Patrocinio en Plataformas digitales. de 30 segundos, mensaje al aire incluye video, graficos, audio voz y musicalización.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11029",
+                "color" : "gray"
+            }
+        ]
+    },
+    {
+        "categoria" : "Producción de Patrocinios en Radio y Televisión",
+        "contenidos" : [
+            {
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/Micro.jpg",
+                "titulo" : "Producción de Patrocinios en Radio y Televisión",
+                "subtitulo" : "RTVH-5 Producción de Patrocinios Radio 20'' Todas las Estaciones",
+                "descripcion" : "Producción de Patrocinios Radio 20 segundos Todas las Estaciones.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11030",
+                "color" : "#b53258"
+            },
+            {
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/Micro.jpg",
+                "titulo" : "Producción de Patrocinios en Radio y Televisión",
+                "subtitulo" : "RTVH-6 Producción de Patrocinios Radio 30'' Todas las Estaciones",
+                "descripcion" : "Producción de Patrocinios Radio 30 segundos Todas las Estaciones.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11031",
+                "color" : "#b53258"
+            },
+            {
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/Micro.jpg",
+                "titulo" : "Producción de Patrocinios en Radio y Televisión",
+                "subtitulo" : "RTVH-7 Producción de Patrocinios para Plataformas digitales 20''.",
+                "descripcion" : "Producción de Patrocinios para Plataformas digitales 20''.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11041",
+                "color" : "#b53258"
+            },
+            {
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/Micro.jpg",
+                "titulo" : "Producción de Patrocinios en Radio y Televisión",
+                "subtitulo" : "RTVH-8 Producción de Patrocinios para Plataformas digitales 30''.",
+                "descripcion" : "Producción de Patrocinios para Plataformas digitales 30 segundos''.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11042",
+                "color" : "#b53258"
+            }
+        ]
+    },
+    {
+        "categoria" : "Patrocinios Específicos en Radio (Todas las Estaciones) y Televisión",
+        "contenidos" : [
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Patrocinios Específicos en Televisión",
+                "subtitulo" : "Servicio RTVH-9 Control Remoto de Radio en Red Estatal de Radio.",
+                "descripcion" : " Control Remoto de Radio en Red Estatal de Radio, dentro de un programa en vivo con duración de una hora, con derecho a 3 intervenciones del cliente.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11043",
+                "color" : "#b53258"
+            },
+            {
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/Micro.jpg",
+                "titulo" : "Patrocinios Específicos en Radio (Todas las Estaciones)",
+                "subtitulo" : "Servicio RTVH-10 Mención de Locutor(a) de 20'' en Plataformas digitales.",
+                "descripcion" : "Mención de Locutor(a) de 20 segundos en Plataformas digitales, dentro del contenido del programa al aire.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/895",
+                "color" : "#b53258"
+            },
+            {
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Patrocinios Específicos en Televisión",
+                "subtitulo" : "Servicio RTVH-11 Presencia de producto patrocinador por Hora en Plataformas digitales.",
+                "descripcion" : "Presencia incidental de logotipo, producto y/o marca del patrocinador por Hora en Plataformas digitales.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11044",
+                "color" : "#b53258"
+            }
+        ]
+    },
+    {
+        "categoria" : "Servicio de Edición de Televisión",
+        "contenidos" : [
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Servicio de Edición de Televisión",
+                "subtitulo" : "Servicio RTVH-12 Post-producción de video para Plataformas digitales por hora con operador.",
+                "descripcion" : "Post-producción de video para Plataformas digitales por hora con operador.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/897",
+                "color" : "#b53258"
+            }
+        ]
+    },
+    {
+        "categoria" : "Transmisión de Programa por Hora en Televisión",
+        "contenidos" : [
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Transmisión de Programa por Hora en Televisión",
+                "subtitulo" : "Servicio RTVH-13 Transmisión de Programa por Hora en red estatal de Radio o Plataformas digitales",
+                "descripcion" : "Renta de espacio de una hora en red estatal de Radio o Plataformas digitales, para transmisión de Programa producido y terminado por el contratante. ",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11045",
+                "color" : "#b53258"
+            }
+        ]
+    },
+    {
+        "categoria" : "Transmisión de Programa por Hora en Televisión",
+        "contenidos" : [
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/Micro.jpg",
+                "titulo" : "Entrevistas",
+                "subtitulo" : "Servicio RTVH-14 Entrevista en Radio evento de 5 minutos.",
+                "descripcion" : "Entrevista en Radio evento de 5 minutos en vivo o grabada donde interactua un conductor(a) y un invitado(a) orientada a dar a conocer un tema especifico.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11046",
+                "color" : "#b53258"
+            },
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Entrevistas",
+                "subtitulo" : "Servicio RTVH-15 Entrevista en Plataformas digitales evento de 5 minutos.",
+                "descripcion" : "Entrevista en Plataformas digitales evento de 5 minutos en vivo o grabada donde interactua un conductor(a) y un invitado(a) orientada a dar a conocer un tema especifico.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11047",
+                "color" : "#b53258"
+            },
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Entrevistas",
+                "subtitulo" : "Servicio RTVH-16 Entrevista en red estatal de Radio evento de 5 minutos.",
+                "descripcion" : "Entrevista en Radio estatal evento de 5 minutos en vivo o grabada donde interactua un conductor(a) y un invitado(a) orientada a dar a conocer un tema especifico.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11048",
+                "color" : "#b53258"
+            }
+        ]
+    },
+    {
+        "categoria" : "Patrocinios en Radio Red Estatal",
+        "contenidos" : [
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/Micro.jpg",
+                "titulo" : "Patrocinios en Radio Red Estatal",
+                "subtitulo" : "Servicio RTVH-17 Patrocinios en radio Red Estatal de 20''",
+                "descripcion" : "Patrocinio en radio Red Estatal de 20 segundos, mensaje al aire incluye audio voz y musicalización.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11052",
+                "color" : "#b53258"
+            },
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/Micro.jpg",
+                "titulo" : "Patrocinios en Radio Red Estatal",
+                "subtitulo" : "Servicio RTVH-18 Patrocinios en radio Red Estatal de 30''",
+                "descripcion" : "Patrocinio en radio Red Estatal de 30 segundos, mensaje al aire incluye audio voz y musicalización.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11053",
+                "color" : "#b53258"
+            }
+        ]
+    },    
+    {
+        "categoria" : "Transmisión de Programa por Hora en Radio",
+        "contenidos" : [
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Radio/Micro.jpg",
+                "titulo" : "Transmisión de Programa por Hora en Radio",
+                "subtitulo" : "Servicio RTVH-19 Transmisión por hora en Radio",
+                "descripcion" : "Renta de espacio de una hora en Radio, para transmisión de Programa producido y terminado por el contratante.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11049",
+                "color" : "#b53258"
+            }
+        ]
+    },    
+    {
+        "categoria" : "Arrendamiento de Telecomunicaciones",
+        "contenidos" : [
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Arrendamiento de telecomunicaciones",
+                "subtitulo" : "Servicio RTVH-20 Arrendamiento de infraestructura de estación repetidora de transmisión",
+                "descripcion" : "Arrendamiento de infraestructura de estación repetidora de transmisión.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11033",
+                "color" : "#98989a"
+            },
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Arrendamiento de telecomunicaciones",
+                "subtitulo" : "Servicio RTVH-21 Arrendamiento de set virtual",
+                "descripcion" : "Arrendamiento de set virtual.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11034",
+                "color" : "#98989a"
+            },
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Arrendamiento de telecomunicaciones",
+                "subtitulo" : "Servicio RTVH-22 Arrendamiento de estudio de grabación musical",
+                "descripcion" : "Arrendamiento de estudio de grabación musical.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11035",
+                "color" : "#b53258"
+            },
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Arrendamiento de telecomunicaciones",
+                "subtitulo" : "Servicio RTVH-23 Arrendamiento de cabina de audio",
+                "descripcion" : "Arrendamiento de cabina de audio.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11036",
+                "color" : "#b53258"
+            },
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Arrendamiento de telecomunicaciones",
+                "subtitulo" : "Servicio RTVH-24 Arrendamiento de foro de contenido audiovisual",
+                "descripcion" : "Arrendamiento de foro de contenido audiovisual.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11037",
+                "color" : "#b53258"
+            },
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Arrendamiento de telecomunicaciones",
+                "subtitulo" : "Servicio RTVH-25 Arrendamiento de planta de luz con remolque evento de 8 hrs. con operador",
+                "descripcion" : "Arrendamiento de planta de luz con remolque evento de 8 hrs. con operador.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11038",
+                "color" : "#b53258"
+            },
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Arrendamiento de telecomunicaciones",
+                "subtitulo" : "Servicio RTVH-26 Arrendamiento de unidad móvil o unidad terrena evento de 8 hrs. para Plataformas digitales con operador.",
+                "descripcion" : "Arrendamiento de unidad móvil o unidad terrena evento de 8 hrs. Para TV o Plataformas con operador.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11001",
+                "color" : "#b53258"
+            },
+            {   
+                "imagen" : "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg",
+                "titulo" : "Arrendamiento de telecomunicaciones",
+                "subtitulo" : "Servicio RTVH-27 Arrendamiento de equipo portátil de Plataformas digitales evento de 8 hrs. Con operador",
+                "descripcion" : "Arrendamiento de equipo portátil de T.V. evento de 8 hrs. Con operador.",
+                "url" : "https://ruts.hidalgo.gob.mx/ver/11039",
+                "color" : "#98989a"
+            }
+        ]
+    }
+]
