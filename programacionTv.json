@@ -28,14 +28,14 @@
                 "horainicio": "06:15",
                 "horafin": "06:30",
                 "nombre": "RTVH en Concierto",
-                "descripcion": "Flan",
+                "descripcion": "Vicente Fernández",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
                 "horainicio": "06:30",
                 "horafin": "07:00",
                 "nombre": "Tu Rutina",
-                "descripcion": "Prg. 11 Rutina de Base (RTX)",
+                "descripcion": "Prg. 22 Elementos Básicos (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TuRutina/CTuRutina.jpg"
             },
             {
@@ -77,35 +77,28 @@
                 "horainicio": "12:30",
                 "horafin": "13:00",
                 "nombre": "Enlaces",
-                "descripcion": "IA y Medicina",
+                "descripcion": "Inversiones Milagrosas",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HidalgoNoticias/CHidalgoNoticias.jpg"
             },
             {
                 "horainicio": "13:00",
                 "horafin": "13:30",
                 "nombre": "No es Drama",
-                "descripcion": "Prg. 44 A Mi Yo de Ayer (RTX)",
+                "descripcion": "Prg. 47 La Música en la Adolescencia (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
                 "horainicio": "13:30",
                 "horafin": "14:00",
                 "nombre": "D'TODO",
-                "descripcion": "Rodrigo de la Cadena",
+                "descripcion": "Museo Yancuic",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
                 "horainicio": "14:00",
-                "horafin": "14:30",
-                "nombre": "Visión Futuro",
-                "descripcion": "Astronauta Mujer",
-                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
-            },
-            {
-                "horainicio": "14:30",
                 "horafin": "15:00",
-                "nombre": "En Forma",
-                "descripcion": "Voz",
+                "nombre": "A+A Amor y Amistad",
+                "descripcion": "Prg. 01 Mi Primer Maullido",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
@@ -147,21 +140,21 @@
                 "horainicio": "19:00",
                 "horafin": "19:30",
                 "nombre": "Desde Otro Ángulo",
-                "descripcion": "Prg. 81 Madres Cuidadoras",
+                "descripcion": "Prg. 73 Accesibilidad (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/DesdeOtroAngulo/CDesdeOtroAngulo.jpg"
             },
             {
                 "horainicio": "19:30",
                 "horafin": "20:00",
                 "nombre": "Leyendas del Estado de Hidalgo", 
-                "descripcion": "Prg. 09 El Puente de la Toyota (RTX)",
+                "descripcion": "Prg. 14 La Cruz de los Ciegos (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Leyendas/CLeyendas.jpg"
             },
             {
                 "horainicio": "20:00",
                 "horafin": "21:00",
                 "nombre": "Con Nosotras",
-                "descripcion": "Prg. 124 Relaciones Abiertas vs Tradicionales (RTX)",
+                "descripcion": "Prg. 126 Mujeres Con Uniforme (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConNosotras/CConNosotras.jpg"
             },
             {
@@ -180,16 +173,9 @@
             },
             {
                 "horainicio": "23:00",
-                "horafin": "23:30",
-                "nombre": "Con Ciencia",
-                "descripcion": "Prg. 93 CITNOVA (RTX)",
-                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConCiencia/CConCiencia.jpg"
-            },
-            {
-                "horainicio": "23:30",
                 "horafin": "23:55",
-                "nombre": "Aquí Estoy",
-                "descripcion": "David Sierra Bike",
+                "nombre": "La Hora Nacional",
+                "descripcion": "Prg.",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
@@ -230,14 +216,14 @@
                 "horainicio": "06:15",
                 "horafin": "06:30",
                 "nombre": "RTVH en Concierto",
-                "descripcion": "Mocedades",
+                "descripcion": "Alejandro Sanz",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
                 "horainicio": "06:30",
                 "horafin": "07:00",
                 "nombre": "Tu Rutina",
-                "descripcion": "Prg. 12 Rutina de Tapete (RTX)",
+                "descripcion": "Prg. 29 Rutina de Estiramientos (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TuRutina/CTuRutina.jpg"
             },
             {
@@ -258,7 +244,7 @@
                 "horainicio": "09:30",
                 "horafin": "10:00",
                 "nombre": "Visión Futuro",
-                "descripcion": "Reservas de Animales",
+                "descripcion": "Correr Beneficios",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
@@ -279,7 +265,7 @@
                 "horainicio": "13:00",
                 "horafin": "13:30",
                 "nombre": "Agronoticias",
-                "descripcion": "Prg. 511",
+                "descripcion": "Prg.",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
@@ -293,14 +279,14 @@
                 "horainicio": "14:00",
                 "horafin": "14:30",
                 "nombre": "Enlaces",
-                "descripcion": "Tecnología Digital",
+                "descripcion": "Ciberviolencia de Género",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
                 "horainicio": "14:30",
                 "horafin": "15:00",
                 "nombre": "Aquí Estoy",
-                "descripcion": "Pavel Cortés Cine",
+                "descripcion": "Germán Gutiérres Talavera",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
@@ -321,7 +307,7 @@
                 "horainicio": "16:30",
                 "horafin": "17:00",
                 "nombre": "Escápate",
-                "descripcion": "Muro de Berlín",
+                "descripcion": "Georgia",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
@@ -333,10 +319,17 @@
             },
             {
                 "horainicio": "18:00",
+                "horafin": "18:30",
+                "nombre": "C5i",
+                "descripcion": "Prg.",
+                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
+            },
+            {
+                "horainicio": "18:30",
                 "horafin": "19:00",
-                "nombre": "Noticiero Vespertino Hidalgo Noticias",
-                "descripcion": "(RTX)",
-                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HidalgoNoticias/CHidalgoNoticias.jpg"
+                "nombre": "Razones a Debate",
+                "descripcion": "En Vivo",
+                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
                 "horainicio": "19:00",
@@ -349,7 +342,7 @@
                 "horainicio": "20:00",
                 "horafin": "21:00",
                 "nombre": "Mi Sexto Sentido",
-                "descripcion": "Prg 29 Mamá, El Corazón del Hogar",
+                "descripcion": "Prg 32 Cumpleaños Sorpresa",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/MiSextoSentido/CMiSextoSentido.jpg"
             },
             {
@@ -370,7 +363,7 @@
                 "horainicio": "23:00",
                 "horafin": "23:55",
                 "nombre": "JazzBook",
-                "descripcion": "Prg. 02 Alan Valdez (RTX)",
+                "descripcion": "Prg. 05 Juan Pablo Villa (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
@@ -411,14 +404,14 @@
                 "horainicio": "06:15",
                 "horafin": "06:30",
                 "nombre": "RTVH en Concierto",
-                "descripcion": "Natalia Jiménez",
+                "descripcion": "Alejandro Sanz",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
                 "horainicio": "06:30",
                 "horafin": "07:00",
                 "nombre": "Tu Rutina",
-                "descripcion": "Prg. 13 Movilidad Articular (RTX)",
+                "descripcion": "Prg. 30 Rutina de Banco Step (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TuRutina/CTuRutina.jpg"
             },
             {
@@ -460,7 +453,7 @@
                 "horainicio": "13:00",
                 "horafin": "14:00",
                 "nombre": "Mente Sana",
-                "descripcion": "Prg. 88 ¿Cómo Cuidar La Salud Mental de La Niñez? (RTX)",
+                "descripcion": "Prg. 90 Heridas de Abandono (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/MenteSana/CMenteSana.jpg"
             },
             {
@@ -509,7 +502,7 @@
                 "horainicio": "19:00",
                 "horafin": "19:30",
                 "nombre": "Leyendas del Estado de Hidalgo",
-                "descripcion": "Prg. 45 El Duende de la Ventana (RTX)",
+                "descripcion": "Prg. 48 El Aviso del Minero del Más Allá (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Leyendas/CLeyendas.jpg"
             },
             {
@@ -521,9 +514,16 @@
             },
             {
                 "horainicio": "20:00",
+                "horafin": "20:30",
+                "nombre": "Enlaces",
+                "descripcion": "Inversiones Milagrosas",
+                "image": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
+            },
+            {
+                "horainicio": "20:30",
                 "horafin": "21:00",
-                "nombre": "Miscelanea Cultural",
-                "descripcion": "En Vivo",
+                "nombre": "Escápate",
+                "descripcion": "Georgia (RTX)",
                 "image": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
@@ -544,7 +544,7 @@
                 "horainicio": "23:00",
                 "horafin": "23:55",
                 "nombre": "Rocklab",
-                "descripcion": "Prg",
+                "descripcion": "Prg.",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
@@ -585,14 +585,14 @@
                 "horainicio": "06:15",
                 "horafin": "06:30",
                 "nombre": "RTVH en Concierto",
-                "descripcion": "Paty Cantú",
+                "descripcion": "Mocedades",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
                 "horainicio": "06:30",
                 "horafin": "07:00",
                 "nombre": "Tu Rutina",
-                "descripcion": "Prg. 14 Rutina para Casa (RTX)",
+                "descripcion": "Prg. 31 Rutina Para Deportes Extremos (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TuRutina/CTuRutina.jpg"
             },
             {
@@ -613,7 +613,7 @@
                 "horainicio": "09:30",
                 "horafin": "10:00",
                 "nombre": "Visión Futuro",
-                "descripcion": "Astronauta Mujer (RTX)",
+                "descripcion": "Mujeres en la Investigación (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
@@ -634,7 +634,7 @@
                 "horainicio": "13:00",
                 "horafin": "13:30",
                 "nombre": "Escápate",
-                "descripcion": "Italia",
+                "descripcion": "Rin",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
@@ -648,7 +648,7 @@
                 "horainicio": "14:30",
                 "horafin": "15:00",
                 "nombre": "El Club de Monky",
-                "descripcion": "Prg. 10 Día del Niño (RTX)",
+                "descripcion": "Prg. 13 Razas de Gatos (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ElClubDeMonky/CElClubDeMonky.jpg"
             },
             {
@@ -669,7 +669,7 @@
                 "horainicio": "16:30",
                 "horafin": "17:00",
                 "nombre": "Súper Agentes de la Legalidad",
-                "descripcion": "Prg. 54 Puntualidad II (RTX)",
+                "descripcion": "Prg. 57 Comprensión I (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/SuperAgentes/CSuperAgentes.jpg"
             },
             {
@@ -690,14 +690,14 @@
                 "horainicio": "19:00",
                 "horafin": "19:30",
                 "nombre": "Silencio en el Foro",
-                "descripcion": "Prg. Prg. 11 Gustavo Oribe (RTX)",
+                "descripcion": "Prg. 14 Daniel Shakiry (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/SilencioEnElForo/CSilencioForo.jpg"
             },
             {
                 "horainicio": "19:30",
                 "horafin": "20:00",
-                "nombre": "Enlaces",
-                "descripcion": "IA y Medicina (RTX)",
+                "nombre": "Cinescalas",
+                "descripcion": "Prg. 13 Sebastian Barrientos (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
@@ -724,15 +724,8 @@
             {
                 "horainicio": "23:00",
                 "horafin": "23:30",
-                "nombre": "Cinescalas",
-                "descripcion": "Prg. 10 Día del Niño (RTX)",
-                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
-            },
-            {
-                "horainicio": "23:30",
-                "horafin": "23:55",
-                "nombre": "Aquí Estoy",
-                "descripcion": "David Sierra Bike (RTX)",
+                "nombre": "Leer, Una Hora Inesperada",
+                "descripcion": "Prg. 05 (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
@@ -773,7 +766,7 @@
                 "horainicio": "06:15",
                 "horafin": "06:30",
                 "nombre": "RTVH en Concierto",
-                "descripcion": "Bronco",
+                "descripcion": "Natalia Jiménez",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
 
@@ -781,7 +774,7 @@
                 "horainicio": "06:30",
                 "horafin": "07:00",
                 "nombre": "Tu Rutina",
-                "descripcion": "Prg. 15 Estiramiento Y Abdomen (RTX)",
+                "descripcion": "Prg. 21 Rutina de Resistencia e Intensidad (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/TuRutina/CTuRutina.jpg"
             },
             {
@@ -823,14 +816,14 @@
                 "horainicio": "13:00",
                 "horafin": "13:30",
                 "nombre": "Desde Otro Ángulo",
-                "descripcion": "Prg. 81 Madres Cuidadoras (RTX)",
+                "descripcion": "Prg. 73 Accesibilidad (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/DesdeOtroAngulo/CDesdeOtroAngulo.jpg"
             },
             {
                 "horainicio": "13:30",
                 "horafin": "14:00",
                 "nombre": "D'TODO",
-                "descripcion": "Cacao",
+                "descripcion": "Tlaquepaque",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
@@ -870,11 +863,19 @@
             },
             {
                 "horainicio": "18:00",
-                "horafin": "19:00",
-                "nombre": "Noticiero Vespertino Hidalgo Noticias",
-                "descripcion": "(RTX)",
-                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HidalgoNoticias/CHidalgoNoticias.jpg"
+                "horafin": "18:30",
+                "nombre": "C5i",
+                "descripcion": "Prg.",
+                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
+            {
+                "horainicio": "18:30",
+                "horafin": "19:00",
+                "nombre": "Enlaces",
+                "descripcion": "Ciberviolencia de Género",
+                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
+            },
+            
             {
                 "horainicio": "19:00",
                 "horafin": "20:00",
@@ -907,7 +908,7 @@
                 "horainicio": "23:00",
                 "horafin": "23:55",
                 "nombre": "Con Nosotras",
-                "descripcion": "Prg. 124 Relaciones Abiertas vs Tradicionales (RTX)",
+                "descripcion": "Prg. 126 Mujeres Con Uniforme (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConNosotras/CConNosotras.jpg"
             },
             {
@@ -948,35 +949,35 @@
                 "horainicio": "06:15",
                 "horafin": "06:30",
                 "nombre": "RTVH en Concierto",
-                "descripcion": "Ha Ash",
+                "descripcion": "Paty Cantú",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
                 "horainicio": "06:30",
                 "horafin": "07:00",
                 "nombre": "Global 3000",
-                "descripcion": "Digitalización África",
+                "descripcion": "Café",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
                 "horainicio": "07:00",
                 "horafin": "07:30",
                 "nombre": "Euromaxx",
-                "descripcion": "Niños Felices",
+                "descripcion": "Trabajo Ideal",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
                 "horainicio": "07:30",
                 "horafin": "08:00",
                 "nombre": "No Memes",
-                "descripcion": "Aeronáutica",
+                "descripcion": "Litio",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
                 "horainicio": "08:00",
                 "horafin": "08:30",
                 "nombre": "En Forma",
-                "descripcion": "Tratamiento Sin Pastillas",
+                "descripcion": "Caffé",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
@@ -1004,28 +1005,28 @@
                 "horainicio": "11:00",
                 "horafin": "11:30",
                 "nombre": "Eco Latinoamérica",
-                "descripcion": "Urbanización Sustentable",
+                "descripcion": "Océano",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
                 "horainicio": "11:30",
                 "horafin": "12:00",
                 "nombre": "Escápate",
-                "descripcion": "Muro de Berlín (RTX)",
+                "descripcion": "Rio Rin (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
                 "horainicio": "12:00",
                 "horafin": "12:30",
                 "nombre": "D'TODO",
-                "descripcion": "Fabricación Análoga y Digital",
+                "descripcion": "Otumba Edo. de México",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
                 "horainicio": "12:30",
                 "horafin": "13:00",
                 "nombre": "Factor Ciencia",
-                "descripcion": "Maíz",
+                "descripcion": "Chapingo Rescate del Caviar Mexicano",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
@@ -1046,28 +1047,28 @@
                 "horainicio": "14:30",
                 "horafin": "15:30",
                 "nombre": "Mi Sexto Sentido",
-                "descripcion": "Prg 29 Mamá, El Corazón del Hogar (RTX)",
+                "descripcion": "Prg 32 Cumpleaños Sorpresa (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/MiSextoSentido/CMiSextoSentido.jpg"
             },
             {
                 "horainicio": "15:30",
                 "horafin": "16:30",
-                "nombre": "Sobre la Mesa",
-                "descripcion": "Prg. (RTX)",
-                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
-            },
-            {
-                "horainicio": "16:30",
-                "horafin": "17:00",
                 "nombre": "Con Ciencia",
                 "descripcion": "Prg. (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/ConCiencia/CConCiencia.jpg"
             },
             {
+                "horainicio": "16:30",
+                "horafin": "17:00",
+                "nombre": "Sobre la Mesa",
+                "descripcion": "Prg. (RTX)",
+                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
+            },
+            {
                 "horainicio": "17:00",
                 "horafin": "17:30",
                 "nombre": "Desde Otro Ángulo",
-                "descripcion": "Prg. 81 Madres Cuidadoras (RTX)",
+                "descripcion": "Prg. 73 Accesibilidad (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/DesdeOtroAngulo/CDesdeOtroAngulo.jpg"
             },
             {
@@ -1108,20 +1109,20 @@
             {
                 "horainicio": "21:00",
                 "horafin": "21:30",
-                "nombre": "Aquí Estoy",
-                "descripcion": "Pavel Cortés Cine (RTX)",
+                "nombre": "Enlaces",
+                "descripcion": "Ciberviolencia de Género",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
                 "horainicio": "21:30",
                 "horafin": "22:30",
-                "nombre": "Programa Especial",
-                "descripcion": "Prg.",
+                "nombre": "Rocklab",
+                "descripcion": "Prg. (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
-                "horainicio": "21:30",
-                "horafin": "22:30",
+                "horainicio": "22:30",
+                "horafin": "23:30",
                 "nombre": "JazzBook",
                 "descripcion": "Prg.",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
@@ -1130,7 +1131,7 @@
                 "horainicio": "23:30",
                 "horafin": "23:55",
                 "nombre": "RTH Videos",
-                "descripcion": "Cumbia y Banda",
+                "descripcion": "Miguel Bosé",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
@@ -1164,49 +1165,49 @@
                 "horainicio": "06:15",
                 "horafin": "06:30",
                 "nombre": "RTVH en Concierto",
-                "descripcion": "Ángeles Negros",
+                "descripcion": "Bronco",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
                 "horainicio": "06:30",
                 "horafin": "07:00",
                 "nombre": "Global 3000",
-                "descripcion": "Peligro Invisible",
+                "descripcion": "Arte en las Calles",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
                 "horainicio": "07:00",
                 "horafin": "07:30",
                 "nombre": "Euromaxx",
-                "descripcion": "Kumpir",
+                "descripcion": "Caballos Españoles",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
                 "horainicio": "07:30",
                 "horafin": "08:00",
                 "nombre": "No Memes",
-                "descripcion": "Aeronáutica (RTX)",
+                "descripcion": "Litio (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
                 "horainicio": "08:00",
                 "horafin": "08:30",
                 "nombre": "RTH Videos",
-                "descripcion": "Diversos",
+                "descripcion": "Varios 01",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
                 "horainicio": "08:30",
                 "horafin": "09:00",
                 "nombre": "Factor Ciencia",
-                "descripcion": "Maíz (RTX)",
+                "descripcion": "Chapingo Rescate del Caviar Mexicano (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
                 "horainicio": "09:00",
                 "horafin": "09:30",
                 "nombre": "Hecho en Alemania",
-                "descripcion": "Autos Alemanes",
+                "descripcion": "IA y Animales",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
@@ -1227,14 +1228,14 @@
                 "horainicio": "10:30",
                 "horafin": "11:00",
                 "nombre": "Con Sabor y Saber",
-                "descripcion": "Torta Pascualina",
+                "descripcion": "Pastel de Yogurth",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
                 "horainicio": "11:00",
                 "horafin": "11:30",
-                "nombre": "Eco Latinoamérica",
-                "descripcion": "Manglar",
+                "nombre": "A+A Amor y Amistad",
+                "descripcion": "Prg. 01 Mi Primer Maullido (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
@@ -1248,15 +1249,15 @@
                 "horainicio": "12:00",
                 "horafin": "14:00",
                 "nombre": "Programa Especial",
-                "descripcion": "Ofanum",
+                "descripcion": "Ofunam",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Canal.jpg"
             },
             {
                 "horainicio": "14:00",
                 "horafin": "15:00",
-                "nombre": "Hidalgo Hoy",
-                "descripcion": "(RTX)",
-                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/HidalgoHoy/CHidalgoHoy.jpg"
+                "nombre": "Xplosión Sónica",
+                "descripcion": "Prg. Live (RTX)",
+                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/XplosionSonica/CXplosionSonica.jpg"
             },
             {
                 "horainicio": "15:00",
@@ -1332,7 +1333,7 @@
                 "horainicio": "21:30",
                 "horafin": "22:00",
                 "nombre": "Leyendas del Estado de Hidalgo",
-                "descripcion": "Prg. 102 El Presagio",
+                "descripcion": "Prg. 104 La Casa del Espectro",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/Leyendas/CLeyendas.jpg"
             },
             {
@@ -1344,16 +1345,9 @@
             },
             {
                 "horainicio": "23:00",
-                "horafin": "23:30",
+                "horafin": "23:55",
                 "nombre": "Ven Acá",
                 "descripcion": "Prg. (RTX)",
-                "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
-            },
-            {
-                "horainicio": "23:30",
-                "horafin": "23:55",
-                "nombre": "Aquí Estoy",
-                "descripcion": "Tango Fusión (RTX)",
                 "imagen": "https://cdn.hidalgo.gob.mx/gobierno/images/dependencias/RTH/Tv/CpFondo.jpg"
             },
             {
