@@ -23,3 +23,8 @@
     "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/LGEBIOFCEPCI/LGEBIOFCEPCI.pdf",
     "icon": "File"
   },
+  {
+    "title": "Programa Anual de Trabajo del Comité de Ética y Prevención de Conflicto de Interés",
+    "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/PATCEPCI/PATCEPCI.pdf",
+    "icon": "File"
+  }
