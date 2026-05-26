@@ -1,0 +1,25 @@
+
+    "title": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
+    "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/LGAMVLV/LGAMVLV.pdf",
+    "icon": "File"
+
+
+    "title": "Ley para la Igualdad entre Mujeres y Hombres de Hidalgo",
+    "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/LIMHH/LIMHH.pdf",
+    "icon": "File"
+  
+  {
+    "title": "Ley de Responsabilidades Administrativas del Estado de Hidalgo",
+    "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/LRAEH/LRAEH.pdf",
+    "icon": "File"
+  },
+    {
+    "title": "Ley de Acceso de las Mujeres de Hidalgo",
+    "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/LAMH/LAMH.pdf",
+    "icon": "File"
+  },
+  {
+    "title": "Lineamientos Generales que Establecen las Bases para la Integración, Organización y Funcionamiento de los comités de Ética y Prevención de Conflictos de Interés",
+    "url": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/SCII/CEPSI/P0/LGEBIOFCEPCI/LGEBIOFCEPCI.pdf",
+    "icon": "File"
+  },
