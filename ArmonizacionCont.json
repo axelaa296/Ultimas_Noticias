@@ -6179,13 +6179,722 @@
             "botoncontenido": [
               {
                 "subtitulo": "Información Financiera Del Sector Paraestatal",
-                "pdf": {
+                "http": {
                   "link": "https://ehacienda.hidalgo.gob.mx/WebCPublica2023/tomo7_2.html",
                   "version": "20260423"
+                }
+              },
+              {
+                "bold": "Contable",
+                "subtitulo": "01 Estado de Actividades",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Contable/01%20EA.pdf",
+                  "version": "20260505"
                 },
                 "xls": {
                   "link": "",
-                  "version": "20260423"
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "02 Estado de Situación Financiera",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Contable/02%20ESF.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "03 Estado de Variación en la Hacienda Pública",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Contable/03%20EVHP.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "04 Estado de Cambios en la Situación Financiera",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Contable/04%20ECSF.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "05 Estado de Flujos de Efectivo",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Contable/05%20EFE.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "06 Estado Analítico del Activo",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Contable/06%20EAA.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "07 Estado Analítico de la Deuda y Otros Pasivos",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Contable/07%20EADOP.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "08 Informe de Pasivos Contingentes",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Contable/08%20IPC.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "09 Notas a los Estados Financieros",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Contable/09%20NEF.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "10 Conciliación entre los Ingresos Presupuestales y Contables",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Contable/10%20CIPyCyEPyC.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "bold": "Presupuestaria",
+                "subtitulo": "01 Estado Analítico de Ingresos",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Presupuestaria/01%20EAI.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "02 Estado Analítico del Ejercicio del Presupuesto de Egresos por Clasificación por Objeto del Gasto",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Presupuestaria/02%20EAEPE%20-%20COG.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "03 Estado Analítico del Ejercicio del Presupuesto de Egresos por Clasificación Administrativa",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Presupuestaria/03%20EAEPE%20-%20CA.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "04 Clasificación Económica de los Ingresos de los Gastos y del Financiamiento",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Presupuestaria/04%20CE%20-%20IGF.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "05 Estado Analítico del Ejercicio del Presupuesto de Egresos por Clasificación Económica (Tipo de Gasto)",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Presupuestaria/05%20EAEPE%20-%20CE.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "06 Estado Analítico del Ejercicio del Presupuesto de Egresos por Clasificación Funcional",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Presupuestaria/06%20EAEPE%20-%20CF.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "07 Endeudamiento Neto",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Presupuestaria/07%20EN.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "08 Intereses de la Deuda",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Presupuestaria/08%20ID.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "09 Indicadores de Postura Fiscal",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Presupuestaria/09%20IPF.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "bold": "Programática",
+                "subtitulo": "01 Gasto por Categoría Programática",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Programatica/01%20GCP.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "02 Programas y Proyectos de Inversión",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Programatica/02%20PyPI.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "03 Indicadores de Resultados",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Programatica/03%20IR.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "bold": "Anexos",
+                "subtitulo": "01 Relación de Bienes Muebles que Componen el Patrimonio",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Anexos/01%20RBM.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "02 Relación de Bienes Inmuebles que Componen el Patrimonio",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Anexos/02%20RBI.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "03 Relación de Cuentas Bancarias Productivas Específicas",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Anexos/03%20RCBPE.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "04 Relación de Esquemas Bursátiles y de Coberturas Financieras",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Anexos/04%20REByCF.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "05 Ejercicio y Destino del Gasto Federalizado y Reintegros",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/Anexos/05%20FEyGFyR.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "bold": "Información Para Integrar y Consolidar",
+                "subtitulo": "01 Ingresos por Transferencias recibidas de la SH",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPIC/01%20ITRSFP.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "02 Aportaciones provenientes de la SH",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPIC/02%20APSFP.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "bold": "Ley de Disciplina Financiera",
+                "subtitulo": "01 F1 Estado de Situación Financiera Detallado",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/LDF/01%20F1%20ESFD.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "02 F2 Informe Analítico de la Deuda Pública y Otros Pasivos",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/LDF/02%20F2%20IADPyOP.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "03 F3 Informe Analítico de Obligaciones Diferentes de Financiamientos",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/LDF/03%20F3%20IAODF.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "04 F4 Balance Presupuestario",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/LDF/04%20F4%20BP.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "05 F5 Estado Analítico de Ingresos Detallado",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/LDF/05%20F5%20EAID.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "06 F6 a) Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado (Clasificación por Objeto del Gasto)",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/LDF/06%20F6%20a)%20EAEPED%20-%20COG.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "07 F6 b) Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado (Clasificación Administrativa)",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/LDF/07%20F6%20b)%20EAEPED%20-%20CA.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "08 F6 c) Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado (Clasificación Funcional)",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/LDF/08%20F6%20c)%20EAEPED%20-%20CF.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "09 F6 d) Estado Analítico del Ejercicio del Presupuesto de Egresos Detallado (Clasificación de Servicios Personales por Categoría)",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/LDF/09%20F6%20d)%20EAEPED%20-%20CSPC.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "10 Anexo 3.- Guía de Cumplimiento LDF",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/LDF/10%20A3%20GC.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "bold": "Información Adicional LDF",
+                "subtitulo": "01 Balance Presupuestario de Recursos Disponibles Negativos 2024",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IALDF/01%20BPRDN.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "02 Aumento o Creación del Gasto del Presupuesto de Egreso durante el Ejercicio 2024",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IALDF/02%20ACG%20DEL%20PE.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "03 Devengados en el año que integra el pasivo circulante al cierre del ejercicio 2024",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IALDF/03%20DAIPCCE.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "04 Ingresos Excedentes Derivados de Ingresos de Libre Disposición 2024",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IALDF/04%20IEDILD.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "05 Contratación de la Deuda Pública y Obligaciones 2024",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IALDF/05%20CDPyO.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "06 Información Detallada de Contratación de Obligaciones a Corto Plazo 2024",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IALDF/06%20IDCOCP.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "bold": "Información Del PEEH",
+                "subtitulo": "01 Artículo 10 Comparativo del Estado de Situación Financiera",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/01%20Art%2010%20CESF.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "02 Artículo 10 Comparativo del Estado Analítico del Ejercicio del Presupuesto de Egresos Clasificación por Objeto del Gasto (Capítulo y Concepto)",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/02%20Art%2010%20CEAEPE.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "03 Artículo 10 Informe Ejecutivo (Comparativos Situación Financiera y Ejercicio del Presupuesto de Egresos)",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/03%20Art%2010%20IEC.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "04 Artículo 10 Estado Analítico de Ingresos Presupuestales",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/04%20Art%2010%20EAIP.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "05 Artículo 10 Informe Ejecutivo (Ingresos)",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/05%20Art%2010%20IEI.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "06 Artículo 10 Variación respecto a la Deuda Pública",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/06%20Art%2010%20VDP.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "07 Artículo 14 Estrategia Transversal 1 Erogaciones para la Ciencia y Tecnología",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/07%20Art%2014%20EPT%20CTE.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "08  Artículo 14 Estrategia Transversal 2 Derechos Humanos",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/08%20Art%2014%20EPT%20DP.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "09  Artículo 14 Estrategia Transversal 3 Transparencia y Rendición de Cuentas",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/09%20Art%2014%20EPT%20ICICID.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "09  Artículo 14 Estrategia Transversal 4 Anexo Transversal Anticorrupción",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/09%20Art%2014%20EPT%20RDV.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "10  Artículo 14 Estrategia Transversal 5 Indicadores de Desempeño",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/10%20Art%2014%20ET5%20ID%20.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "10  Artículo 14 Estrategia Transversal 5 Indicadores de Desempeño (Estratégicos y de Gestión)",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/10%20Art%2014%20ET5%20ID%20(EG).pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "11 Artículo 19 Indicadores Estratégicos y de Gestión (Avances y Resultados de la Ejecución y Evaluación de los Programas Presupuestarios)",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/11%20Art%2019%20IEyDG%20AyREyEPP.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "12 Artículo 23 Programas, Proyectos, Obras o Acciones con Aportaciones de Recursos porparte del Gobierno del Estado",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/12%20Art%2023%20PPOARGE.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "15 Artículo 50 Avance en los Programas de Reducción del Gasto",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/15%20Art%2052%20APRG.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "16 Artículo 58 Tabuladores y Remuneraciones Cubiertas a los Servidores Públicos",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/IPEEH/16%20Art%2058%20TyRCSP.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "bold": "Información De La LPCGEH",
+                "subtitulo": "01 Artículo 18 Bis Aumento o Creación del Gasto",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/ILPCGEH/01%20Art%2018%20BIS%20ACG.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "06 Artículo 72 Relación de Contratos por Prestación de Servicios Profesionales (PersonasFísicas) 2024",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/ILPCGEH/06%20Art%2072%20CPSPH%20-%20PF.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "08 Artículo 96 Indicadores de Desempeño",
+                "pdf": {
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/CuentaPublica/2023/ILPCGEH/08%20Art%2096%20ID.pdf",
+                  "version": "20260505"
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
                 }
               }
             ]
