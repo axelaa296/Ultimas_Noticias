@@ -7,8 +7,8 @@
                 "nombre": "Marco Normativo",
                 "xlsx": "f1",
                 "html": "f1",
-                "xlsx_liga": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f01_E_RTH.xlsx", 
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f01_E_RTH.htm"
+                "xlsx_liga": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f01_E_RTH.xlsx", 
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f01_E_RTH.htm"
             }
         ]
     }, 
@@ -40,8 +40,8 @@
                 "nombre": "Facultades",
                 "xlsx": "f3",
                 "html": "f3",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f03_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f03_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f03_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f03_RTH.htm"
             }
         ]
     },
@@ -302,15 +302,15 @@
                 "nombre": "Presupuesto Anual",
                 "xlsx": "f21_a",
                 "html": "f21_a",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/1erTrim/xlsx/a69_f21_a_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/1erTrim/htm/a69_f21_a_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f21_a_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f21_a_RTH.htm"
             },
             {
                 "nombre": "Gasto Trimestral",
                 "xlsx": "f21_b",
                 "html": "f21_b",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f21_b_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f21_b_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f21_b_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f21_b_RTH.htm"
             },
             {
                 "nombre": "Cuenta Pública",
@@ -356,6 +356,7 @@
                 "urlHtml": "https://s-gobierno.hidalgo.gob.mx/Transparencia/htm/a69f23bSEGOB.htm"
             },
             {
+                "nota": "NO SE MUEVE",
                 "nombre": "Tiempos Oficiales",
                 "xlsx": "f23_c",
                 "html": "f23_c",
@@ -418,8 +419,8 @@
                 "nombre": "Concesiones, Contratos, Convenios, Permisos, Licencias y Autorizaciones",
                 "xlsx": "f27",
                 "html": "f27" ,
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f27_RTH.xlsx" ,
-                "urlHtml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f27_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f27_RTH.xlsx" ,
+                "urlHtml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f27_RTH.htm"
             }
         ] 
     },
@@ -447,8 +448,8 @@
                 "nombre": "Informes",
                 "xlsx": "f29",
                 "html": "f29",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f29_RTH.xlsx",
-                "urlHtml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f29_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f29_RTH.xlsx",
+                "urlHtml" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f29_RTH.htm"
             }
         ]
         
@@ -477,15 +478,15 @@
                 "nombre": "Informe de Estados Financieros",
                 "xlsx": "f31_a",
                 "html": "f31_a",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f31_a_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f31_a_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f31_a_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f31_a_RTH.htm"
             },
             {
                 "nombre": "Informe Contable, Presupuestal y Programático",
                 "xlsx": "f31_b",
                 "html": "f31_b",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f31_b_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f31_b_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f31_b_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f31_b_RTH.htm"
             }
         ]
         
@@ -514,8 +515,8 @@
                 "nombre": "Convenios de Coordinación y Concertación",
                 "xlsx": "f33",
                 "html": "f33",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f33_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f33_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f33_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f33_RTH.htm"
             }
         ]
         
@@ -587,15 +588,15 @@
                 "nombre": "a)-Recomendaciones de Derechos Humanos Emitidas por la CNDH",
                 "xlsx": "f35_a",
                 "html": "f35_a",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f35_a_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f35_a_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f35_a_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f35_a_RTH.htm"
             },
             {
                 "nombre": "b)-Recomendaciones de Derechos Humanos Casos Especiales",
                 "xlsx": "f35_b",
                 "html": "f35_b",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f35_b_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f35_b_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f35_b_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f35_b_RTH.htm"
             },
             {
                 "nombre": "c)-Las Recomendaciones de Derechos Humanos Org. Int. CNDH",
@@ -631,15 +632,15 @@
                 "nombre": "a)-Mecanismos de Participación Ciudadana",
                 "xlsx": "f37_a",
                 "html": "f37_a",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f37_a_RTH.xlsx    ",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f37_a_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f37_a_RTH.xlsx    ",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f37_a_RTH.htm"
             },
             {
                 "nombre": "b)-Resultados de los Mecanismos de Participación Ciudadana",
                 "xlsx": "f37_b",
                 "html": "f37_b",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f37_b_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f37_b_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f37_b_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f37_b_RTH.htm"
             }
         ]
         
@@ -760,15 +761,15 @@
                 "nombre": "a)-Ingresos Recibidos",
                 "xlsx": "f43_a",
                 "html": "f43_a",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f43_a_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f43_a_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f43_a_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f43_a_RTH.htm"
             },
             {
                 "nombre": "b)-Responsables de Recibir los Ingresos",
                 "xlsx": "f43_b",
                 "html": "f43_b",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f43_b_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f43_b_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f43_b_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f43_b_RTH.htm"
             }
         ]
     },
@@ -812,8 +813,8 @@
                 "nombre": "c)-Cuadro general de clasificación archivística, Catálogo de disposición documental, Guía de archivo documental, Programa Anual de Desarrollo Archivístico, Informe Anual de cumplimiento, Actas y dictámenes de baja documental", 
                 "xlsx": "f45_c",
                 "html": "f45_c",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/1erTrim/xlsx/a69_f45_c_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/1erTrim/htm/a69_f45_c_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f45_c_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f45_c_RTH.htm"
 
             }
         ]
@@ -828,8 +829,8 @@
                 "nombre": "a)-Actas del Consejo Consultivo Ciudadano",
                 "xlsx": "f46_a",
                 "html": "f46_a",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f46_a_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f46_a_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f46_a_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f46_a_RTH.htm"
             },
             {
                 "nombre": "b)-Opiniones del Consejo Consultivo Ciudadano", 
@@ -886,15 +887,15 @@
                 "nombre": "b)-Preguntas Frecuentes",   
                 "xlsx": "f48_b",
                 "html": "f48_b",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f48_b_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f48_b_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f48_b_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f48_b_RTH.htm"
             },
             {
                 "nombre": "c)-Transparencia Proactiva",    
                 "xlsx": "f48_c",
                 "html": "f48_c",
-                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/xlsx/a69_f48_c_RTH.xlsx",
-                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2025/4toTrim/htm/a69_f48_c_RTH.htm"
+                "xlsx_liga" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/xlsx/a69_f48_c_RTH.xlsx",
+                "urlHtml": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Rubros/2026/1erTrim/htm/a69_f48_c_RTH.htm"
             }
         ]       
     }
