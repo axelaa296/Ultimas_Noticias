@@ -1,5 +1,6 @@
 [
     {
+        "numero:": "1.",
         "nombre": "Normatividad",
         "icono": "Normatividad.png",
         "formatos": [
@@ -13,6 +14,7 @@
         ]
     }, 
     {
+        "numero:": "2.",
         "nombre": "Estructura",
         "icono":"Estructura.png",
         "formatos": [
@@ -33,6 +35,7 @@
         ]
     },
     {
+        "numero:": "3.",
         "nombre": "Facultades",
         "icono":"Facultades.png",
         "formatos": [
@@ -46,6 +49,7 @@
         ]
     },
     {
+        "numero:": "4.",
         "nombre": "Programas Operativos Anuales",
         "icono":"ProgramasOperativosAnuales.png",
         "formatos": [
@@ -60,6 +64,7 @@
         
     },
     {
+        "numero:": "5.",
         "nombre": "Indicadores de Interés",
         "icono":"IndicadoresInteres.png",
         "formatos": [
@@ -74,6 +79,7 @@
         
     },
     {
+        "numero:": "6.",
         "nombre": "Matriz de Indicadores",
         "icono":"MatrizIndicadores.png",
         "formatos": [
@@ -88,6 +94,7 @@
         
     },
     {
+        "numero:": "7.",
         "nombre": "Directorio",
         "icono":"Directorio.png",
         "formatos": [
@@ -102,6 +109,7 @@
         
     },
     {
+        "numero:": "8.",
         "nombre": "Sueldos",
         "icono":"Sueldos.png",
         "formatos": [
@@ -116,6 +124,7 @@
         "url" : "https://oficialiamayor.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/8.%20Sueldos"
     },
     {
+        "numero:": "9.",
         "nombre": "Viáticos",
         "icono":"Viaticos.png",
         "formatos": [
@@ -129,6 +138,7 @@
         ]	
     },
     {
+        "numero:": "10.",
         "nombre": "Plazas",
         "icono":"Plazas.png","formatos": [
             {
@@ -145,6 +155,7 @@
         "url" : "https://oficialiamayor.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/10.%20Plazas"
     },
     {
+        "numero:": "11.",
         "nombre": "Honorarios",
         "icono":"Honorarios.png",
         "formatos": [
@@ -158,6 +169,7 @@
         ]	
     },
     {
+        "numero:": "12.",
         "nombre": "Declaraciones Públicas",
         "icono":"DeclaracionesPublicas.png",
         "formatos": [
@@ -172,6 +184,7 @@
         "url" : "https://s-contraloria.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/12.%20Declaraciones%20P%C3%BAblicas"
     },
     {
+        "numero:": "13.",
         "nombre": "Datos de Contacto de la Unidad",
         "icono":"DatosContactoUnidad.png",
         "formatos": [
@@ -186,6 +199,7 @@
         "url" : "https://s-contraloria.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/13.%20Datos%20de%20Contacto%20de%20la%20Unidad"
     },
     {
+        "numero:": "14.",
         "nombre": "Convocatorias",
         "icono":"Convocatorias.png",
         "formatos": [
@@ -198,6 +212,7 @@
         "url" : "https://oficialiamayor.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/14.%20Convocatorias"
     },
     {
+        "numero:": "15.",
         "nombre": "Programas Sociales",
         "icono":"ProgramasSociales.png",
         "formatos": [
@@ -219,6 +234,7 @@
         "url" : "https://sebiso.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/15%20-%20Programas%20Sociales"
     },
     {
+        "numero:": "16.",
         "nombre": "Relaciones Laborales",
         "icono":"RelacionesLaborales.png",
         "formatos": [
@@ -240,6 +256,7 @@
         "url" : "https://oficialiamayor.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/16.%20Relaciones%20Laborales"
     },
     {
+        "numero:": "17.",
         "nombre": "Información Curricular",
         "icono":"InformacionCurricular.png",
         "formatos": [
@@ -253,6 +270,7 @@
         ]
     },
     {
+        "numero:": "18.",
         "nombre": "Sanciones Administrativas",
         "icono":"SancionesAdministrativas.png",
         "formatos": [
@@ -267,6 +285,7 @@
         "url" : "https://s-contraloria.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/18.%20Sanciones%20Administrativas"
     },
     {
+        "numero:": "19.",
         "nombre": "Servicios",
         "icono":"Servicios.png",
         "formatos": [
@@ -281,6 +300,7 @@
         
     },
     {
+        "numero:": "20.",
         "nombre": "Trámites",
         "icono":"Tramites.png",
         "formatos": [
@@ -295,6 +315,7 @@
         
     },
     {
+        "numero:": "21.",
         "nombre": "Presupuesto e Informes Trimestrales",
         "icono":"PresupuestoInformesTrimestrales.png",
         "formatos": [
@@ -323,6 +344,7 @@
         
     },
     {
+        "numero:": "22.",
         "nombre": "Deuda Pública",
         "icono":"DeudaPublica.png",
         "formatos": [
@@ -337,7 +359,7 @@
         "url" : "https://hacienda.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/22.Deuda%20P%C3%BAblica"
     },
     {
-        
+        "numero:": "23.",
         "nombre": "Comunicación Social y Publicidad",
         "icono":"ComunicacionSocialPublicidad.png",
         "formatos": [
@@ -366,7 +388,7 @@
         ]
     },
     {
-        
+        "numero:": "24.",
         "nombre": "Resultados de Auditorías",
         "icono":"ResultadosAuditorias.png",
         "formatos": [
@@ -381,7 +403,7 @@
         "url" : "https://s-contraloria.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/24.%20Resultados%20de%20Auditor%C3%ADas"
     },
     {	
-        
+        "numero:": "25.",
         "nombre": "Dictámenes de Estados Financiero",
         "icono":"DictamenesFinancieros.png",
         "formatos": [
@@ -396,7 +418,7 @@
         "url" : ""
     },
     {
-        
+        "numero:": "26.",
         "nombre": "Asignación de Recursos Públicos a Personas",
         "icono":"AsignacionRecursosPublicosPersonas.png",
         "formatos": [
@@ -411,7 +433,7 @@
         "url" : "https://hacienda.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/26.Asignacion%20de%20Recursos%20Publicos%20a%20Personas"
     },
     {
-        
+        "numero:": "27.",
         "nombre": "Concesiones",
         "icono":"Concesiones.png",
         "formatos": [
@@ -425,7 +447,7 @@
         ] 
     },
     {
-        
+        "numero:": "28.",
         "nombre": "Licitaciones Públicas",
         "icono":"LicitacionesPublicas.png",
         "formatos": [
@@ -440,7 +462,7 @@
         ] 
     },
     {
-        
+        "numero:": "29.",
         "nombre": "Informes",
         "icono":"Informes.png",
         "formatos": [
@@ -455,7 +477,7 @@
         
     },
     {
-        
+        "numero:": "30.",
         "nombre": "Estadísticas Generadas",
         "icono":"EstadisticasGenerales.png",
         "formatos": [
@@ -470,7 +492,7 @@
         
     },
     {
-        
+        "numero:": "31.",
         "nombre": "Informe de Avances y Documentos Financiero",
         "icono":"InformeAvancesDocumentosFinancieros.png",
         "formatos": [
@@ -492,7 +514,7 @@
         
     },
     {
-        
+        "numero:": "32.",
         "nombre": "Padrón de Proveedores y Contratistas",
         "icono":"PadronProveedoresContratistas.png",
         "formatos": [
@@ -507,7 +529,7 @@
         "url" : "https://s-contraloria.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/32.%20Padr%C3%B3n%20de%20Proveedores%20y%20Contratistas"
     },
     {
-        
+        "numero:": "33.",
         "nombre": "Convenios con Sectores Social y Privado",
         "icono":"ConveniosSectoresSocialPrivado.png",
         "formatos": [
@@ -522,6 +544,7 @@
         
     },
     {
+        "numero:": "34.",
         "nombre": "Inventario de Bienes",
         "icono":"InventarioBienes.png",
         "formatos": [
@@ -580,7 +603,7 @@
         
     },
     {
-        
+        "numero:": "35.",
         "nombre": "Recomendaciones y Atención en Materia de Derechos Humanos",
         "icono":"RecomendacionesAtenciónMateriaDerechosHumanos.png",
         "formatos": [
@@ -609,7 +632,7 @@
         
     },
     {
-        
+        "numero:": "36.",
         "nombre": "Resoluciones y Laudos de Juicios",
         "icono":"ResolucionesLaudosJuicios.png",
         "formatos": [
@@ -624,7 +647,7 @@
         "url" : "https://s-trabajo.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/36.%20Resoluciones%20y%20Laudos%20de%20Juicios"
     },
     {
-        
+        "numero:": "37.",
         "nombre": "Mecanismo de Participación Ciudadana",
         "icono":"MecanismosParticipacionCiudadana.png",
         "formatos": [
@@ -646,7 +669,7 @@
         
     },
     {
-        
+        "numero:": "38.",
         "nombre": "Programas Ofrecidos",
         "icono":"ProgramasOfrecidos.png",
         "formatos": [
@@ -664,7 +687,7 @@
         "url" : "https://s-salud.hidalgo.gob.mx/Transparencia/RubrosSsh/DetalleRubroSsh/38.%20Programas%20Ofrecidos"
     },
     {
-        
+        "numero:": "39.",
         "nombre": "Actas y Resoluciones del Comité de Transparencia",
         "icono":"ActasResolucionesComiteTransparencia.png",
         "formatos": [
@@ -700,7 +723,7 @@
         "url" : "https://s-contraloria.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/39.%20Actas%20y%20Resoluciones%20del%20Comit%C3%A9%20de%20Transparencia"
     },
     {
-        
+        "numero:": "40.",
         "nombre": "Evaluacion y Encuesta a Programas Financiados con Recursos Públicos",
         "icono":"EvaluacionencuestasProgramas.png",
         "formatos": [
@@ -715,7 +738,7 @@
         "url"  : "https://hacienda.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/40.Evaluacion%20y%20Encuestas%20a%20Programas%20Financiados%20con%20Recursos%20P%C3%BAblicos"
     },
     {
-        
+        "numero:": "41.",
         "nombre": "Estudios Pagados con Recursos Públcos",
         "icono":"EstudiosPagadosRecursosPublicos.png",
         "formatos": [
@@ -731,7 +754,7 @@
         
     },
     {
-        
+        "numero:": "42.",
         "nombre": "Listados Jubilados y Pensionados",
         "icono":"ListadoJubiladosPencionados.png",
         "formatos": [
@@ -753,7 +776,7 @@
         "url" : "https://oficialiamayor.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/42.%20Listados%20Jubilados%20y%20Pensionados"
     },
     {
-        
+        "numero:": "43.",
         "nombre": "Ingresos Recibidos por Cualquier Concepto",
         "icono":"IngresosRecibidosCualquierConcepto.png",
         "formatos": [
@@ -774,7 +797,7 @@
         ]
     },
     {
-        
+        "numero:": "44.",
         "nombre": "Donaciones Hechas a Terceros",
         "icono":"DonacionesHechasTerceros.png",
         "formatos": [
@@ -789,7 +812,7 @@
         
     },
     {
-        
+        "numero:": "45.",
         "nombre": "Catálogo Documental y Guia de Archivos",
         "icono":"Viaticos.png",
         "formatos": [
@@ -821,7 +844,7 @@
         
     },
     {
-        
+        "numero:": "46.",
         "nombre": "Actas de Sesiones, Opiniones y Recomendaciones de Consejos Consultivos",
         "icono":"CatalogoDocumentalGuiaArchivos.png",
         "formatos": [
@@ -843,7 +866,7 @@
         
     },
     {
-        
+        "numero:": "47.",
         "nombre": "Solicitud de Intervecion de  Comunicaciones",
         "icono":"SolicitudIntervencionComunicaciones.png",
         "formatos": [
@@ -872,7 +895,7 @@
         "url" : "https://procuraduria.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/Solicitud%20de%20Intervenci%C3%B3n%20de%20%20Comunicaciones"
     },
     {
-        
+        "numero:": "48.",
         "nombre": "Información de Utilidad o Relevante",
         "icono":"InformacionUtilidadRelevante.png",
         "formatos": [
