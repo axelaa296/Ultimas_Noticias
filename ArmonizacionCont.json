@@ -4745,21 +4745,16 @@
                   "link": "",
                   "version": ""
                 }
-              }
-            ]
-          },
-          {
-            "titulo": "Cuenta Pública",
-            "botoncontenido": [
+              },
               {
-                "subtitulo": "Información Financiera Del Sector Paraestatal",
+                "subtitulo": "Presupuesto Ciudadano",
                 "pdf": {
-                  "link": "",
-                  "version": ""
+                  "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/TituloLGCG/2024/3erTrim/pdf/i.pdf",
+                  "version": "20260423"
                 },
                 "xls": {
-                  "link": "https://ehacienda.hidalgo.gob.mx/WebCPublica2024/tomo7_2.html",
-                  "version": "20260423"
+                  "link": "",
+                  "version": ""
                 }
               }
             ]
