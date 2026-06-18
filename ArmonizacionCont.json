@@ -5688,22 +5688,6 @@
                 }
               }
             ]
-          },
-          {
-            "titulo": "Cuenta Pública",
-            "botoncontenido": [
-              {
-                "subtitulo": "Información Financiera Del Sector Paraestatal",
-                "pdf": {
-                  "link": "",
-                  "version": ""
-                },
-                "xls": {
-                  "link": "https://ehacienda.hidalgo.gob.mx/WebCPublica2024/tomo7_2.html",
-                  "version": "20260423"
-                }
-              }
-            ]
           }
         ]
       }
