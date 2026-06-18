@@ -10553,6 +10553,7 @@
           {
             "titulo": "Cuenta Pública",
             "botoncontenido": [
+              
               {
                 "subtitulo": "Información Financiera Del Sector Paraestatal",
                 "pdf": {
@@ -10560,18 +10561,7 @@
                   "version": "20260423"
                 },
                 "xls": {
-                  "link": "",
-                  "version": "20260423"
-                }
-              },
-              {
-                "subtitulo": "Información Financiera Del Sector Paraestatal",
-                "pdf": {
                   "link": "https://ehacienda.hidalgo.gob.mx/WebCPublica2021/tomo7_2.html",
-                  "version": "20260423"
-                },
-                "xls": {
-                  "link": "",
                   "version": "20260423"
                 }
               }
@@ -11037,11 +11027,11 @@
               {
                 "subtitulo": "Información Financiera Del Sector Paraestatal",
                 "pdf": {
-                  "link": "https://ehacienda.hidalgo.gob.mx/WebCPublica2021/tomo7_2.html",
+                  "link": "",
                   "version": "20260423"
                 },
                 "xls": {
-                  "link": "",
+                  "link": "https://ehacienda.hidalgo.gob.mx/WebCPublica2021/tomo7_2.html",
                   "version": "20260423"
                 }
               }
@@ -11504,6 +11494,7 @@
           {
             "titulo": "Cuenta Pública",
             "botoncontenido": [
+              
               {
                 "subtitulo": "Información Financiera Del Sector Paraestatal",
                 "pdf": {
@@ -11511,18 +11502,7 @@
                   "version": "20260423"
                 },
                 "xls": {
-                  "link": "",
-                  "version": "20260423"
-                }
-              },
-              {
-                "subtitulo": "Información Financiera Del Sector Paraestatal",
-                "pdf": {
                   "link": "https://ehacienda.hidalgo.gob.mx/WebCPublica2021/tomo7_2.html",
-                  "version": "20260423"
-                },
-                "xls": {
-                  "link": "",
                   "version": "20260423"
                 }
               }
@@ -11992,18 +11972,7 @@
                   "version": "20260423"
                 },
                 "xls": {
-                  "link": "",
-                  "version": "20260423"
-                }
-              },
-              {
-                "subtitulo": "Información Financiera Del Sector Paraestatal",
-                "pdf": {
                   "link": "https://ehacienda.hidalgo.gob.mx/WebCPublica2021/tomo7_2.html",
-                  "version": "20260423"
-                },
-                "xls": {
-                  "link": "",
                   "version": "20260423"
                 }
               }
