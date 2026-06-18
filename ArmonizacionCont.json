@@ -2455,6 +2455,55 @@
             ]
           },
           {
+            "titulo": "Información Complementaria",
+            "botoncontenido": [
+              {
+                "subtitulo": "Calendario de Egresos",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "Calendario de Ingresos",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "Presupuesto de Egresos",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              },
+              {
+                "subtitulo": "Presupuesto de Ingresos",
+                "pdf": {
+                  "link": "",
+                  "version": ""
+                },
+                "xls": {
+                  "link": "",
+                  "version": ""
+                }
+              }
+            ]
+          },
+          {
             "titulo": "Catálogo de Bienes",
             "botoncontenido": [
               {
@@ -2577,55 +2626,6 @@
                 "pdf": {
                   "link": "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/ArmonizacionContable/TituloLGCG/2025/3erTrim/pdf/i.pdf",
                   "version": "20260423"
-                },
-                "xls": {
-                  "link": "",
-                  "version": ""
-                }
-              }
-            ]
-          },
-          {
-            "titulo": "Información Complementaria",
-            "botoncontenido": [
-              {
-                "subtitulo": "Calendario de Egresos",
-                "pdf": {
-                  "link": "",
-                  "version": ""
-                },
-                "xls": {
-                  "link": "",
-                  "version": ""
-                }
-              },
-              {
-                "subtitulo": "Calendario de Ingresos",
-                "pdf": {
-                  "link": "",
-                  "version": ""
-                },
-                "xls": {
-                  "link": "",
-                  "version": ""
-                }
-              },
-              {
-                "subtitulo": "Presupuesto de Egresos",
-                "pdf": {
-                  "link": "",
-                  "version": ""
-                },
-                "xls": {
-                  "link": "",
-                  "version": ""
-                }
-              },
-              {
-                "subtitulo": "Presupuesto de Ingresos",
-                "pdf": {
-                  "link": "",
-                  "version": ""
                 },
                 "xls": {
                   "link": "",
