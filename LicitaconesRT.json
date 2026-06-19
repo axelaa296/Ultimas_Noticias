@@ -89,22 +89,10 @@
                                 "subtitulo" : "Acta de Presentación y Apertura de Propuestas",
                                 "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Nacional/2025/LIC-RTH-001-2025/APerturaP.pdf",
                                 "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "Acta de Fallo",
-                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Nacional/2025/LIC-RTH-001-2025/AFallo.pdf ",
-                                "xml" : ""
                             }
                         ]
                     }
                 ]
-            },
-            {
-                "tipoLicitacion" : "Licitación Internacional",
-                "nombreLicitacion" : "Licitación Internacional 2025",
-                "contenido" : [
-    
-                ] 
             },
             {
                 "tipoLicitacion" : "Invitación a Cuando Menos 3 Personas",
@@ -128,11 +116,6 @@
         
                                 "subtitulo" : "Acta de Presentación y Apertura de Propuestas",
                                 "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-001-2025/APerturaP.pdf",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "Acta de Fallo",
-                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-001-2025/AFallo.pdf ",
                                 "xml" : ""
                             }
                         ]
@@ -160,11 +143,6 @@
         
                                 "subtitulo" : "Acta de Presentación y Apertura de Propuestas",
                                 "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-002-2025/APerturaP.pdf",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "Acta de Fallo",
-                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2025/RTH-ICTP-002-2025/AFallo.pdf",
                                 "xml" : ""
                             }
                         ]
@@ -227,21 +205,10 @@
                                 "subtitulo" : "Acta de Presentación y Apertura de Propuestas",
                                 "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Nacional/2024/LIC-RTH-001-2024/APerturaP.pdf",
                                 "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "Acta de Fallo",
-                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/Nacional/2024/LIC-RTH-001-2024/AFallo.pdf ",
-                                "xml" : ""
                             }
                         ]
                     }
                 ]
-            },
-            {
-                "tipoLicitacion" : "Licitación Internacional",
-                "nombreLicitacion" : "Licitación Internacional 2024",
-                "contenido" : [
-                ] 
             },
             {
                 "tipoLicitacion" : "Invitación a Cuando Menos 3 Personas",
@@ -291,11 +258,6 @@
                             {
                                 "subtitulo" : "Acta de Presentación y Apertura de Propuestas",
                                 "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2024/RTH-ICTP-002-2024/APerturaP.pdf",
-                                "xml" : ""
-                            },
-                            {
-                                "subtitulo" : "Acta de Fallo",
-                                "pdf" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/Licitaciones/I3/2024/RTH-ICTP-002-2024/AFallo.pdf",
                                 "xml" : ""
                             }
                         ]
