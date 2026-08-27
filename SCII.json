@@ -106,5 +106,20 @@
                 ]
             }
         ]
+    },
+    {
+        "categoria" : "COCODI",
+        "subcategoria" : [
+            
+            {
+                "titulo" : "Acuerdo COCODi",
+                "anos" : [
+                    {
+                        "ano" : "2026",
+                        "link" : "https://transparenciadocs.hidalgo.gob.mx/ENTIDADES/RadioTVH/dir1/Transparencia/COCODI/AcuerdoCOCODI.pdf"
+                    }
+                ]
+            }
+        ]
     }
 ]
